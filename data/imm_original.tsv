@@ -1,0 +1,1621 @@
+ENPs	dT	L	Shape	Surface functionalization	Zeta Potential (mV)	Surface Area	Animal(Rat/Mouse)	Gender	M.A	M.W	Method	E.D	E.T	R.D	Dose
+TiO2	290	290	sphere	-	-6.70 	57.13	Rat	male	7	279	intratracheal instillation	0	1	2	4
+MWCNT	88	5000	tube	-	-11.00 	152	Rat	male	8	262.2	intratracheal instillation	0	1	1	0.16
+MWCNT	88	5000	tube	-	-11.00 	152	Rat	male	8	262.2	intratracheal instillation	0	1	7	0.16
+MWCNT	88	5000	tube	-	-11.00 	152	Rat	male	8	262.2	intratracheal instillation	0	1	28	0.16
+MWCNT	88	5000	tube	-	-11.00 	152	Rat	male	8	262.2	intratracheal instillation	0	1	91	0.16
+MWCNT	88	5000	tube	-	-11.00 	152	Rat	male	8	262.2	intratracheal instillation	0	1	1	0.64
+MWCNT	88	5000	tube	-	-11.00 	152	Rat	male	8	262.2	intratracheal instillation	0	1	7	0.64
+MWCNT	88	5000	tube	-	-11.00 	152	Rat	male	8	262.2	intratracheal instillation	0	1	28	0.64
+MWCNT	88	5000	tube	-	-11.00 	152	Rat	male	8	262.2	intratracheal instillation	0	1	91	0.64
+Ag	20	20	sphere	citrate	-42.50 	5	Mouse	male	6	31	intratracheal instillation	0	1	0.167	0.32
+Ag	20	20	sphere	citrate	-42.50 	5	Mouse	male	6	31	intratracheal instillation	0	1	1	0.32
+TiO2	25	25	sphere	-	-16.90 	57	Rat	male	8	187.5	intratracheal instillation	0	1	0.167	0.872
+TiO2	25	25	sphere	-	-16.90 	57	Rat	male	8	187.5	intratracheal instillation	0	1	0.333	0.872
+TiO2	25	25	sphere	-	-16.90 	57	Rat	male	8	187.5	intratracheal instillation	0	1	1	0.209
+TiO2	25	25	sphere	-	-16.90 	57	Rat	male	8	187.5	intratracheal instillation	0	1	1	0.872
+TiO2	25	25	sphere	-	-16.90 	57	Rat	male	8	187.5	intratracheal instillation	0	1	7	0.872
+Fe2O3	35	35	sphere	-	-16.90 	39	Mouse	female	7	20	intratracheal instillation	0	1	2	12.5
+Fe2O3	35	35	sphere	-	-16.90 	39	Mouse	female	7	20	intratracheal instillation	0	1	2	18.75
+Fe2O3	35	35	sphere	-	-16.90 	39	Mouse	female	7	20	intratracheal instillation	0	1	2	25
+Fe2O3	35	35	sphere	-	-16.90 	39	Mouse	female	7	20	intratracheal instillation	12	4	2	25
+Fe2O3	147	147	sphere	-	-16.90 	6	Mouse	female	7	20	intratracheal instillation	0	1	2	12.5
+Fe2O3	147	147	sphere	-	-16.90 	6	Mouse	female	7	20	intratracheal instillation	0	1	2	18.75
+Fe2O3	147	147	sphere	-	-16.90 	6	Mouse	female	7	20	intratracheal instillation	0	1	2	25
+Fe2O3	147	147	sphere	-	-16.90 	6	Mouse	female	7	20	intratracheal instillation	12	4	2	25
+Fe2O3	147	147	sphere	-	-16.90 	6	Mouse	female	7	20	intratracheal instillation	12	4	1	5
+Fe2O3	147	147	sphere	-	-16.90 	6	Mouse	female	7	20	intratracheal instillation	12	4	1	12.5
+Fe2O3	147	147	sphere	-	-16.90 	6	Mouse	female	7	20	intratracheal instillation	12	4	1	25
+Fe2O3	35	35	sphere	-	-16.90 	39	Mouse	female	7	20	intratracheal instillation	12	4	1	5
+Fe2O3	35	35	sphere	-	-16.90 	39	Mouse	female	7	20	intratracheal instillation	12	4	1	12.5
+Fe2O3	35	35	sphere	-	-16.90 	39	Mouse	female	7	20	intratracheal instillation	12	4	1	25
+GO	2500	2	sheet	-	-49.70 	374.5	Mouse	female	7	19.7	intratracheal instillation	0	1	1	0.91
+GO	2500	2	sheet	-	-49.70 	374.5	Mouse	female	7	19.7	intratracheal instillation	0	1	1	2.74
+GO	2500	2	sheet	-	-49.70 	374.5	Mouse	female	7	19.7	intratracheal instillation	0	1	1	8.22
+rGO	1500	2	sheet	-	-13.90 	180	Mouse	female	7	19.7	intratracheal instillation	0	1	1	0.91
+rGO	1500	2	sheet	-	-13.90 	180	Mouse	female	7	19.7	intratracheal instillation	0	1	1	2.74
+rGO	1500	2	sheet	-	-13.90 	180	Mouse	female	7	19.7	intratracheal instillation	0	1	1	8.22
+CB	9	9	sphere	-	-3.70 	254	Mouse	female	7	19.7	intratracheal instillation	0	1	1	8.22
+GO	2500	2	sheet	-	-49.70 	374.5	Mouse	female	7	19.7	intratracheal instillation	0	1	3	0.91
+GO	2500	2	sheet	-	-49.70 	374.5	Mouse	female	7	19.7	intratracheal instillation	0	1	3	2.74
+GO	2500	2	sheet	-	-49.70 	374.5	Mouse	female	7	19.7	intratracheal instillation	0	1	3	8.22
+rGO	1500	2	sheet	-	-13.90 	180	Mouse	female	7	19.7	intratracheal instillation	0	1	3	0.91
+rGO	1500	2	sheet	-	-13.90 	180	Mouse	female	7	19.7	intratracheal instillation	0	1	3	2.74
+rGO	1500	2	sheet	-	-13.90 	180	Mouse	female	7	19.7	intratracheal instillation	0	1	3	8.22
+CB	9	9	sphere	-	-3.70 	254	Mouse	female	7	19.7	intratracheal instillation	0	1	3	8.22
+GO	2500	2	sheet	-	-49.70 	374.5	Mouse	female	7	19.7	intratracheal instillation	0	1	28	0.91
+GO	2500	2	sheet	-	-49.70 	374.5	Mouse	female	7	19.7	intratracheal instillation	0	1	28	2.74
+GO	2500	2	sheet	-	-49.70 	374.5	Mouse	female	7	19.7	intratracheal instillation	0	1	28	8.22
+rGO	1500	2	sheet	-	-13.90 	180	Mouse	female	7	19.7	intratracheal instillation	0	1	28	0.91
+rGO	1500	2	sheet	-	-13.90 	180	Mouse	female	7	19.7	intratracheal instillation	0	1	28	2.74
+rGO	1500	2	sheet	-	-13.90 	180	Mouse	female	7	19.7	intratracheal instillation	0	1	28	8.22
+CB	9	9	sphere	-	-3.70 	254	Mouse	female	7	19.7	intratracheal instillation	0	1	28	8.22
+GO	2500	2	sheet	-	-49.70 	374.5	Mouse	female	7	19.7	intratracheal instillation	0	1	90	0.91
+GO	2500	2	sheet	-	-49.70 	374.5	Mouse	female	7	19.7	intratracheal instillation	0	1	90	2.74
+GO	2500	2	sheet	-	-49.70 	374.5	Mouse	female	7	19.7	intratracheal instillation	0	1	90	8.22
+rGO	1500	2	sheet	-	-13.90 	180	Mouse	female	7	19.7	intratracheal instillation	0	1	90	0.91
+rGO	1500	2	sheet	-	-13.90 	180	Mouse	female	7	19.7	intratracheal instillation	0	1	90	2.74
+rGO	1500	2	sheet	-	-13.90 	180	Mouse	female	7	19.7	intratracheal instillation	0	1	90	8.22
+CB	9	9	sphere	-	-3.70 	254	Mouse	female	7	19.7	intratracheal instillation	0	1	90	8.22
+TiO2	24	24	sphere	-	-34.40 	53	Mouse	male	7	22.5	OPA	0	1	1	1.6
+TiO2	24	24	sphere	-	-34.40 	53	Mouse	male	7	22.5	OPA	0	1	1	1.6
+TiO2	24	24	sphere	-	-34.40 	53	Mouse	male	7	22.5	OPA	0	1	1	1.6
+TiO2	24	24	sphere	-	-34.40 	53	Mouse	male	7	22.5	OPA	0	1	1	1.6
+TiO2	28	28	sphere	-	-30.70 	173	Mouse	male	7	22.5	OPA	0	1	1	1.6
+TiO2	28	28	sphere	-	-30.70 	173	Mouse	male	7	22.5	OPA	0	1	1	1.6
+TiO2	28	28	sphere	-	-30.70 	173	Mouse	male	7	22.5	OPA	0	1	1	1.6
+TiO2	28	28	sphere	-	-30.70 	173	Mouse	male	7	22.5	OPA	0	1	1	1.6
+TiO2	200	7000	belt	-	-30.30 	18	Mouse	male	7	22.5	OPA	0	1	1	1.6
+TiO2	200	7000	belt	-	-30.30 	18	Mouse	male	7	22.5	OPA	0	1	1	1.6
+TiO2	200	7000	belt	-	-30.30 	18	Mouse	male	7	22.5	OPA	0	1	1	1.6
+TiO2	200	7000	belt	-	-30.30 	18	Mouse	male	7	22.5	OPA	0	1	1	1.6
+MWCNT	25	7500	tube	-	-12.10 	180	Mouse	male	7	22.5	OPA	0	1	1	1.6
+MWCNT	25	7500	tube	-	-12.10 	180	Mouse	male	7	22.5	OPA	0	1	1	1.6
+MWCNT	25	7500	tube	-	-12.10 	180	Mouse	male	7	22.5	OPA	0	1	1	1.6
+MWCNT	25	7500	tube	-	-12.10 	180	Mouse	male	7	22.5	OPA	0	1	1	1.6
+MWCNT	25	7500	tube	-	-11.80 	513	Mouse	male	7	22.5	OPA	0	1	1	1.6
+MWCNT	25	7500	tube	-	-11.80 	513	Mouse	male	7	22.5	OPA	0	1	1	1.6
+MWCNT	25	7500	tube	-	-11.80 	513	Mouse	male	7	22.5	OPA	0	1	1	1.6
+MWCNT	25	7500	tube	-	-11.80 	513	Mouse	male	7	22.5	OPA	0	1	1	1.6
+MWCNT	25	7500	tube	COOH	-48.40 	26	Mouse	male	7	22.5	OPA	0	1	1	1.6
+MWCNT	25	7500	tube	COOH	-48.40 	26	Mouse	male	7	22.5	OPA	0	1	1	1.6
+MWCNT	25	7500	tube	COOH	-48.40 	26	Mouse	male	7	22.5	OPA	0	1	1	1.6
+MWCNT	25	7500	tube	COOH	-48.40 	26	Mouse	male	7	22.5	OPA	0	1	1	1.6
+TiO2	24	24	sphere	-	-34.40 	53	Rat	male	9	385	intratracheal instillation	0	1	1	0.05
+TiO2	24	24	sphere	-	-34.40 	53	Rat	male	9	385	intratracheal instillation	0	1	1	0.175
+TiO2	24	24	sphere	-	-34.40 	53	Rat	male	9	385	intratracheal instillation	0	1	1	0.5
+TiO2	24	24	sphere	-	-34.40 	53	Rat	male	9	385	intratracheal instillation	0	1	1	0.05
+TiO2	24	24	sphere	-	-34.40 	53	Rat	male	9	385	intratracheal instillation	0	1	1	0.175
+TiO2	24	24	sphere	-	-34.40 	53	Rat	male	9	385	intratracheal instillation	0	1	1	0.5
+TiO2	28	28	sphere	-	-30.70 	173	Rat	male	9	385	intratracheal instillation	0	1	1	0.05
+TiO2	28	28	sphere	-	-30.70 	173	Rat	male	9	385	intratracheal instillation	0	1	1	0.175
+TiO2	28	28	sphere	-	-30.70 	173	Rat	male	9	385	intratracheal instillation	0	1	1	0.5
+TiO2	28	28	sphere	-	-30.70 	173	Rat	male	9	385	intratracheal instillation	0	1	1	0.05
+TiO2	28	28	sphere	-	-30.70 	173	Rat	male	9	385	intratracheal instillation	0	1	1	0.175
+TiO2	28	28	sphere	-	-30.70 	173	Rat	male	9	385	intratracheal instillation	0	1	1	0.5
+TiO2	200	7000	belt	-	-30.30 	18	Rat	male	9	385	intratracheal instillation	0	1	1	0.05
+TiO2	200	7000	belt	-	-30.30 	18	Rat	male	9	385	intratracheal instillation	0	1	1	0.175
+TiO2	200	7000	belt	-	-30.30 	18	Rat	male	9	385	intratracheal instillation	0	1	1	0.5
+TiO2	200	7000	belt	-	-30.30 	18	Rat	male	9	385	intratracheal instillation	0	1	1	0.05
+TiO2	200	7000	belt	-	-30.30 	18	Rat	male	9	385	intratracheal instillation	0	1	1	0.175
+TiO2	200	7000	belt	-	-30.30 	18	Rat	male	9	385	intratracheal instillation	0	1	1	0.5
+TiO2	200	7000	belt	-	-30.30 	18	Rat	male	9	385	intratracheal instillation	0	1	1	0.05
+TiO2	200	7000	belt	-	-30.30 	18	Rat	male	9	385	intratracheal instillation	0	1	1	0.175
+TiO2	200	7000	belt	-	-30.30 	18	Rat	male	9	385	intratracheal instillation	0	1	1	0.5
+MWCNT	25	7500	tube	-	-12.10 	180	Rat	male	9	385	intratracheal instillation	0	1	1	0.025
+MWCNT	25	7500	tube	-	-12.10 	180	Rat	male	9	385	intratracheal instillation	0	1	1	0.125
+MWCNT	25	7500	tube	-	-12.10 	180	Rat	male	9	385	intratracheal instillation	0	1	1	0.5
+MWCNT	25	7500	tube	-	-12.10 	180	Rat	male	9	385	intratracheal instillation	0	1	1	0.025
+MWCNT	25	7500	tube	-	-12.10 	180	Rat	male	9	385	intratracheal instillation	0	1	1	0.125
+MWCNT	25	7500	tube	-	-12.10 	180	Rat	male	9	385	intratracheal instillation	0	1	1	0.5
+MWCNT	25	7500	tube	-	-12.10 	180	Rat	male	9	385	intratracheal instillation	0	1	1	0.025
+MWCNT	25	7500	tube	-	-12.10 	180	Rat	male	9	385	intratracheal instillation	0	1	1	0.125
+MWCNT	25	7500	tube	-	-12.10 	180	Rat	male	9	385	intratracheal instillation	0	1	1	0.5
+MWCNT	25	7500	tube	-	-11.80 	513	Rat	male	9	385	intratracheal instillation	0	1	1	0.025
+MWCNT	25	7500	tube	-	-11.80 	513	Rat	male	9	385	intratracheal instillation	0	1	1	0.125
+MWCNT	25	7500	tube	-	-11.80 	513	Rat	male	9	385	intratracheal instillation	0	1	1	0.5
+MWCNT	25	7500	tube	-	-11.80 	513	Rat	male	9	385	intratracheal instillation	0	1	1	0.025
+MWCNT	25	7500	tube	-	-11.80 	513	Rat	male	9	385	intratracheal instillation	0	1	1	0.125
+MWCNT	25	7500	tube	-	-11.80 	513	Rat	male	9	385	intratracheal instillation	0	1	1	0.5
+MWCNT	25	7500	tube	-	-11.80 	513	Rat	male	9	385	intratracheal instillation	0	1	1	0.025
+MWCNT	25	7500	tube	-	-11.80 	513	Rat	male	9	385	intratracheal instillation	0	1	1	0.125
+MWCNT	25	7500	tube	-	-11.80 	513	Rat	male	9	385	intratracheal instillation	0	1	1	0.5
+MWCNT	25	7500	tube	COOH	-48.40 	26	Mouse	male	9	22.5	intratracheal instillation	0	1	1	0.025
+MWCNT	25	7500	tube	COOH	-48.40 	26	Mouse	male	9	22.5	intratracheal instillation	0	1	1	0.125
+MWCNT	25	7500	tube	COOH	-48.40 	26	Mouse	male	9	22.5	intratracheal instillation	0	1	1	0.5
+MWCNT	25	7500	tube	COOH	-48.40 	26	Mouse	male	9	22.5	intratracheal instillation	0	1	1	0.025
+MWCNT	25	7500	tube	COOH	-48.40 	26	Mouse	male	9	22.5	intratracheal instillation	0	1	1	0.125
+MWCNT	25	7500	tube	COOH	-48.40 	26	Mouse	male	9	22.5	intratracheal instillation	0	1	1	0.5
+MWCNT	25	7500	tube	COOH	-48.40 	26	Mouse	male	9	22.5	intratracheal instillation	0	1	1	0.025
+MWCNT	25	7500	tube	COOH	-48.40 	26	Mouse	male	9	22.5	intratracheal instillation	0	1	1	0.125
+MWCNT	25	7500	tube	COOH	-48.40 	26	Mouse	male	9	22.5	intratracheal instillation	0	1	1	0.5
+CB	21.1	21.1	sphere	-	-3.70 	254	Mouse	male	9	27	intratracheal instillation	0	1	1	0.05
+CB	21.1	21.1	sphere	-	-3.70 	254	Mouse	male	9	27	intratracheal instillation	0	1	1	0.5
+Ag	14	14	sphere	-	-32.50 	5	Mouse	male	9	27	intratracheal instillation	0	1	1	0.05
+Ag	14	14	sphere	-	-32.50 	5	Mouse	male	9	27	intratracheal instillation	0	1	1	0.5
+CB	21.1	21.1	sphere	-	-3.70 	254	Mouse	male	9	27	intratracheal instillation	0	1	3	0.5
+Ag	14	14	sphere	-	-32.50 	5	Mouse	male	9	27	intratracheal instillation	0	1	3	0.5
+CB	21.1	21.1	sphere	-	-3.70 	254	Mouse	male	9	27	intratracheal instillation	0	1	7	0.5
+Ag	14	14	sphere	-	-32.50 	5	Mouse	male	9	27	intratracheal instillation	0	1	7	0.5
+NiO	50	50	sphere	-	-1.90 	91.8	Rat	male	8	240	intratracheal instillation	0	1	3	3.3
+NiO	50	50	sphere	-	-1.90 	91.8	Rat	male	8	240	intratracheal instillation	0	1	7	3.3
+NiO	50	50	sphere	-	-1.90 	91.8	Rat	male	8	240	intratracheal instillation	0	1	28	3.3
+CNF	17.5	650	fiber	-	69.50 	40	Mouse	female	8	20	PA	0	1	1	0.5
+CNF	17.5	650	fiber	-	69.50 	40	Mouse	female	8	20	PA	0	1	1	2
+CNF	17.5	650	fiber	-	69.50 	40	Mouse	female	8	20	PA	0	1	1	4
+CNF	17.5	650	fiber	-	69.50 	40	Mouse	female	8	20	PA	0	1	1	10
+ZnO	71	350	pillar	-	-19.30 	14.7	Mouse	male	8	30	intratracheal instillation	0	1	2	2.67
+ZnO	71	350	pillar	-	-19.30 	14.7	Mouse	male	8	30	intratracheal instillation	0	1	7	2.67
+ZnO	71	350	pillar	-	-19.30 	14.7	Mouse	male	8	30	intratracheal instillation	0	1	14	2.67
+ZnO	71	350	pillar	-	-19.30 	14.7	Mouse	male	8	30	intratracheal instillation	0	1	28	2.67
+CNP	9.5	9.5	sphere	-	-11.00 	800	Mouse	female	9	20	intratracheal instillation	0	1	0.125	1
+CNP	9.5	9.5	sphere	-	-11.00 	800	Mouse	female	9	20	intratracheal instillation	0	1	0.25	1
+CNP	9.5	9.5	sphere	-	-11.00 	800	Mouse	female	9	20	intratracheal instillation	0	1	0.5	1
+CNP	9.5	9.5	sphere	-	-11.00 	800	Mouse	female	9	20	intratracheal instillation	0	1	0.75	1
+CNP	9.5	9.5	sphere	-	-11.00 	800	Mouse	female	9	20	intratracheal instillation	0	1	1	1
+CNP	9.5	9.5	sphere	-	-11.00 	800	Mouse	female	9	20	intratracheal instillation	0	1	3	1
+CNP	9.5	9.5	sphere	-	-11.00 	800	Mouse	female	9	20	intratracheal instillation	0	1	7	1
+NiO	5.3	5.3	sphere	-	-21.00 	91.8	Rat	female	6	225	intratracheal instillation	0	1	1	0.727
+Co3O4	18.4	18.4	sphere	-	-21.60 	35.8	Rat	female	6	225	intratracheal instillation	0	1	1	1.862
+Cr2O3	205	205	sphere	-	-28.30 	74.42	Rat	female	6	225	intratracheal instillation	0	1	1	0.896
+CuO	23.1	23.1	sphere	-	-25.30 	29	Rat	female	6	225	intratracheal instillation	0	1	1	2.289
+NiO	5.3	5.3	sphere	-	-21.00 	91.8	Rat	female	6	225	intratracheal instillation	0	1	28	0.727
+Co3O4	18.4	18.4	sphere	-	-21.60 	35.8	Rat	female	6	225	intratracheal instillation	0	1	28	1.862
+Cr2O3	205	205	sphere	-	-28.30 	74.42	Rat	female	6	225	intratracheal instillation	0	1	28	0.896
+CuO	23.1	23.1	sphere	-	-25.30 	29	Rat	female	6	225	intratracheal instillation	0	1	28	2.289
+ZnO	10.7	10.7	sphere	-	-27.10 	48.2	Rat	female	6	225	intratracheal instillation	0	1	1	0.458
+ZnO	10.7	10.7	sphere	-	-27.10 	48.2	Rat	female	6	225	intratracheal instillation	0	1	7	0.458
+ZnO	10.7	10.7	sphere	-	-27.10 	48.2	Rat	female	6	225	intratracheal instillation	0	1	28	0.458
+ZnO	10.7	10.7	sphere	-	-27.10 	48.2	Rat	female	6	225	intratracheal instillation	0	1	1	1.378
+ZnO	10.7	10.7	sphere	-	-27.10 	48.2	Rat	female	6	225	intratracheal instillation	0	1	7	1.378
+ZnO	10.7	10.7	sphere	-	-27.10 	48.2	Rat	female	6	225	intratracheal instillation	0	1	28	1.378
+ZnO	137	137	sphere	-	-25.90 	50	Rat	female	6	225	intratracheal instillation	0	1	1	1.378
+NiO	15	15	sphere	-	-26.00 	91.8	Rat	female	6	225	intratracheal instillation	0	1	1	0.727
+ZnO	10	10	sphere	-	-27.10 	48.2	Rat	female	6	225	intratracheal instillation	0	1	1	1.378
+CuO	50	50	sphere	-	-26.70 	29	Rat	female	6	225	intratracheal instillation	0	1	1	2.289
+NiO	15	15	sphere	-	-26.00 	91.8	Rat	female	6	225	intratracheal instillation	0	1	28	0.727
+ZnO	10	10	sphere	-	-27.10 	48.2	Rat	female	6	225	intratracheal instillation	0	1	28	1.378
+CuO	50	50	sphere	-	-26.70 	29	Rat	female	6	225	intratracheal instillation	0	1	28	2.289
+CeO2	25	25	sphere	-	-32.40 	24.1	Rat	female	8	225	intratracheal instillation	0	1	1	0.924
+CeO2	25	25	sphere	-	-32.40 	24.1	Rat	female	8	225	intratracheal instillation	0	1	1	2.778
+TiO2	35	35	sphere	-	-28.50 	27.5	Rat	female	8	225	intratracheal instillation	0	1	1	0.809
+TiO2	35	35	sphere	-	-28.50 	27.5	Rat	female	8	225	intratracheal instillation	0	1	1	2.422
+CB	14	14	sphere	-	-25.00 	254	Rat	female	8	225	intratracheal instillation	0	1	1	0.088
+CB	14	14	sphere	-	-25.00 	254	Rat	female	8	225	intratracheal instillation	0	1	1	0.262
+SiO2	10	10	sphere	-	-12.90 	523.4	Rat	female	8	225	intratracheal instillation	0	1	1	0.037
+SiO2	10	10	sphere	-	-12.90 	523.4	Rat	female	8	225	intratracheal instillation	0	1	1	0.111
+NiO	15	15	sphere	-	-26.00 	91.8	Rat	female	8	225	intratracheal instillation	0	1	1	0.242
+NiO	15	15	sphere	-	-26.00 	91.8	Rat	female	8	225	intratracheal instillation	0	1	1	0.727
+ZnO	10	10	sphere	-	-27.10 	48.2	Rat	female	8	225	intratracheal instillation	0	1	1	0.458
+ZnO	10	10	sphere	-	-27.10 	48.2	Rat	female	8	225	intratracheal instillation	0	1	1	1.378
+CuO	50	50	sphere	-	-26.70 	29	Rat	female	8	225	intratracheal instillation	0	1	1	0.764
+CuO	50	50	sphere	-	-26.70 	29	Rat	female	8	225	intratracheal instillation	0	1	1	2.289
+polystyrene	36	36	sphere	-	40.30 	89	Rat	female	8	225	intratracheal instillation	0	1	1	0.139
+polystyrene	36	36	sphere	-	40.30 	89	Rat	female	8	225	intratracheal instillation	0	1	1	0.418
+CeO2	25	25	sphere	-	-32.40 	24.1	Rat	female	8	225	intratracheal instillation	0	1	28	0.924
+CeO2	25	25	sphere	-	-32.40 	24.1	Rat	female	8	225	intratracheal instillation	0	1	28	2.778
+NiO	15	15	sphere	-	-26.00 	91.8	Rat	female	8	225	intratracheal instillation	0	1	28	0.242
+NiO	15	15	sphere	-	-26.00 	91.8	Rat	female	8	225	intratracheal instillation	0	1	28	0.727
+ZnO	10	10	sphere	-	-27.10 	48.2	Rat	female	8	225	intratracheal instillation	0	1	28	0.458
+ZnO	10	10	sphere	-	-27.10 	48.2	Rat	female	8	225	intratracheal instillation	0	1	28	1.378
+CuO	50	50	sphere	-	-26.70 	29	Rat	female	8	225	intratracheal instillation	0	1	28	0.764
+CuO	50	50	sphere	-	-26.70 	29	Rat	female	8	225	intratracheal instillation	0	1	28	2.289
+ZnO	50	50	sphere	-	-16.90 	10.8	Rat	male	8	225	intratracheal instillation	0	1	0.25	36.36
+ZnO	50	50	sphere	-	-16.90 	10.8	Rat	male	8	225	intratracheal instillation	0	1	1	36.36
+ZnO	50	50	sphere	-	-16.90 	10.8	Rat	male	8	225	intratracheal instillation	0	1	2	36.36
+ZnO	50	50	sphere	-	-16.90 	10.8	Rat	male	8	225	intratracheal instillation	0	1	3	36.36
+MWCNT	255.2182	1209.28833	tube	-	-11.00 	152	Mouse	male	8	25	OPA	0	1	1	4
+MWCNT	255.2182	1209.28833	tube	-	-11.00 	152	Mouse	male	8	25	OPA	0	1	28	4
+MWCNT	220.66682	343.03588	tube	ZnO	-11.00 	152	Mouse	male	8	25	OPA	0	1	1	10
+MWCNT	220.66682	343.03588	tube	ZnO	-11.00 	152	Mouse	male	8	25	OPA	0	1	28	10
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	8	25	OPA	0	1	7	0.2
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	8	25	OPA	0	1	7	0.8
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	8	25	OPA	0	1	1	1.6
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	8	25	OPA	0	1	3	1.6
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	8	25	OPA	0	1	7	1.6
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	8	25	OPA	0	1	14	1.6
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	7	24	OPA	0	1	1	0.42
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	7	24	OPA	0	1	1	0.83
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	7	24	OPA	0	1	1	1.67
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	7	24	OPA	0	1	7	0.42
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	7	24	OPA	0	1	7	0.83
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	7	24	OPA	0	1	7	1.67
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	7	24	OPA	0	1	28	0.42
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	7	24	OPA	0	1	28	0.83
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	7	24	OPA	0	1	28	1.67
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	7	24	OPA	0	1	56	0.42
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	7	24	OPA	0	1	56	0.83
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	7	24	OPA	0	1	56	1.67
+SWCNT	1.8	400	tube	-	-27.60 	878	Rat	male	7	279	intratracheal instillation	0	1	7	1
+SWCNT	1.8	2770	tube	-	-27.60 	878	Rat	male	7	279	intratracheal instillation	0	1	7	1
+SWCNT	1.8	400	tube	-	-27.60 	878	Rat	male	7	279	intratracheal instillation	0	1	28	1
+SWCNT	1.8	2770	tube	-	-27.60 	878	Rat	male	7	279	intratracheal instillation	0	1	28	1
+SWCNT	1.8	400	tube	-	-27.60 	878	Rat	male	7	279	intratracheal instillation	0	1	91	1
+SWCNT	1.8	2770	tube	-	-27.60 	878	Rat	male	7	279	intratracheal instillation	0	1	91	1
+SWCNT	1.8	400	tube	-	-27.60 	878	Rat	male	7	279	intratracheal instillation	0	1	182	1
+SWCNT	1.8	2770	tube	-	-27.60 	878	Rat	male	7	279	intratracheal instillation	0	1	182	1
+MWCNT	49	3900	tube	-	-11.00 	152	Mouse	male	10	27	OPA	0	1	7	1.48
+MWCNT	49	3900	tube	-	-11.00 	152	Mouse	female	10	20	OPA	0	1	7	2
+MWCNT	49	3900	tube	-	-11.00 	152	Mouse	female	10	20	OPA	0	1	28	2
+SWCNT	23	510	tube	-	-27.60 	1064	Rat	male	9	220	intratracheal instillation	0	1	1	0.18
+SWCNT	23	510	tube	-	-27.60 	1064	Rat	male	9	220	intratracheal instillation	0	1	3	0.18
+SWCNT	23	510	tube	-	-27.60 	1064	Rat	male	9	220	intratracheal instillation	0	1	7	0.18
+SWCNT	23	510	tube	-	-27.60 	1064	Rat	male	9	220	intratracheal instillation	0	1	30	0.18
+SWCNT	23	510	tube	-	-27.60 	1064	Rat	male	9	220	intratracheal instillation	0	1	90	0.18
+SWCNT	23	510	tube	-	-27.60 	1064	Rat	male	9	220	intratracheal instillation	0	1	1	1.8
+SWCNT	23	510	tube	-	-27.60 	1064	Rat	male	9	220	intratracheal instillation	0	1	3	1.8
+SWCNT	23	510	tube	-	-27.60 	1064	Rat	male	9	220	intratracheal instillation	0	1	7	1.8
+SWCNT	23	510	tube	-	-27.60 	1064	Rat	male	9	220	intratracheal instillation	0	1	30	1.8
+SWCNT	23	510	tube	-	-27.60 	1064	Rat	male	9	220	intratracheal instillation	0	1	90	1.8
+SWCNT	95	1670	tube	-	-29.90 	1064	Rat	male	9	220	intratracheal instillation	0	1	1	0.18
+SWCNT	95	1670	tube	-	-29.90 	1064	Rat	male	9	220	intratracheal instillation	0	1	3	0.18
+SWCNT	95	1670	tube	-	-29.90 	1064	Rat	male	9	220	intratracheal instillation	0	1	7	0.18
+SWCNT	95	1670	tube	-	-29.90 	1064	Rat	male	9	220	intratracheal instillation	0	1	30	0.18
+SWCNT	95	1670	tube	-	-29.90 	1064	Rat	male	9	220	intratracheal instillation	0	1	90	0.18
+SWCNT	95	1670	tube	-	-27.60 	1064	Rat	male	9	220	intratracheal instillation	0	1	1	1.8
+SWCNT	95	1670	tube	-	-27.60 	1064	Rat	male	9	220	intratracheal instillation	0	1	3	1.8
+SWCNT	95	1670	tube	-	-27.60 	1064	Rat	male	9	220	intratracheal instillation	0	1	7	1.8
+SWCNT	95	1670	tube	-	-27.60 	1064	Rat	male	9	220	intratracheal instillation	0	1	30	1.8
+SWCNT	95	1670	tube	-	-27.60 	1064	Rat	male	9	220	intratracheal instillation	0	1	90	1.8
+SWCNT	1.9	500	tube	-	-27.60 	1040	Rat	male	9	220	intratracheal instillation	0	1	1	0.15
+SWCNT	1.9	500	tube	-	-27.60 	1040	Rat	male	9	220	intratracheal instillation	0	1	3	0.15
+SWCNT	1.9	500	tube	-	-27.60 	1040	Rat	male	9	220	intratracheal instillation	0	1	7	0.15
+SWCNT	1.9	500	tube	-	-27.60 	1040	Rat	male	9	220	intratracheal instillation	0	1	30	0.15
+SWCNT	1.9	500	tube	-	-27.60 	1040	Rat	male	9	220	intratracheal instillation	0	1	90	0.15
+SWCNT	1.9	500	tube	-	-27.60 	1040	Rat	male	9	220	intratracheal instillation	0	1	1	1.5
+SWCNT	1.9	500	tube	-	-27.60 	1040	Rat	male	9	220	intratracheal instillation	0	1	3	1.5
+SWCNT	1.9	500	tube	-	-27.60 	1040	Rat	male	9	220	intratracheal instillation	0	1	7	1.5
+SWCNT	1.9	500	tube	-	-27.60 	1040	Rat	male	9	220	intratracheal instillation	0	1	30	1.5
+SWCNT	1.9	500	tube	-	-27.60 	1040	Rat	male	9	220	intratracheal instillation	0	1	90	1.5
+MWCNT	80	1810	tube	-	-11.00 	23	Rat	male	9	220	intratracheal instillation	0	1	1	0.15
+MWCNT	80	1810	tube	-	-11.00 	23	Rat	male	9	220	intratracheal instillation	0	1	3	0.15
+MWCNT	80	1810	tube	-	-11.00 	23	Rat	male	9	220	intratracheal instillation	0	1	7	0.15
+MWCNT	80	1810	tube	-	-11.00 	23	Rat	male	9	220	intratracheal instillation	0	1	30	0.15
+MWCNT	80	1810	tube	-	-11.00 	23	Rat	male	9	220	intratracheal instillation	0	1	90	0.15
+MWCNT	80	1810	tube	-	-11.00 	23	Rat	male	9	220	intratracheal instillation	0	1	1	1.5
+MWCNT	80	1810	tube	-	-11.00 	23	Rat	male	9	220	intratracheal instillation	0	1	3	1.5
+MWCNT	80	1810	tube	-	-11.00 	23	Rat	male	9	220	intratracheal instillation	0	1	7	1.5
+MWCNT	80	1810	tube	-	-11.00 	23	Rat	male	9	220	intratracheal instillation	0	1	30	1.5
+MWCNT	80	1810	tube	-	-11.00 	23	Rat	male	9	220	intratracheal instillation	0	1	90	1.5
+CB	14	14	sphere	-	-3.70 	272	Mouse	female	13	25	intratracheal instillation	0	1	1	0.2
+CB	14	14	sphere	-	30.00 	272	Mouse	female	13	25	intratracheal instillation	0	1	1	0.8
+CB	14	14	sphere	-	-3.70 	272	Mouse	female	13	25	intratracheal instillation	0	1	1	2
+CB	14	14	sphere	-	30.00 	272	Mouse	female	13	25	intratracheal instillation	0	1	3	0.8
+CB	14	14	sphere	-	30.00 	272	Mouse	female	13	25	intratracheal instillation	0	1	7	0.8
+MgO	50	50	sphere	-	-16.90 	22.5	Rat	male	8	190	intratracheal instillation	0	1	1	1
+MgO	50	50	sphere	-	-16.90 	22.5	Rat	male	8	190	intratracheal instillation	0	1	7	1
+MgO	50	50	sphere	-	-16.90 	22.5	Rat	male	8	190	intratracheal instillation	0	1	30	1
+MgO	50	50	sphere	-	-16.90 	22.5	Rat	male	8	190	intratracheal instillation	0	1	1	5
+MgO	50	50	sphere	-	-16.90 	22.5	Rat	male	8	190	intratracheal instillation	0	1	7	5
+MgO	50	50	sphere	-	-16.90 	22.5	Rat	male	8	190	intratracheal instillation	0	1	30	5
+MWCNT	106	3860	tube	-	-11.30 	152	Mouse	unknow	8	25	intratracheal instillation	0	1	1	2
+MWCNT	52.5	3860	tube	-	-12.00 	152	Mouse	unknow	8	25	intratracheal instillation	0	1	1	2
+ZnO	100	100	sphere	-	-16.90 	14	Mouse	female	8	20	intratracheal instillation	0	1	1	0.05
+ZnO	100	100	sphere	-	-16.90 	14	Mouse	female	8	20	intratracheal instillation	0	1	1	0.2
+ZnO	100	100	sphere	-	-16.90 	14	Mouse	female	8	20	intratracheal instillation	0	1	1	0.4
+ZnO	100	100	sphere	-	-16.90 	14	Mouse	female	8	20	intratracheal instillation	0	1	1	0.8
+ZnO	100	100	sphere	-	-16.90 	14	Mouse	female	8	20	intratracheal instillation	0	1	1	1.6
+ZnO	100	100	sphere	-	-16.90 	14	Mouse	female	8	20	intratracheal instillation	0	1	1	3.2
+ZnO	100	100	sphere	-	-16.90 	14	Mouse	female	8	20	intratracheal instillation	0	1	1	6.4
+ZnO	130	130	sphere	triethoxycaprylylsilane	-16.90 	18	Mouse	female	8	20	intratracheal instillation	0	1	1	0.05
+ZnO	130	130	sphere	triethoxycaprylylsilane	-16.90 	18	Mouse	female	8	20	intratracheal instillation	0	1	1	0.2
+ZnO	130	130	sphere	triethoxycaprylylsilane	-16.90 	18	Mouse	female	8	20	intratracheal instillation	0	1	1	0.4
+ZnO	130	130	sphere	triethoxycaprylylsilane	-16.90 	18	Mouse	female	8	20	intratracheal instillation	0	1	1	0.8
+ZnO	130	130	sphere	triethoxycaprylylsilane	-16.90 	18	Mouse	female	8	20	intratracheal instillation	0	1	1	1.6
+ZnO	130	130	sphere	triethoxycaprylylsilane	-16.90 	18	Mouse	female	8	20	intratracheal instillation	0	1	1	3.2
+ZnO	130	130	sphere	triethoxycaprylylsilane	-16.90 	18	Mouse	female	8	20	intratracheal instillation	0	1	1	6.4
+Ag	27.5	27.5	sphere	polyoxylaurat Tween-20	-42.50 	5	Mouse	female	8	20	intratracheal instillation	0	1	1	0.05
+Ag	27.5	27.5	sphere	polyoxylaurat Tween-20	-42.50 	5	Mouse	female	8	20	intratracheal instillation	0	1	1	0.2
+Ag	27.5	27.5	sphere	polyoxylaurat Tween-20	-42.50 	5	Mouse	female	8	20	intratracheal instillation	0	1	1	0.4
+Ag	27.5	27.5	sphere	polyoxylaurat Tween-20	-42.50 	5	Mouse	female	8	20	intratracheal instillation	0	1	1	0.8
+Ag	27.5	27.5	sphere	polyoxylaurat Tween-20	-42.50 	5	Mouse	female	8	20	intratracheal instillation	0	1	1	1.6
+Ag	27.5	27.5	sphere	polyoxylaurat Tween-20	-42.50 	5	Mouse	female	8	20	intratracheal instillation	0	1	1	3.2
+Ag	27.5	27.5	sphere	polyoxylaurat Tween-20	-42.50 	5	Mouse	female	8	20	intratracheal instillation	0	1	1	6.4
+Au	50	50	sphere	-	-56.00 	5	Rat	male	8	250	intratracheal instillation	0	1	0.125	1.6
+Au	50	50	sphere	-	-56.00 	5	Rat	male	8	250	intratracheal instillation	0	1	1	1.6
+Au	250	250	sphere	-	-53.00 	5	Rat	male	8	250	intratracheal instillation	0	1	0.125	1.6
+Au	250	250	sphere	-	-53.00 	5	Rat	male	8	250	intratracheal instillation	0	1	1	1.6
+Au	50	50	sphere	-	-54.00 	5	Rat	male	8	250	intratracheal instillation	0	1	0.125	1.6
+Au	50	50	sphere	-	-54.00 	5	Rat	male	8	250	intratracheal instillation	0	1	1	1.6
+Au	250	250	sphere	-	-61.00 	5	Rat	male	8	250	intratracheal instillation	0	1	0.125	1.6
+Au	250	250	sphere	-	-61.00 	5	Rat	male	8	250	intratracheal instillation	0	1	1	1.6
+SiO2	18.3	18.3	amorphous	-	-28.40 	189	Rat	male	7	279	intratracheal instillation	1.875	3	0.125	3
+SiO2	18.3	18.3	amorphous	-	-28.40 	189	Rat	male	7	279	intratracheal instillation	1.875	3	0.125	6
+SiO2	18.3	18.3	amorphous	-	-28.40 	189	Rat	male	7	279	intratracheal instillation	1.875	3	0.125	12
+SiO2	18	18	amorphous	-	-28.40 	140	Rat	male	7	279	intratracheal instillation	1.875	3	0.125	3
+SiO2	18	18	amorphous	-	-28.40 	140	Rat	male	7	279	intratracheal instillation	1.875	3	0.125	6
+SiO2	18	18	amorphous	-	-28.40 	140	Rat	male	7	279	intratracheal instillation	1.875	3	0.125	12
+SiO2	17.7	17.7	amorphous	-	-28.40 	204	Rat	male	7	279	intratracheal instillation	1.875	3	0.125	3
+SiO2	17.7	17.7	amorphous	-	-28.40 	204	Rat	male	7	279	intratracheal instillation	1.875	3	0.125	6
+SiO2	17.7	17.7	amorphous	-	-28.40 	204	Rat	male	7	279	intratracheal instillation	1.875	3	0.125	12
+SiO2	24.7	24.7	amorphous	-	-28.40 	204	Rat	male	7	279	intratracheal instillation	1.875	3	0.125	3
+SiO2	24.7	24.7	amorphous	-	-28.40 	204	Rat	male	7	279	intratracheal instillation	1.875	3	0.125	6
+SiO2	24.7	24.7	amorphous	-	-28.40 	204	Rat	male	7	279	intratracheal instillation	1.875	3	0.125	12
+SWCNT	1.3	3500	tube	-	-27.60 	1700	Mouse	male	9	27	intranasal instillation	0	1	1	5.56
+MWCNT	11	1050	tube	-	-11.00 	130	Mouse	male	9	27	intranasal instillation	0	1	1	5.56
+C60	15	15	sphere	-	-30.00 	300	Mouse	male	9	27	intranasal instillation	0	1	1	5.56
+MWCNT	75	5000	tube	-	11.83 	50	Mouse	male	6	22.5	OPA	0	1	1	0.11
+MWCNT	75	5000	tube	-	11.50 	50	Mouse	male	6	22.5	OPA	0	1	1	0.11
+MWCNT	75	1000	tube	-	12.10 	70	Mouse	male	6	22.5	OPA	0	1	1	0.11
+MWCNT	75	5000	tube	-	11.83 	50	Mouse	male	6	22.5	OPA	0	1	1	0.44
+MWCNT	75	5000	tube	-	11.50 	50	Mouse	male	6	22.5	OPA	0	1	1	0.44
+MWCNT	75	1000	tube	-	12.10 	70	Mouse	male	6	22.5	OPA	0	1	1	0.44
+MWCNT	75	5000	tube	-	11.83 	50	Mouse	male	6	22.5	OPA	0	1	1	1.78
+MWCNT	75	5000	tube	-	11.50 	50	Mouse	male	6	22.5	OPA	0	1	1	1.78
+MWCNT	75	1000	tube	-	12.10 	70	Mouse	male	6	22.5	OPA	0	1	1	1.78
+TiO2	35.85	35.85	sphere	-	-11.53 	57.13	Mouse	male	6	22.5	OPA	0	1	0.168	1.33
+TiO2	35.85	35.85	sphere	-	-11.53 	57.13	Mouse	male	6	22.5	OPA	0	1	1	1.33
+TiO2	100	7000	belt	-	-13.20 	57.13	Mouse	male	6	22.5	OPA	0	1	0.168	1.33
+TiO2	100	7000	belt	-	-13.20 	57.13	Mouse	male	6	22.5	OPA	0	1	1	1.33
+TiO2	100	7000	belt	HA	-12.10 	57.13	Mouse	male	6	22.5	OPA	0	1	0.168	1.33
+TiO2	100	7000	belt	HA	-12.10 	57.13	Mouse	male	6	22.5	OPA	0	1	1	1.33
+TiO2	100	7000	belt 	COOH	-12.60 	57.13	Mouse	male	6	22.5	OPA	0	1	0.168	1.33
+TiO2	100	7000	belt 	COOH	-12.60 	57.13	Mouse	male	6	22.5	OPA	0	1	1	1.33
+MWCNT	17.78	1108.45	tube	-	-15.27 	140.6	Mouse	male	8	25	OPA	0	1	1	2
+MWCNT	31.67	1198.58	tube	-	-14.40 	204.9	Mouse	male	8	25	OPA	0	1	1	2
+MWCNT	15.49	3860	tube	-	-14.07 	217.3	Mouse	male	8	25	OPA	0	1	1	2
+SiO2	107	107	sphere	-	-28.40 	12.7	Mouse	female	6	18	intranasal inoculation	12	6	3	5
+SiO2	92.3	92.3	sphere&mesoporous	-	-28.40 	70.6	Mouse	female	6	18	intranasal inoculation	12	6	3	5
+SiO2	114	114	sphere	PEG	-28.40 	12.7	Mouse	female	6	18	intranasal inoculation	12	6	3	5
+MWCNT	25	50000	tube	-	-11.00 	152	Mouse	female	10	20	OPA	0	1	0.96	1
+MWCNT	25	50000	tube	-	-11.00 	152	Mouse	female	10	20	OPA	0	1	1.75	1
+Cd QD705	10.2	10.2	dots	PEG	-6.40 	89	Mouse	male	8	30	intratracheal instillation	0	1	2	2
+Cd QD705	9.6	9.6	dots	COOH	-22.70 	89	Mouse	male	8	30	intratracheal instillation	0	1	2	2
+Cd QD705	10.2	10.2	dots	PEG	-6.40 	89	Mouse	male	8	30	intratracheal instillation	0	1	17	0.4
+Cd QD705	10.2	10.2	dots	PEG	-6.40 	89	Mouse	male	8	30	intratracheal instillation	0	1	17	2
+Cd QD705	9.6	9.6	dots	COOH	-22.70 	89	Mouse	male	8	30	intratracheal instillation	0	1	17	0.4
+Cd QD705	9.6	9.6	dots	COOH	-22.70 	89	Mouse	male	8	30	intratracheal instillation	0	1	17	2
+TiO2	21.7	21.7	sphere	-	31.20 	57.13	Mouse	male	8	30	intratracheal instillation	0	1	17	16.68
+SiO2	40.2	40.2	sphere	-	-39.40 	26.5	Mouse	male	8	30	intratracheal instillation	0	1	17	3.33
+Cd QD705	10.2	10.2	dots	PEG	-6.40 	89	Mouse	male	8	30	intratracheal instillation	0	1	90	2
+Cd QD705	9.6	9.6	dots	COOH	-22.70 	89	Mouse	male	8	30	intratracheal instillation	0	1	90	2
+ZnO	9.1	50	rod	-	27.10 	88	Mouse	male	8	25	OPA	0	1	2	3.2
+TiO2	5.5	5.5	sphere	-	9.28 	174.8	Mouse	male	4	22	intranasal instillation	270	270	0	1.25
+TiO2	5.5	5.5	sphere	-	9.28 	174.8	Mouse	male	4	22	intranasal instillation	270	270	0	2.5
+TiO2	5.5	5.5	sphere	-	9.28 	174.8	Mouse	male	4	22	intranasal instillation	270	270	0	5
+ZnO	50	50	sphere	-	-15.00 	10.8	Mouse	female	8	20	OPA	7	2	1	0.1
+ZnO	50	50	sphere	-	-15.00 	10.8	Mouse	female	8	20	OPA	7	2	7	0.1
+ZnO	50	50	sphere	-	-15.00 	10.8	Mouse	female	8	20	OPA	7	2	14	0.1
+ZnO	50	50	sphere	-	-16.70 	10.8	Mouse	female	8	20	OPA	7	2	1	0.5
+ZnO	50	50	sphere	-	-16.70 	10.8	Mouse	female	8	20	OPA	7	2	7	0.5
+ZnO	50	50	sphere	-	-16.70 	10.8	Mouse	female	8	20	OPA	7	2	14	0.5
+TiO2	50	500	fiber	-	-6.70 	57.13	Rat	unknow	8	225	intratracheal instillation	0	1	2	16
+TiO2	50	500	fiber	-	-6.70 	57.13	Rat	unknow	8	225	intratracheal instillation	0	1	14	16
+TiO2	15	15	sphere	-	-6.70 	57.13	Mouse	male	6	31	intratracheal instillation	0	1	1	8
+TiO2	50	50	sphere	-	-6.70 	57.13	Mouse	male	6	31	intratracheal instillation	0	1	1	8
+TiO2	100	100	sphere	-	-6.70 	57.13	Mouse	male	6	31	intratracheal instillation	0	1	1	8
+CB	14	14	sphere	-	-3.70 	300	Mouse	male	6	31	intratracheal instillation	42	7	1	1.6
+CB	56	56	sphere	-	-3.70 	45	Mouse	male	6	31	intratracheal instillation	42	7	1	1.6
+MWCNT	67	16500	tube	-	-11.00 	26	Mouse	male	6	31	intratracheal instillation	42	7	1	1.6
+SWCNT	1.3	3500	tube	-	-27.60 	1040	Mouse	male	6	30	intratracheal instillation	0	1	1	4
+MWCNT	11	1000	tube	-	-11.00 	152	Mouse	male	6	30	intratracheal instillation	0	1	1	4
+CB	14	14	sphere	-	-3.70 	300	Mouse	male	6	31	intratracheal instillation	0	1	1	4
+CB	56	56	sphere	-	-3.70 	45	Mouse	male	6	31	intratracheal instillation	0	1	1	4
+CB	14	14	sphere	-	-3.70 	300	Mouse	male	6	31	intratracheal instillation	0	1	1	4
+CB	56	56	sphere	-	-3.70 	45	Mouse	male	6	31	intratracheal instillation	0	1	1	4
+CB	14	14	sphere	-	-3.70 	300	Mouse	male	6	31	intratracheal instillation	0	1	7	4
+CB	56	56	sphere	-	-3.70 	45	Mouse	male	6	31	intratracheal instillation	0	1	7	4
+SWCNT	1	550	tube	-	-27.60 	1040	Mouse	male	6	31	intratracheal instillation	42	7	1	1.6
+CB	14	14	sphere	-	-3.70 	338	Mouse	female	8	18	intratracheal instillation	0	1	0.125	3
+CB	14	14	sphere	-	-3.70 	338	Mouse	female	8	18	intratracheal instillation	0	1	1	3
+Co3O4	20.2	20.2	sphere	-	-26.40 	35.8	Rat	female	6	166	intratracheal instillation	0	1	1	0.24
+Co3O4	20.2	20.2	sphere	-	-26.40 	35.8	Rat	female	6	166	intratracheal instillation	0	1	1	0.6
+Co3O4	20.2	20.2	sphere	-	-26.40 	35.8	Rat	female	6	166	intratracheal instillation	0	1	1	2.4
+CoO	65.4	65.4	sphere	-	-21.80 	8.5	Rat	female	6	166	intratracheal instillation	0	1	1	0.24
+CoO	65.4	65.4	sphere	-	-21.80 	8.5	Rat	female	6	166	intratracheal instillation	0	1	1	0.6
+CoO	65.4	65.4	sphere	-	-21.80 	8.5	Rat	female	6	166	intratracheal instillation	0	1	1	2.4
+In2O3	35.8	35.8	sphere	-	57.20 	15	Rat	female	6	166	PA	0	1	1	0.3
+In2O3	35.8	35.8	sphere	-	57.20 	15	Rat	female	6	166	PA	0	1	1	1.2
+In2O3	35.8	35.8	sphere	-	57.20 	15	Rat	female	6	166	PA	0	1	1	3.6
+NiO	5.3	5.3	sphere	-	48.90 	91.8	Rat	female	6	166	PA	0	1	1	3.6
+In2O3	35.8	35.8	sphere	-	57.20 	15	Rat	female	6	166	PA	0	1	28	0.3
+In2O3	35.8	35.8	sphere	-	57.20 	15	Rat	female	6	166	PA	0	1	28	1.2
+In2O3	35.8	35.8	sphere	-	57.20 	15	Rat	female	6	166	PA	0	1	28	3.6
+NiO	5.3	5.3	sphere	-	48.90 	91.8	Rat	female	6	166	PA	0	1	28	3.6
+Lipid	50	50	sphere	-	-7.00 	89	Mouse	male	7	24	ihalation	0	1	1	0.8
+Lipid	50	50	sphere	-	-7.00 	89	Mouse	male	7	24	ihalation	0	1	1	8
+Lipid	150	150	sphere	-	-4.00 	89	Mouse	male	7	24	ihalation	0	1	1	2
+Lipid	150	150	sphere	-	-4.00 	89	Mouse	male	7	24	ihalation	0	1	1	20
+PVA	160	160	sphere	-	-3.00 	89	Mouse	male	7	24	ihalation	0	1	1	2
+PVA	160	160	sphere	-	-3.00 	89	Mouse	male	7	24	ihalation	0	1	1	20
+PVA	172	172	sphere	-	-4.00 	89	Mouse	male	7	24	ihalation	0	1	1	2
+PVA	172	172	sphere	-	-4.00 	89	Mouse	male	7	24	ihalation	0	1	1	20
+polystyrene	50	50	sphere	-	-25.00 	89	Mouse	male	7	24	ihalation	0	1	1	0.8
+polystyrene	50	50	sphere	-	-25.00 	89	Mouse	male	7	24	ihalation	0	1	1	8
+SiO2	14	14	sphere	-	-28.40 	194	Mouse	male	7	36	intratracheal instillation	0	1	3	0.008
+SiO2	14	14	sphere	-	-28.40 	194	Mouse	male	7	36	intratracheal instillation	0	1	3	0.083
+SiO2	14	14	sphere	-	-28.40 	194	Mouse	male	7	36	intratracheal instillation	0	1	3	0.278
+SiO2	14	14	sphere	-	-28.40 	194	Mouse	male	7	36	intratracheal instillation	0	1	3	0.833
+SiO2	14	14	sphere	-	-28.40 	194	Mouse	male	7	36	intratracheal instillation	0	1	3	2.778
+SiO2	14	14	sphere	-	-28.40 	194	Mouse	male	7	36	intratracheal instillation	0	1	1	0.833
+SiO2	14	14	sphere	-	-28.40 	194	Mouse	male	7	36	intratracheal instillation	0	1	7	0.833
+SiO2	14	14	sphere	-	-28.40 	194	Mouse	male	7	36	intratracheal instillation	0	1	3	0.833
+SiO2	14	14	sphere	-	-28.40 	194	Mouse	male	7	36	intratracheal instillation	0	1	15	0.833
+SiO2	14	14	sphere	-	-28.40 	194	Mouse	male	7	36	intratracheal instillation	0	1	30	0.833
+CB	14	14	sphere	-	-3.70 	254	Mouse	female	8	20	intratracheal instillation	0	1	2	0.5
+CB	14	14	sphere	-	-3.70 	254	Mouse	female	8	20	intratracheal instillation	0	1	7	0.5
+CB	14	14	sphere	-	-3.70 	254	Mouse	female	8	20	intratracheal instillation	0	1	14	0.5
+CB	14	14	sphere	-	-3.70 	254	Mouse	female	8	20	intratracheal instillation	0	1	21	0.5
+Fe2O3	10	10	sphere	-	-16.90 	22.5	Rat	female	8	185	intratracheal instillation	0	1	1	10.8
+Fe2O3	50	50	sphere	-	-16.90 	22.5	Rat	female	8	185	intratracheal instillation	0	1	1	10.8
+SWCNT	2.5	550	tube	-	-27.60 	1040	Mouse	female	7	20	PA	0	1	1	2
+SWCNT	2.5	550	tube	-	-27.60 	1040	Mouse	female	7	20	PA	0	1	7	2
+SWCNT	2.5	550	tube	-	-27.60 	1040	Mouse	female	7	20	PA	0	1	28	2
+Cu	12	12	sphere	-	-20.00 	12	Mouse	male	6	23.5	intratracheal instillation	0	1	1	0.13
+Cu	12	12	sphere	-	-20.00 	12	Mouse	male	6	23.5	intratracheal instillation	0	1	1	1.49
+Cu	12	12	sphere	-	-20.00 	12	Mouse	male	6	23.5	intratracheal instillation	0	1	1	4.26
+SiO2	10	10	sphere	-	-28.40 	640	Mouse	female	8	22.5	OPA	0	1	0.167	4.44
+CeO2	23	23	sphere	-	37.80 	40	Mouse	female	8	22.5	OPA	0	1	0.167	4.44
+CeO2	88	88	sphere	-	37.80 	10	Mouse	female	8	22.5	OPA	0	1	0.167	4.44
+TiO2	10	10	sphere	-	-16.90 	115	Mouse	female	8	22.5	OPA	0	1	0.167	4.44
+TiO2	200	200	sphere	-	-16.90 	6.99	Mouse	female	8	22.5	OPA	0	1	0.167	4.44
+SiO2	10	10	sphere	-	-28.40 	640	Mouse	female	8	22.5	OPA	0	1	1	4.44
+CeO2	23	23	sphere	-	37.80 	40	Mouse	female	8	22.5	OPA	0	1	1	4.44
+CeO2	88	88	sphere	-	37.80 	10	Mouse	female	8	22.5	OPA	0	1	1	4.44
+TiO2	10	10	sphere	-	-16.90 	115	Mouse	female	8	22.5	OPA	0	1	1	4.44
+TiO2	200	200	sphere	-	-16.90 	6.99	Mouse	female	8	22.5	OPA	0	1	1	4.44
+SWCNT	3	320	tube	-	-27.60 	1064	Rat	male	8	302	intratracheal instillation	0	1	1	0.2
+SWCNT	3	320	tube	-	-27.60 	1064	Rat	male	8	302	intratracheal instillation	0	1	3	0.2
+SWCNT	3	320	tube	-	-27.60 	1064	Rat	male	8	302	intratracheal instillation	0	1	7	0.2
+SWCNT	3	320	tube	-	-27.60 	1064	Rat	male	8	302	intratracheal instillation	0	1	30	0.2
+SWCNT	3	320	tube	-	-27.60 	1064	Rat	male	8	302	intratracheal instillation	0	1	90	0.2
+SWCNT	3	320	tube	-	-27.60 	1064	Rat	male	8	302	intratracheal instillation	0	1	1	2
+SWCNT	3	320	tube	-	-27.60 	1064	Rat	male	8	302	intratracheal instillation	0	1	3	2
+SWCNT	3	320	tube	-	-27.60 	1064	Rat	male	8	302	intratracheal instillation	0	1	7	2
+SWCNT	3	320	tube	-	-27.60 	1064	Rat	male	8	302	intratracheal instillation	0	1	30	2
+SWCNT	3	320	tube	-	-27.60 	1064	Rat	male	8	302	intratracheal instillation	0	1	90	2
+SiO2	1800	1800	sphere	-	-28.40 	25	Rat	male	8	302	intratracheal instillation	0	1	1	5
+SiO2	1800	1800	sphere	-	-28.40 	25	Rat	male	8	302	intratracheal instillation	0	1	3	5
+SiO2	1800	1800	sphere	-	-28.40 	25	Rat	male	8	302	intratracheal instillation	0	1	7	5
+SiO2	1800	1800	sphere	-	-28.40 	25	Rat	male	8	302	intratracheal instillation	0	1	30	5
+SiO2	1800	1800	sphere	-	-28.40 	25	Rat	male	8	302	intratracheal instillation	0	1	90	5
+SWCNT	3	320	tube	-	-27.60 	1064	Rat	male	8	302	intratracheal instillation	0	1	3	0.04
+SWCNT	3	320	tube	-	-27.60 	1064	Rat	male	8	302	intratracheal instillation	0	1	7	0.04
+SWCNT	3	320	tube	-	-27.60 	1064	Rat	male	8	302	intratracheal instillation	0	1	30	0.04
+SWCNT	3	320	tube	-	-27.60 	1064	Rat	male	8	302	intratracheal instillation	0	1	90	0.04
+SWCNT	3	320	tube	-	-27.60 	1064	Rat	male	8	302	intratracheal instillation	0	1	180	0.04
+SWCNT	3	320	tube	-	-27.60 	1064	Rat	male	8	302	intratracheal instillation	0	1	3	0.2
+SWCNT	3	320	tube	-	-27.60 	1064	Rat	male	8	302	intratracheal instillation	0	1	7	0.2
+SWCNT	3	320	tube	-	-27.60 	1064	Rat	male	8	302	intratracheal instillation	0	1	30	0.2
+SWCNT	3	320	tube	-	-27.60 	1064	Rat	male	8	302	intratracheal instillation	0	1	90	0.2
+SWCNT	3	320	tube	-	-27.60 	1064	Rat	male	8	302	intratracheal instillation	0	1	180	0.2
+SWCNT	3	320	tube	-	-27.60 	1064	Rat	male	8	302	intratracheal instillation	0	1	3	1
+SWCNT	3	320	tube	-	-27.60 	1064	Rat	male	8	302	intratracheal instillation	0	1	7	1
+SWCNT	3	320	tube	-	-27.60 	1064	Rat	male	8	302	intratracheal instillation	0	1	30	1
+SWCNT	3	320	tube	-	-27.60 	1064	Rat	male	8	302	intratracheal instillation	0	1	90	1
+SWCNT	3	320	tube	-	-27.60 	1064	Rat	male	8	302	intratracheal instillation	0	1	180	1
+BaSO4	25	25	sphere	-	-18.50 	89	Rat	male	8	280	intratracheal instillation	0	1	1	1
+BaSO4	25	25	sphere	-	-18.70 	89	Rat	male	8	280	intratracheal instillation	0	1	1	2
+BaSO4	25	25	sphere	-	-18.60 	89	Rat	male	8	280	intratracheal instillation	0	1	1	5
+polystyrene	218	218	sphere	GD	31.00 	89	Rat	female	7	150	PA	0	1	1	0.67
+polystyrene	194	194	sphere	NH2	19.80 	89	Rat	female	7	150	PA	0	1	1	0.67
+polystyrene	320	320	sphere	PEG	-10.30 	89	Rat	female	7	150	PA	0	1	1	0.67
+polystyrene	216	216	sphere	ZI	-15.00 	89	Rat	female	7	150	PA	0	1	1	0.67
+polystyrene	224	224	sphere	OH	-17.90 	89	Rat	female	7	150	PA	0	1	1	0.67
+polystyrene	209	209	sphere	COCH3	-20.30 	89	Rat	female	7	150	PA	0	1	1	0.67
+polystyrene	214	214	sphere	COOH	-28.00 	89	Rat	female	7	150	PA	0	1	1	0.67
+polystyrene	220	220	sphere	SO3H	-41.20 	89	Rat	female	7	150	PA	0	1	1	0.67
+MWCNT	13.5	15000	tube	-	-11.00 	152	Mouse	male	7	21	intratracheal instillation	0	1	1	0.47
+MWCNT	13.5	15000	tube	-	-11.00 	152	Mouse	male	7	21	intratracheal instillation	0	1	1	4.7
+MWCNT	13.5	15000	tube	-	-11.00 	152	Mouse	male	7	21	intratracheal instillation	0	1	7	0.47
+MWCNT	13.5	15000	tube	-	-11.00 	152	Mouse	male	7	21	intratracheal instillation	0	1	7	4.7
+MWCNT	13.5	15000	tube	-	-11.00 	152	Mouse	male	7	21	intratracheal instillation	0	1	14	0.47
+MWCNT	13.5	15000	tube	-	-11.00 	152	Mouse	male	7	21	intratracheal instillation	0	1	14	4.7
+MWCNT	13.5	15000	tube	-	-11.00 	152	Mouse	male	7	21	intratracheal instillation	0	1	28	0.47
+MWCNT	13.5	15000	tube	-	-11.00 	152	Mouse	male	7	21	intratracheal instillation	0	1	28	4.7
+MWCNT	13.5	15000	tube	-	-11.00 	152	Mouse	male	7	21	intratracheal instillation	0	1	120	0.47
+MWCNT	13.5	15000	tube	-	-11.00 	152	Mouse	male	7	21	intratracheal instillation	0	1	120	4.7
+MWCNT	7.5	400	tube	-	-11.00 	152	Mouse	male	7	21	intratracheal instillation	0	1	1	0.47
+MWCNT	7.5	400	tube	-	-11.00 	152	Mouse	male	7	21	intratracheal instillation	0	1	1	4.7
+MWCNT	7.5	400	tube	-	-11.00 	152	Mouse	male	7	21	intratracheal instillation	0	1	7	0.47
+MWCNT	7.5	400	tube	-	-11.00 	152	Mouse	male	7	21	intratracheal instillation	0	1	7	4.7
+MWCNT	7.5	400	tube	-	-11.00 	152	Mouse	male	7	21	intratracheal instillation	0	1	14	0.47
+MWCNT	7.5	400	tube	-	-11.00 	152	Mouse	male	7	21	intratracheal instillation	0	1	14	4.7
+MWCNT	7.5	400	tube	-	-11.00 	152	Mouse	male	7	21	intratracheal instillation	0	1	28	0.47
+MWCNT	7.5	400	tube	-	-11.00 	152	Mouse	male	7	21	intratracheal instillation	0	1	28	4.7
+MWCNT	7.5	400	tube	-	-11.00 	152	Mouse	male	7	21	intratracheal instillation	0	1	120	0.47
+MWCNT	7.5	400	tube	-	-11.00 	152	Mouse	male	7	21	intratracheal instillation	0	1	120	4.7
+MWCNT	49	3860	tube	-	-4.30 	152	Mouse	male	8	25	OPA	0	1	1	2
+BN	18	1100	tube	-	-11.10 	89	Mouse	male	8	25	OPA	0	1	1	2
+DEP	91.3	91.3	sphere	-	-16.90 	108	Mouse	female	8	19.1	intratracheal instillation	0	1	1	0.94
+DEP	91.3	91.3	sphere	-	-16.90 	108	Mouse	female	8	19.1	intratracheal instillation	0	1	1	2.83
+DEP	91.3	91.3	sphere	-	-16.90 	108	Mouse	female	8	19.1	intratracheal instillation	0	1	1	8.48
+CB	14.3	14.3	sphere	-	-3.70 	316.5	Mouse	female	8	19.1	intratracheal instillation	0	1	1	8.48
+DEP	91.3	91.3	sphere	-	-16.90 	108	Mouse	female	8	19.1	intratracheal instillation	0	1	3	0.94
+DEP	91.3	91.3	sphere	-	-16.90 	108	Mouse	female	8	19.1	intratracheal instillation	0	1	3	2.83
+DEP	91.3	91.3	sphere	-	-16.90 	108	Mouse	female	8	19.1	intratracheal instillation	0	1	3	8.48
+CB	14.3	14.3	sphere	-	-3.70 	316.5	Mouse	female	8	19.1	intratracheal instillation	0	1	3	8.48
+DEP	91.3	91.3	sphere	-	-16.90 	108	Mouse	female	8	19.1	intratracheal instillation	0	1	28	0.94
+DEP	91.3	91.3	sphere	-	-16.90 	108	Mouse	female	8	19.1	intratracheal instillation	0	1	28	2.83
+DEP	91.3	91.3	sphere	-	-16.90 	108	Mouse	female	8	19.1	intratracheal instillation	0	1	28	8.48
+CB	14.3	14.3	sphere	-	-3.70 	316.5	Mouse	female	8	19.1	intratracheal instillation	0	1	28	8.48
+CuO	46.5	46.5	sphere	-	-26.00 	29	Mouse	female	6	18	intranasal instillation	0	1	1	2.5
+CuO	46.5	46.5	sphere	-	-26.00 	29	Mouse	female	6	18	intranasal instillation	0	1	1	5
+CNP	13	13	sphere	-	-11.00 	800	Rat	male	7	150	intratracheal instillation	14	3	11	0.5
+NiO	5.3	5.3	sphere	-	-30.00 	91.8	Rat	female	7	150	intratracheal instillation	0	1	1	1.09
+NiO	5.3	5.3	sphere	-	-30.00 	91.8	Rat	female	7	150	intratracheal instillation	0	1	2	1.09
+NiO	5.3	5.3	sphere	-	-30.00 	91.8	Rat	female	7	150	intratracheal instillation	0	1	3	1.09
+NiO	5.3	5.3	sphere	-	-30.00 	91.8	Rat	female	7	150	intratracheal instillation	0	1	4	1.09
+NiO	5.3	5.3	sphere	-	-30.00 	91.8	Rat	female	7	150	intratracheal instillation	0	1	1	0.2725
+NiO	5.3	5.3	sphere	-	-30.00 	91.8	Rat	female	7	150	intratracheal instillation	0	1	2	0.2725
+NiO	5.3	5.3	sphere	-	-30.00 	91.8	Rat	female	7	150	intratracheal instillation	0	1	3	0.2725
+NiO	5.3	5.3	sphere	-	-30.00 	91.8	Rat	female	7	150	intratracheal instillation	0	1	4	0.2725
+NiO	5.3	5.3	sphere	-	-30.00 	91.8	Rat	female	7	150	intratracheal instillation	0	1	1	0.545
+NiO	5.3	5.3	sphere	-	-30.00 	91.8	Rat	female	7	150	intratracheal instillation	0	1	2	0.545
+NiO	5.3	5.3	sphere	-	-30.00 	91.8	Rat	female	7	150	intratracheal instillation	0	1	3	0.545
+NiO	5.3	5.3	sphere	-	-30.00 	91.8	Rat	female	7	150	intratracheal instillation	0	1	4	0.545
+TiO2	5.5	5.5	sphere	-	9.28 	174.8	Mouse	female	5	23	intranasal instillation	90	90	1	2.5
+TiO2	5.5	5.5	sphere	-	9.28 	174.8	Mouse	female	5	23	intranasal instillation	90	90	1	5
+TiO2	5.5	5.5	sphere	-	9.28 	174.8	Mouse	female	5	23	intranasal instillation	90	90	1	10
+Au	10	31	rod	-	-55.00 	5	Rat	male	7	210	intratracheal instillation	0	1	1	1
+Au	10	31	rod	-	-55.00 	5	Rat	male	7	210	intratracheal instillation	0	1	1	5
+Au	25	50	rod	-	-55.00 	5	Rat	male	7	210	intratracheal instillation	0	1	1	1
+Au	25	50	rod	-	-55.00 	5	Rat	male	7	210	intratracheal instillation	0	1	1	5
+Au	10	31	rod	-	-55.00 	5	Rat	male	7	210	intratracheal instillation	0	1	7	1
+Au	10	31	rod	-	-55.00 	5	Rat	male	7	210	intratracheal instillation	0	1	7	5
+Au	25	50	rod	-	-55.00 	5	Rat	male	7	210	intratracheal instillation	0	1	7	1
+Au	25	50	rod	-	-55.00 	5	Rat	male	7	210	intratracheal instillation	0	1	7	5
+Au	10	31	rod	-	-55.00 	5	Rat	male	7	210	intratracheal instillation	0	1	30	1
+Au	10	31	rod	-	-55.00 	5	Rat	male	7	210	intratracheal instillation	0	1	30	5
+Au	25	50	rod	-	-55.00 	5	Rat	male	7	210	intratracheal instillation	0	1	30	1
+Au	25	50	rod	-	-55.00 	5	Rat	male	7	210	intratracheal instillation	0	1	30	5
+Au	10	31	rod	-	-55.00 	5	Rat	male	7	210	intratracheal instillation	0	1	90	1
+Au	10	31	rod	-	-55.00 	5	Rat	male	7	210	intratracheal instillation	0	1	90	5
+Au	25	50	rod	-	-55.00 	5	Rat	male	7	210	intratracheal instillation	0	1	90	1
+Au	25	50	rod	-	-55.00 	5	Rat	male	7	210	intratracheal instillation	0	1	90	5
+ZnO	19.61	19.61	hexagonal	-	-16.90 	45	Rat	unknow	8	170	intratracheal instillation	35	18	1	3.5
+ZnO	19.61	19.61	hexagonal	-	-16.90 	45	Rat	unknow	8	170	intratracheal instillation	35	18	1	17.5
+TiO2	22.82	22.82	sphere	-	-16.90 	50	Rat	unknow	8	170	intratracheal instillation	35	18	1	3.5
+TiO2	22.82	22.82	sphere	-	-16.90 	50	Rat	unknow	8	170	intratracheal instillation	35	18	1	17.5
+Ag	52.25	52.25	sphere	-	-42.50 	5	Rat	unknow	8	170	intratracheal instillation	35	18	1	3.5
+Ag	52.25	52.25	sphere	-	-42.50 	5	Rat	unknow	8	170	intratracheal instillation	35	18	1	17.5
+MWCNT	13	3860	tube	-	-11.00 	225	Mouse	female	8	18	OPA	35	5	1	0.355555556
+MWCNT	13	3860	tube	-	-11.00 	225	Mouse	female	8	18	OPA	35	5	56	1.422222222
+MWCNT	13	3860	tube	-	-11.00 	225	Mouse	female	8	18	OPA	35	5	1	0.355555556
+MWCNT	13	3860	tube	-	-11.00 	225	Mouse	female	8	18	OPA	35	5	56	1.422222222
+ZnO	175	175	sphere	-	-16.90 	14	Mouse	female	8	18	OPA	35	5	1	0.355555556
+ZnO	175	175	sphere	-	-16.90 	14	Mouse	female	8	18	OPA	35	5	56	0.711111111
+ZnO	175	175	sphere	-	-16.90 	14	Mouse	female	8	18	OPA	35	5	1	0.355555556
+ZnO	175	175	sphere	-	-16.90 	14	Mouse	female	8	18	OPA	35	5	56	0.711111111
+CeO2	17.3	17.3	sphere	-	37.80 	61	Rat	male	7	279	intratracheal instillation	0	1	1	0.15
+CeO2	17.3	17.3	sphere	-	37.80 	61	Rat	male	7	279	intratracheal instillation	0	1	28	0.15
+CeO2	17.3	17.3	sphere	-	37.80 	61	Rat	male	7	279	intratracheal instillation	0	1	1	1
+CeO2	17.3	17.3	sphere	-	37.80 	61	Rat	male	7	279	intratracheal instillation	0	1	28	1
+CeO2	17.3	17.3	sphere	-	37.80 	61	Rat	male	7	279	intratracheal instillation	0	1	1	3.5
+CeO2	17.3	17.3	sphere	-	37.80 	61	Rat	male	7	279	intratracheal instillation	0	1	28	3.5
+SiO2	21	21	sphere	-	-28.40 	147	Rat	male	7	279	intratracheal instillation	0	1	1	0.15
+SiO2	21	21	sphere	-	-28.40 	147	Rat	male	7	279	intratracheal instillation	0	1	28	0.15
+SiO2	21	21	sphere	-	-28.40 	147	Rat	male	7	279	intratracheal instillation	0	1	1	1
+SiO2	21	21	sphere	-	-28.40 	147	Rat	male	7	279	intratracheal instillation	0	1	28	1
+SiO2	21	21	sphere	-	-28.40 	147	Rat	male	7	279	intratracheal instillation	0	1	1	3.5
+SiO2	21	21	sphere	-	-28.40 	147	Rat	male	7	279	intratracheal instillation	0	1	28	3.5
+CeO2	25	25	sphere	-	-8.28 	33.5	Mouse	female	7	20	intranasal instillation	19	9	1	0.075
+CeO2	25	25	sphere	-	-8.28 	33.5	Mouse	female	7	20	intranasal instillation	19	9	1	0.75
+Bi2Se3	70	30	sheet	-	-34.28 	89	Mouse	unknow	9	24	intratracheal instillation	0	1	14	10
+Bi2Se3	70	30	sheet	-	-34.28 	89	Mouse	unknow	9	24	intratracheal instillation	0	1	30	10
+Bi2Se3	70	30	sheet	-	-34.28 	89	Mouse	unknow	9	24	intratracheal instillation	0	1	90	10
+Bi2Se3	70	30	sheet	-	-34.28 	89	Mouse	unknow	9	24	intratracheal instillation	0	1	180	10
+CeO2	40	40	sphere	-	42.00 	27	Rat	male	8	249	intratracheal instillation	0	1	1	0.2
+CeO2	40	40	sphere	-	42.00 	27	Rat	male	8	249	intratracheal instillation	0	1	1	1
+NiO	8.41	8.41	sphere	-	-30.00 	104.6	Rat	male	9	300	intratracheal instillation	0	1	3	3.3
+NiO	8.41	8.41	sphere	-	-30.00 	104.6	Rat	male	9	300	intratracheal instillation	0	1	7	3.3
+NiO	8.41	8.41	sphere	-	-30.00 	104.6	Rat	male	9	300	intratracheal instillation	0	1	30	3.3
+NiO	8.41	8.41	sphere	-	-30.00 	104.6	Rat	male	9	300	intratracheal instillation	0	1	90	3.3
+NiO	8.41	8.41	sphere	-	-30.00 	104.6	Rat	male	9	300	intratracheal instillation	0	1	180	3.3
+NiO	8.41	8.41	sphere	-	-30.00 	104.6	Rat	male	9	300	intratracheal instillation	0	1	3	3.3
+NiO	8.41	8.41	sphere	-	-30.00 	104.6	Rat	male	9	300	intratracheal instillation	0	1	7	3.3
+NiO	8.41	8.41	sphere	-	-30.00 	104.6	Rat	male	9	300	intratracheal instillation	0	1	30	3.3
+NiO	8.41	8.41	sphere	-	-30.00 	104.6	Rat	male	9	300	intratracheal instillation	0	1	90	3.3
+NiO	8.41	8.41	sphere	-	-30.00 	104.6	Rat	male	9	300	intratracheal instillation	0	1	180	3.3
+C60	33	33	sphere	-	-30.00 	0.92	Rat	male	9	300	intratracheal instillation	0	1	3	0.33
+C60	33	33	sphere	-	-30.00 	0.92	Rat	male	9	300	intratracheal instillation	0	1	3	0.66
+C60	33	33	sphere	-	-30.00 	0.92	Rat	male	9	300	intratracheal instillation	0	1	3	3.3
+NiO	8.41	8.41	sphere	-	-30.00 	104.6	Rat	male	9	300	intratracheal instillation	0	1	3	0.66
+C60	33	33	sphere	-	-30.00 	0.92	Rat	male	9	300	intratracheal instillation	0	1	7	0.33
+C60	33	33	sphere	-	-30.00 	0.92	Rat	male	9	300	intratracheal instillation	0	1	7	0.66
+C60	33	33	sphere	-	-30.00 	0.92	Rat	male	9	300	intratracheal instillation	0	1	7	3.3
+NiO	8.41	8.41	sphere	-	-30.00 	104.6	Rat	male	9	300	intratracheal instillation	0	1	7	0.66
+C60	33	33	sphere	-	-30.00 	0.92	Rat	male	9	300	intratracheal instillation	0	1	30	0.33
+C60	33	33	sphere	-	-30.00 	0.92	Rat	male	9	300	intratracheal instillation	0	1	30	0.66
+C60	33	33	sphere	-	-30.00 	0.92	Rat	male	9	300	intratracheal instillation	0	1	30	3.3
+NiO	8.41	8.41	sphere	-	-30.00 	104.6	Rat	male	9	300	intratracheal instillation	0	1	30	0.66
+C60	33	33	sphere	-	-30.00 	0.92	Rat	male	9	300	intratracheal instillation	0	1	90	0.33
+C60	33	33	sphere	-	-30.00 	0.92	Rat	male	9	300	intratracheal instillation	0	1	90	0.66
+C60	33	33	sphere	-	-30.00 	0.92	Rat	male	9	300	intratracheal instillation	0	1	90	3.3
+NiO	8.41	8.41	sphere	-	-30.00 	104.6	Rat	male	9	300	intratracheal instillation	0	1	90	0.66
+C60	33	33	sphere	-	-30.00 	0.92	Rat	male	9	300	intratracheal instillation	0	1	180	0.33
+C60	33	33	sphere	-	-30.00 	0.92	Rat	male	9	300	intratracheal instillation	0	1	180	0.66
+C60	33	33	sphere	-	-30.00 	0.92	Rat	male	9	300	intratracheal instillation	0	1	180	3.3
+NiO	8.41	8.41	sphere	-	-30.00 	104.6	Rat	male	9	300	intratracheal instillation	0	1	180	0.66
+MWCNT	48	940	tube	-	-11.00 	69	Rat	male	9	300	intratracheal instillation	0	1	3	0.66
+MWCNT	48	940	tube	-	-11.00 	69	Rat	male	9	300	intratracheal instillation	0	1	3	3.3
+MWCNT	48	940	tube	-	-11.00 	69	Rat	male	9	300	intratracheal instillation	0	1	7	0.66
+MWCNT	48	940	tube	-	-11.00 	69	Rat	male	9	300	intratracheal instillation	0	1	7	3.3
+MWCNT	48	940	tube	-	-11.00 	69	Rat	male	9	300	intratracheal instillation	0	1	30	0.66
+MWCNT	48	940	tube	-	-11.00 	69	Rat	male	9	300	intratracheal instillation	0	1	30	3.3
+MWCNT	48	940	tube	-	-11.00 	69	Rat	male	9	300	intratracheal instillation	0	1	90	0.66
+MWCNT	48	940	tube	-	-11.00 	69	Rat	male	9	300	intratracheal instillation	0	1	90	3.3
+MWCNT	48	940	tube	-	-11.00 	69	Rat	male	9	300	intratracheal instillation	0	1	180	0.66
+MWCNT	48	940	tube	-	-11.00 	69	Rat	male	9	300	intratracheal instillation	0	1	180	3.3
+TiO2	33.5	167.5	spindle	-	-16.90 	111	Rat	male	12	250	intratracheal instillation	0	1	3	0.8
+TiO2	33.5	167.5	spindle	-	-16.90 	111	Rat	male	12	250	intratracheal instillation	0	1	3	4
+NiO	19	19	sphere	-	-30.00 	57	Rat	male	12	250	intratracheal instillation	0	1	3	0.8
+NiO	19	19	sphere	-	-30.00 	57	Rat	male	12	250	intratracheal instillation	0	1	3	4
+TiO2	33.5	167.5	spindle	-	-16.90 	111	Rat	male	12	250	intratracheal instillation	0	1	7	0.8
+TiO2	33.5	167.5	spindle	-	-16.90 	111	Rat	male	12	250	intratracheal instillation	0	1	7	4
+NiO	19	19	sphere	-	-30.00 	57	Rat	male	12	250	intratracheal instillation	0	1	7	0.8
+NiO	19	19	sphere	-	-30.00 	57	Rat	male	12	250	intratracheal instillation	0	1	7	4
+TiO2	33.5	167.5	spindle	-	-16.90 	111	Rat	male	12	250	intratracheal instillation	0	1	30	0.8
+TiO2	33.5	167.5	spindle	-	-16.90 	111	Rat	male	12	250	intratracheal instillation	0	1	30	4
+NiO	19	19	sphere	-	-30.00 	57	Rat	male	12	250	intratracheal instillation	0	1	30	0.8
+NiO	19	19	sphere	-	-30.00 	57	Rat	male	12	250	intratracheal instillation	0	1	30	4
+TiO2	33.5	167.5	spindle	-	-16.90 	111	Rat	male	12	250	intratracheal instillation	0	1	90	0.8
+TiO2	33.5	167.5	spindle	-	-16.90 	111	Rat	male	12	250	intratracheal instillation	0	1	90	4
+NiO	19	19	sphere	-	-30.00 	57	Rat	male	12	250	intratracheal instillation	0	1	90	0.8
+NiO	19	19	sphere	-	-30.00 	57	Rat	male	12	250	intratracheal instillation	0	1	90	4
+TiO2	33.5	167.5	spindle	-	-16.90 	111	Rat	male	12	250	intratracheal instillation	0	1	180	0.8
+TiO2	33.5	167.5	spindle	-	-16.90 	111	Rat	male	12	250	intratracheal instillation	0	1	180	4
+NiO	19	19	sphere	-	-30.00 	57	Rat	male	12	250	intratracheal instillation	0	1	180	0.8
+NiO	19	19	sphere	-	-30.00 	57	Rat	male	12	250	intratracheal instillation	0	1	180	4
+NiO	8.41	8.41	sphere	-	-30.00 	104.6	Rat	male	9	300	intratracheal instillation	0	1	3	0.33
+NiO	8.41	8.41	sphere	-	-30.00 	104.6	Rat	male	9	300	intratracheal instillation	0	1	3	0.66
+NiO	8.41	8.41	sphere	-	-30.00 	104.6	Rat	male	9	300	intratracheal instillation	0	1	7	0.33
+NiO	8.41	8.41	sphere	-	-30.00 	104.6	Rat	male	9	300	intratracheal instillation	0	1	7	0.66
+NiO	8.41	8.41	sphere	-	-30.00 	104.6	Rat	male	9	300	intratracheal instillation	0	1	30	0.33
+NiO	8.41	8.41	sphere	-	-30.00 	104.6	Rat	male	9	300	intratracheal instillation	0	1	30	0.66
+NiO	8.41	8.41	sphere	-	-30.00 	104.6	Rat	male	9	300	intratracheal instillation	0	1	90	0.33
+NiO	8.41	8.41	sphere	-	-30.00 	104.6	Rat	male	9	300	intratracheal instillation	0	1	90	0.66
+NiO	8.41	8.41	sphere	-	-30.00 	104.6	Rat	male	9	300	intratracheal instillation	0	1	180	0.33
+NiO	8.41	8.41	sphere	-	-30.00 	104.6	Rat	male	9	300	intratracheal instillation	0	1	180	0.66
+SiO2	700	700	sphere	-	-36.00 	7.6	Mouse	male	16	25	intratracheal instillation	0	1	1	4
+SiO2	54	54	amorphous	-	-25.00 	66	Mouse	male	16	25	intratracheal instillation	0	1	1	4
+SiO2	50	50	amorphous	APTES	19.00 	42	Mouse	male	16	25	intratracheal instillation	0	1	1	4
+SiO2	700	700	sphere	-	-36.00 	7.6	Mouse	male	16	25	intratracheal instillation	0	1	1	20
+SiO2	54	54	amorphous	-	-25.00 	66	Mouse	male	16	25	intratracheal instillation	0	1	1	20
+SiO2	50	50	amorphous	APTES	19.00 	42	Mouse	male	16	25	intratracheal instillation	0	1	1	20
+MWCNT	14.84	3860	tube	-	-11.00 	152	Mouse	female	11	25	PA	0	1	1	0.4
+MWCNT	84.89	3860	tube	-	-11.00 	152	Mouse	female	11	25	PA	0	1	1	0.4
+CB	14.3	14.3	sphere	-	-3.70 	66.8	Rat	female	8	225	intratracheal instillation	0	1	3	8.89
+MWCNT	9.7	5900	tube	-	-11.00 	378	Rat	female	8	225	intratracheal instillation	0	1	3	2.22
+MWCNT	9.7	5900	tube	-	-11.00 	378	Rat	female	8	225	intratracheal instillation	0	1	3	8.89
+MWCNT	11.3	700	tube	-	-11.00 	307	Rat	female	8	225	intratracheal instillation	0	1	3	2.22
+MWCNT	11.3	700	tube	-	-11.00 	307	Rat	female	8	225	intratracheal instillation	0	1	3	8.89
+CB	14.3	14.3	sphere	-	-3.70 	66.8	Rat	female	8	225	intratracheal instillation	0	1	60	8.89
+MWCNT	9.7	5900	tube	-	-11.00 	378	Rat	female	8	225	intratracheal instillation	0	1	60	2.22
+MWCNT	9.7	5900	tube	-	-11.00 	378	Rat	female	8	225	intratracheal instillation	0	1	60	8.89
+MWCNT	11.3	700	tube	-	-11.00 	307	Rat	female	8	225	intratracheal instillation	0	1	60	2.22
+MWCNT	11.3	700	tube	-	-11.00 	307	Rat	female	8	225	intratracheal instillation	0	1	60	8.89
+CeO2	20	20	sphere	-	37.80 	33.5	Mouse	female	8	23	intratracheal instillation	0	1	1	0.1
+CeO2	20	20	sphere	-	37.80 	33.5	Mouse	female	8	23	intratracheal instillation	0	1	1	0.5
+TiO2	5	50	rod	-	-16.90 	16.46	Rat	male	18	359	intratracheal instillation	0	1	1	1
+TiO2	5	50	rod	-	-16.90 	82.3	Rat	male	18	359	intratracheal instillation	0	1	1	5
+Fe-TiO2	7	80	rod	-	-16.90 	89	Rat	male	8	238	intratracheal instillation	0	1	1	1
+Fe-TiO2	7	80	rod	-	-16.90 	89	Rat	male	8	238	intratracheal instillation	0	1	1	5
+MWCNT	140	7000	tube	-	-11.00 	12.83	Mouse	male	8	30	intratracheal instillation	0	1	1	5
+MWCNT	140	7000	tube	-	-11.00 	12.83	Mouse	male	8	30	intratracheal instillation	0	1	1	20
+MWCNT	140	7000	tube	-	-11.00 	12.83	Mouse	male	8	30	intratracheal instillation	0	1	1	50
+MWCNT	140	7000	tube	-	-11.00 	12.83	Mouse	male	8	30	intratracheal instillation	0	1	3	50
+MWCNT	140	7000	tube	-	-11.00 	12.83	Mouse	male	8	30	intratracheal instillation	0	1	7	50
+MWCNT	140	7000	tube	-	-11.00 	12.83	Mouse	male	8	30	intratracheal instillation	0	1	14	50
+CeO2	134	134	sphere	-	37.80 	33.5	Mouse	male	8	25	intratracheal instillation	0	1	1	50
+CeO2	134	134	sphere	-	37.80 	33.5	Mouse	male	8	25	intratracheal instillation	0	1	1	100
+CeO2	134	134	sphere	-	37.80 	33.5	Mouse	male	8	25	intratracheal instillation	0	1	1	200
+CeO2	134	134	sphere	-	37.80 	33.5	Mouse	male	8	25	intratracheal instillation	0	1	1	400
+CeO2	134	134	sphere	-	37.80 	33.5	Mouse	male	8	25	intratracheal instillation	0	1	7	100
+CeO2	134	134	sphere	-	37.80 	33.5	Mouse	male	8	25	intratracheal instillation	0	1	14	100
+CeO2	134	134	sphere	-	37.80 	33.5	Mouse	male	8	25	intratracheal instillation	0	1	28	100
+Ag	27.5	27.5	sphere	-	-42.50 	5	Mouse	male	8	25	intratracheal instillation	0	1	1	0.5
+Ag	27.5	27.5	sphere	-	-42.50 	5	Mouse	male	8	25	intratracheal instillation	0	1	7	0.5
+Ag	27.5	27.5	sphere	-	-42.50 	5	Mouse	male	8	25	intratracheal instillation	0	1	14	0.5
+Ag	27.5	27.5	sphere	-	-42.50 	5	Mouse	male	8	25	intratracheal instillation	0	1	28	0.5
+SWCNT	2.5	1000	tube	-	-11.70 	1040	Mouse	male	8	30	intratracheal instillation	0	1	91	0.05
+SWCNT	2.5	1000	tube	-	-11.70 	1040	Mouse	male	8	30	intratracheal instillation	0	1	91	0.1
+SWCNT	2.5	1000	tube	-	-11.70 	1040	Mouse	male	8	30	intratracheal instillation	0	1	91	0.2
+Pt	20.9	20.9	quadrangle	-	4.96 	5	Mouse	male	6	25	intratracheal instillation	0	1	1	1
+Pt	20.9	20.9	quadrangle	-	4.96 	5	Mouse	male	6	25	intratracheal instillation	0	1	7	1
+Pt	20.9	20.9	quadrangle	-	4.96 	5	Mouse	male	6	25	intratracheal instillation	0	1	14	1
+Pt	20.9	20.9	quadrangle	-	4.96 	5	Mouse	male	6	25	intratracheal instillation	0	1	28	1
+Fe3O4	5.3	5.3	sphere	-	23.14 	89	Mouse	male	8	30	intratracheal instillation	0	1	1	0.25
+Fe3O4	5.3	5.3	sphere	-	23.14 	89	Mouse	male	8	30	intratracheal instillation	0	1	1	0.5
+Fe3O4	5.3	5.3	sphere	-	23.14 	89	Mouse	male	8	30	intratracheal instillation	0	1	1	1
+Fe3O4	5.3	5.3	sphere	-	23.14 	89	Mouse	male	8	30	intratracheal instillation	0	1	7	1
+Fe3O4	5.3	5.3	sphere	-	23.14 	89	Mouse	male	8	30	intratracheal instillation	0	1	14	1
+Fe3O4	5.3	5.3	sphere	-	23.14 	89	Mouse	male	8	30	intratracheal instillation	0	1	28	1
+C60	33	33	sphere	-	-30.24 	0.92	Mouse	male	5	26	intratracheal instillation	0	1	1	0.5
+C60	33	33	sphere	-	-30.24 	0.92	Mouse	male	5	26	intratracheal instillation	0	1	1	1
+C60	33	33	sphere	-	-30.24 	0.92	Mouse	male	5	26	intratracheal instillation	0	1	1	2
+C60	33	33	sphere	-	-30.24 	0.92	Mouse	male	5	26	intratracheal instillation	0	1	7	2
+C60	33	33	sphere	-	-30.24 	0.92	Mouse	male	5	26	intratracheal instillation	0	1	14	2
+C60	33	33	sphere	-	-30.24 	0.92	Mouse	male	5	26	intratracheal instillation	0	1	28	2
+AlO	316.5	316.5	rod	-	-1.80 	163.4	Mouse	male	6	27.5	intratracheal instillation	0	1	91	2.5
+AlO	316.5	316.5	rod	-	-1.80 	163.4	Mouse	male	6	27.5	intratracheal instillation	0	1	91	5
+AlO	656.4	656.4	rod	-	-40.30 	105.9	Mouse	male	6	27.5	intratracheal instillation	0	1	91	2.5
+AlO	656.4	656.4	rod	-	-40.30 	105.9	Mouse	male	6	27.5	intratracheal instillation	0	1	91	5
+AlCeO3	20	20	sphere	-	-29.70 	24.8	Mouse	male	6	27.5	intratracheal instillation	0	1	91	2.5
+AlCeO3	20	20	sphere	-	-29.70 	24.8	Mouse	male	6	27.5	intratracheal instillation	0	1	91	5
+AlOOH	200	200	sphere	-	-25.20 	10.3	Mouse	male	6	27.5	intratracheal instillation	0	1	91	2.5
+AlOOH	200	200	sphere	-	-25.20 	10.3	Mouse	male	6	27.5	intratracheal instillation	0	1	91	5
+graphene	2000	2	sheet	-	-10.60 	180	Mouse	male	5	26	intratracheal instillation	0	1	91	1.25
+graphene	2000	2	sheet	-	-10.60 	180	Mouse	male	5	26	intratracheal instillation	0	1	91	2.5
+graphene	2000	2	sheet	-	-10.60 	180	Mouse	male	5	26	intratracheal instillation	0	1	91	5
+SWCNT	1.2	1000	tube	-	-27.60 	1040	Mouse	male	5	26	intratracheal instillation	0	1	1	0.1
+SWCNT	1.2	1000	tube	-	-27.60 	1040	Mouse	male	5	26	intratracheal instillation	0	1	7	0.1
+SWCNT	1.2	1000	tube	-	-27.60 	1040	Mouse	male	5	26	intratracheal instillation	0	1	14	0.1
+SWCNT	1.2	1000	tube	-	-27.60 	1040	Mouse	male	5	26	intratracheal instillation	0	1	28	0.1
+SWCNT	1.2	6000	tube	-	-27.60 	1040	Mouse	male	6	26	intratracheal instillation	0	1	1	0.1
+SWCNT	1.2	6000	tube	-	-27.60 	1040	Mouse	male	6	26	intratracheal instillation	0	1	7	0.1
+SWCNT	1.2	6000	tube	-	-27.60 	1040	Mouse	male	6	26	intratracheal instillation	0	1	14	0.1
+SWCNT	1.2	6000	tube	-	-27.60 	1040	Mouse	male	6	26	intratracheal instillation	0	1	28	0.1
+SiO2	40	40	sphere	-	-12.76 	26.5	Mouse	male	5	26	intratracheal instillation	0	1	1	1
+SiO2	40	40	sphere	-	-12.76 	26.5	Mouse	male	5	26	intratracheal instillation	0	1	7	1
+SiO2	40	40	sphere	-	-12.76 	26.5	Mouse	male	5	26	intratracheal instillation	0	1	14	1
+SiO2	40	40	sphere	-	-12.76 	26.5	Mouse	male	5	26	intratracheal instillation	0	1	28	1
+TiO2	20	20	sphere	-	-16.90 	50	Mouse	male	8	30	intratracheal instillation	0	1	1	5
+TiO2	20	20	sphere	-	-16.90 	50	Mouse	male	8	30	intratracheal instillation	0	1	1	20
+TiO2	20	20	sphere	-	-16.90 	50	Mouse	male	8	30	intratracheal instillation	0	1	1	50
+TiO2	20	20	sphere	-	-16.90 	50	Mouse	male	8	30	intratracheal instillation	0	1	7	20
+TiO2	20	20	sphere	-	-16.90 	50	Mouse	male	8	30	intratracheal instillation	0	1	14	20
+TiO2	20	20	sphere	-	-16.90 	50	Mouse	male	8	30	intratracheal instillation	0	1	28	20
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	7	22.5	PA	0	1	1	0.44
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	7	22.5	PA	0	1	1	0.88
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	7	22.5	PA	0	1	1	1.78
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	7	22.5	PA	0	1	7	0.44
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	7	22.5	PA	0	1	7	0.88
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	7	22.5	PA	0	1	7	1.78
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	7	22.5	PA	0	1	14	0.44
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	7	22.5	PA	0	1	14	0.88
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	7	22.5	PA	0	1	14	1.78
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	7	22.5	PA	0	1	28	0.44
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	7	22.5	PA	0	1	28	0.88
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	7	22.5	PA	0	1	28	1.78
+MWCNT	20.56	518.9	tube	-	-11.00 	150	Mouse	female	8	19	intratracheal instillation	0	1	1	0.32
+MWCNT	20.56	518.9	tube	-	-11.00 	150	Mouse	female	8	19	intratracheal instillation	0	1	1	0.95
+MWCNT	20.56	518.9	tube	-	-11.00 	150	Mouse	female	8	19	intratracheal instillation	0	1	1	2.84
+MWCNT	26.38	1005	tube	OH	-11.00 	152	Mouse	female	8	19	intratracheal instillation	0	1	1	0.32
+MWCNT	26.38	1005	tube	OH	-11.00 	152	Mouse	female	8	19	intratracheal instillation	0	1	1	0.95
+MWCNT	26.38	1005	tube	OH	-11.00 	152	Mouse	female	8	19	intratracheal instillation	0	1	1	2.84
+MWCNT	20.5	723.2	tube	COOH	-11.00 	141	Mouse	female	8	19	intratracheal instillation	0	1	1	0.32
+MWCNT	20.5	723.2	tube	COOH	-11.00 	141	Mouse	female	8	19	intratracheal instillation	0	1	1	0.95
+MWCNT	20.5	723.2	tube	COOH	-11.00 	141	Mouse	female	8	19	intratracheal instillation	0	1	1	2.84
+MWCNT	26.73	771.3	tube	-	-11.00 	82	Mouse	female	8	19	intratracheal instillation	0	1	1	0.32
+MWCNT	26.73	771.3	tube	-	-11.00 	82	Mouse	female	8	19	intratracheal instillation	0	1	1	0.95
+MWCNT	26.73	771.3	tube	-	-11.00 	82	Mouse	female	8	19	intratracheal instillation	0	1	1	2.84
+MWCNT	32.55	1330	tube	OH	-11.00 	74	Mouse	female	8	19	intratracheal instillation	0	1	1	0.32
+MWCNT	32.55	1330	tube	OH	-11.00 	74	Mouse	female	8	19	intratracheal instillation	0	1	1	0.95
+MWCNT	32.55	1330	tube	OH	-11.00 	74	Mouse	female	8	19	intratracheal instillation	0	1	1	2.84
+MWCNT	28.07	1553	tube	COOH	-11.00 	119	Mouse	female	8	19	intratracheal instillation	0	1	1	0.32
+MWCNT	28.07	1553	tube	COOH	-11.00 	119	Mouse	female	8	19	intratracheal instillation	0	1	1	0.95
+MWCNT	28.07	1553	tube	COOH	-11.00 	119	Mouse	female	8	19	intratracheal instillation	0	1	1	2.84
+MWCNT	17.22	717.2	tube	-	-11.00 	223	Mouse	female	8	19	intratracheal instillation	0	1	1	0.32
+MWCNT	17.22	717.2	tube	-	-11.00 	223	Mouse	female	8	19	intratracheal instillation	0	1	1	0.95
+MWCNT	17.22	717.2	tube	-	-11.00 	223	Mouse	female	8	19	intratracheal instillation	0	1	1	2.84
+MWCNT	12.96	532.5	tube	OH	-11.00 	216	Mouse	female	8	19	intratracheal instillation	0	1	1	0.32
+MWCNT	12.96	532.5	tube	OH	-11.00 	216	Mouse	female	8	19	intratracheal instillation	0	1	1	0.95
+MWCNT	12.96	532.5	tube	OH	-11.00 	216	Mouse	female	8	19	intratracheal instillation	0	1	1	2.84
+MWCNT	15.08	1604	tube	COOH	-11.00 	185	Mouse	female	8	19	intratracheal instillation	0	1	1	0.32
+MWCNT	15.08	1604	tube	COOH	-11.00 	185	Mouse	female	8	19	intratracheal instillation	0	1	1	0.95
+MWCNT	15.08	1604	tube	COOH	-11.00 	185	Mouse	female	8	19	intratracheal instillation	0	1	1	2.84
+MWCNT	13.85	731.1	tube	NH2	-11.00 	199	Mouse	female	8	19	intratracheal instillation	0	1	1	0.32
+MWCNT	13.85	731.1	tube	NH2	-11.00 	199	Mouse	female	8	19	intratracheal instillation	0	1	1	0.95
+MWCNT	13.85	731.1	tube	NH2	-11.00 	199	Mouse	female	8	19	intratracheal instillation	0	1	1	2.84
+CB	9	9	sphere	-	-3.70 	182	Mouse	female	8	19	intratracheal instillation	0	1	1	8.52
+MWCNT	20.56	518.9	tube	-	-11.00 	150	Mouse	female	8	19	intratracheal instillation	0	1	28	0.32
+MWCNT	20.56	518.9	tube	-	-11.00 	150	Mouse	female	8	19	intratracheal instillation	0	1	28	0.95
+MWCNT	20.56	518.9	tube	-	-11.00 	150	Mouse	female	8	19	intratracheal instillation	0	1	28	2.84
+MWCNT	26.38	1005	tube	OH	-11.00 	152	Mouse	female	8	19	intratracheal instillation	0	1	28	0.32
+MWCNT	26.38	1005	tube	OH	-11.00 	152	Mouse	female	8	19	intratracheal instillation	0	1	28	0.95
+MWCNT	26.38	1005	tube	OH	-11.00 	152	Mouse	female	8	19	intratracheal instillation	0	1	28	2.84
+MWCNT	20.5	723.2	tube	COOH	-11.00 	141	Mouse	female	8	19	intratracheal instillation	0	1	28	0.32
+MWCNT	20.5	723.2	tube	COOH	-11.00 	141	Mouse	female	8	19	intratracheal instillation	0	1	28	0.95
+MWCNT	20.5	723.2	tube	COOH	-11.00 	141	Mouse	female	8	19	intratracheal instillation	0	1	28	2.84
+MWCNT	26.73	771.3	tube	-	-11.00 	82	Mouse	female	8	19	intratracheal instillation	0	1	28	0.32
+MWCNT	26.73	771.3	tube	-	-11.00 	82	Mouse	female	8	19	intratracheal instillation	0	1	28	0.95
+MWCNT	26.73	771.3	tube	-	-11.00 	82	Mouse	female	8	19	intratracheal instillation	0	1	28	2.84
+MWCNT	32.55	1330	tube	OH	-11.00 	74	Mouse	female	8	19	intratracheal instillation	0	1	28	0.32
+MWCNT	32.55	1330	tube	OH	-11.00 	74	Mouse	female	8	19	intratracheal instillation	0	1	28	0.95
+MWCNT	32.55	1330	tube	OH	-11.00 	74	Mouse	female	8	19	intratracheal instillation	0	1	28	2.84
+MWCNT	28.07	1553	tube	COOH	-11.00 	119	Mouse	female	8	19	intratracheal instillation	0	1	28	0.32
+MWCNT	28.07	1553	tube	COOH	-11.00 	119	Mouse	female	8	19	intratracheal instillation	0	1	28	0.95
+MWCNT	28.07	1553	tube	COOH	-11.00 	119	Mouse	female	8	19	intratracheal instillation	0	1	28	2.84
+MWCNT	17.22	717.2	tube	-	-11.00 	223	Mouse	female	8	19	intratracheal instillation	0	1	28	0.32
+MWCNT	17.22	717.2	tube	-	-11.00 	223	Mouse	female	8	19	intratracheal instillation	0	1	28	0.95
+MWCNT	17.22	717.2	tube	-	-11.00 	223	Mouse	female	8	19	intratracheal instillation	0	1	28	2.84
+MWCNT	12.96	532.5	tube	OH	-11.00 	216	Mouse	female	8	19	intratracheal instillation	0	1	28	0.32
+MWCNT	12.96	532.5	tube	OH	-11.00 	216	Mouse	female	8	19	intratracheal instillation	0	1	28	0.95
+MWCNT	12.96	532.5	tube	OH	-11.00 	216	Mouse	female	8	19	intratracheal instillation	0	1	28	2.84
+MWCNT	15.08	1604	tube	COOH	-11.00 	185	Mouse	female	8	19	intratracheal instillation	0	1	28	0.32
+MWCNT	15.08	1604	tube	COOH	-11.00 	185	Mouse	female	8	19	intratracheal instillation	0	1	28	0.95
+MWCNT	15.08	1604	tube	COOH	-11.00 	185	Mouse	female	8	19	intratracheal instillation	0	1	28	2.84
+MWCNT	13.85	731.1	tube	NH2	-11.00 	199	Mouse	female	8	19	intratracheal instillation	0	1	28	0.32
+MWCNT	13.85	731.1	tube	NH2	-11.00 	199	Mouse	female	8	19	intratracheal instillation	0	1	28	0.95
+MWCNT	13.85	731.1	tube	NH2	-11.00 	199	Mouse	female	8	19	intratracheal instillation	0	1	28	2.84
+CB	9	9	tube	-	-3.70 	182	Mouse	female	8	19	intratracheal instillation	0	1	28	8.52
+MWCNT	20.56	518.9	tube	-	-11.00 	150	Mouse	female	8	19	intratracheal instillation	0	1	92	2.84
+MWCNT	26.38	1005	tube	OH	-11.00 	152	Mouse	female	8	19	intratracheal instillation	0	1	92	2.84
+MWCNT	20.5	723.2	tube	COOH	-11.00 	141	Mouse	female	8	19	intratracheal instillation	0	1	92	2.84
+MWCNT	26.73	771.3	tube	-	-11.00 	82	Mouse	female	8	19	intratracheal instillation	0	1	92	2.84
+MWCNT	32.55	1330	tube	OH	-11.00 	74	Mouse	female	8	19	intratracheal instillation	0	1	92	2.84
+MWCNT	28.07	1553	tube	COOH	-11.00 	119	Mouse	female	8	19	intratracheal instillation	0	1	92	2.84
+MWCNT	17.22	717.2	tube	-	-11.00 	223	Mouse	female	8	19	intratracheal instillation	0	1	92	2.84
+MWCNT	12.96	532.5	tube	OH	-11.00 	216	Mouse	female	8	19	intratracheal instillation	0	1	92	2.84
+MWCNT	15.08	1604	tube	COOH	-11.00 	185	Mouse	female	8	19	intratracheal instillation	0	1	92	2.84
+MWCNT	13.85	731.1	tube	NH2	-11.00 	199	Mouse	female	8	19	intratracheal instillation	0	1	92	2.84
+CB	9	9	tube	-	-3.70 	182	Mouse	female	8	19	intratracheal instillation	0	1	92	8.52
+MWCNT	11	850	tube	-	-11.00 	245.8	Mouse	female	8	19	intratracheal instillation	0	1	1	0.95
+MWCNT	11	850	tube	-	-11.00 	245.8	Mouse	female	8	19	intratracheal instillation	0	1	3	0.95
+MWCNT	11	850	tube	-	-11.00 	245.8	Mouse	female	8	19	intratracheal instillation	0	1	28	0.95
+MWCNT	11	850	tube	-	-11.00 	245.8	Mouse	female	8	19	intratracheal instillation	0	1	1	2.84
+MWCNT	11	850	tube	-	-11.00 	245.8	Mouse	female	8	19	intratracheal instillation	0	1	3	2.84
+MWCNT	11	850	tube	-	-11.00 	245.8	Mouse	female	8	19	intratracheal instillation	0	1	28	2.84
+MWCNT	11	850	tube	-	-11.00 	245.8	Mouse	female	8	19	intratracheal instillation	0	1	1	8.52
+MWCNT	11	850	tube	-	-11.00 	245.8	Mouse	female	8	19	intratracheal instillation	0	1	3	8.52
+MWCNT	11	850	tube	-	-11.00 	245.8	Mouse	female	8	19	intratracheal instillation	0	1	28	8.52
+MWCNT	67	4050	tube	-	-11.00 	14.6	Mouse	female	8	19	intratracheal instillation	0	1	1	0.95
+MWCNT	67	4050	tube	-	-11.00 	14.6	Mouse	female	8	19	intratracheal instillation	0	1	3	0.95
+MWCNT	67	4050	tube	-	-11.00 	14.6	Mouse	female	8	19	intratracheal instillation	0	1	28	0.95
+MWCNT	67	4050	tube	-	-11.00 	14.6	Mouse	female	8	19	intratracheal instillation	0	1	1	2.84
+MWCNT	67	4050	tube	-	-11.00 	14.6	Mouse	female	8	19	intratracheal instillation	0	1	3	2.84
+MWCNT	67	4050	tube	-	-11.00 	14.6	Mouse	female	8	19	intratracheal instillation	0	1	28	2.84
+MWCNT	67	4050	tube	-	-11.00 	14.6	Mouse	female	8	19	intratracheal instillation	0	1	1	8.52
+MWCNT	67	4050	tube	-	-11.00 	14.6	Mouse	female	8	19	intratracheal instillation	0	1	3	8.52
+MWCNT	67	4050	tube	-	-11.00 	14.6	Mouse	female	8	19	intratracheal instillation	0	1	28	8.52
+SiO2	100	100	sphere	-	-28.40 	12.7	Mouse	female	5	16	intranasal inoculation	2	3	2	0.1
+SiO2	100	100	sphere	-	-28.40 	70.6	Mouse	female	5	16	intranasal inoculation	2	3	2	0.1
+SiO2	100	100	sphere	PEG	-28.40 	12.7	Mouse	female	5	16	intranasal inoculation	2	3	2	0.1
+ZnO	41.7	41.7	sphere	-	-16.90 	23.6	Rat	male	8	180	OPA	3	3	1	2
+ZnO	41.7	41.7	sphere	-	-16.90 	23.6	Rat	male	8	180	OPA	3	3	1	4
+ZnO	41.7	41.7	sphere	-	-16.90 	23.6	Rat	male	8	180	OPA	3	3	1	8
+TiO2	8	8	sphere	-	-16.90 	231.74	Mouse	female	6	20	intratracheal instillation	0	1	1	2.7
+TiO2	8	8	sphere	-	-16.90 	231.74	Mouse	female	6	20	intratracheal instillation	0	1	1	8.1
+TiO2	8	8	sphere	-	-16.90 	231.74	Mouse	female	6	20	intratracheal instillation	0	1	1	24.3
+TiO2	20	20	sphere	-	-16.90 	90	Mouse	female	6	20	intratracheal instillation	0	1	1	2.7
+TiO2	20	20	sphere	-	-16.90 	90	Mouse	female	6	20	intratracheal instillation	0	1	1	8.1
+TiO2	20	20	sphere	-	-16.90 	90	Mouse	female	6	20	intratracheal instillation	0	1	1	24.3
+TiO2	300	300	sphere	-	-16.90 	10	Mouse	female	6	20	intratracheal instillation	0	1	1	2.7
+TiO2	300	300	sphere	-	-16.90 	10	Mouse	female	6	20	intratracheal instillation	0	1	1	8.1
+TiO2	300	300	sphere	-	-16.90 	10	Mouse	female	6	20	intratracheal instillation	0	1	1	24.3
+TiO2	31	31	sphere	-	-16.90 	54.15	Mouse	female	6	20	intratracheal instillation	0	1	1	2.7
+TiO2	31	31	sphere	-	-16.90 	54.15	Mouse	female	6	20	intratracheal instillation	0	1	1	8.1
+TiO2	31	31	sphere	-	-16.90 	54.15	Mouse	female	6	20	intratracheal instillation	0	1	1	24.3
+TiO2	20	20	sphere	-	-16.90 	51.28	Mouse	female	6	20	intratracheal instillation	0	1	1	2.7
+TiO2	20	20	sphere	-	-16.90 	51.28	Mouse	female	6	20	intratracheal instillation	0	1	1	8.1
+TiO2	20	20	sphere	-	-16.90 	51.28	Mouse	female	6	20	intratracheal instillation	0	1	1	24.3
+TiO2	21	21	sphere	-	-16.90 	57.13	Mouse	female	6	20	intratracheal instillation	0	1	1	2.7
+TiO2	21	21	sphere	-	-16.90 	57.13	Mouse	female	6	20	intratracheal instillation	0	1	1	8.1
+TiO2	21	21	sphere	-	-16.90 	57.13	Mouse	female	6	20	intratracheal instillation	0	1	28	24.3
+TiO2	8	8	sphere	-	-16.90 	231.74	Mouse	female	6	20	intratracheal instillation	0	1	28	2.7
+TiO2	8	8	sphere	-	-16.90 	231.74	Mouse	female	6	20	intratracheal instillation	0	1	28	8.1
+TiO2	8	8	sphere	-	-16.90 	231.74	Mouse	female	6	20	intratracheal instillation	0	1	28	24.3
+TiO2	20	20	sphere	-	-16.90 	90	Mouse	female	6	20	intratracheal instillation	0	1	28	2.7
+TiO2	20	20	sphere	-	-16.90 	90	Mouse	female	6	20	intratracheal instillation	0	1	28	8.1
+TiO2	20	20	sphere	-	-16.90 	90	Mouse	female	6	20	intratracheal instillation	0	1	28	24.3
+TiO2	300	300	sphere	-	-16.90 	10	Mouse	female	6	20	intratracheal instillation	0	1	28	2.7
+TiO2	300	300	sphere	-	-16.90 	10	Mouse	female	6	20	intratracheal instillation	0	1	28	8.1
+TiO2	300	300	sphere	-	-16.90 	10	Mouse	female	6	20	intratracheal instillation	0	1	28	24.3
+TiO2	31	31	sphere	-	-16.90 	54.15	Mouse	female	6	20	intratracheal instillation	0	1	28	2.7
+TiO2	31	31	sphere	-	-16.90 	54.15	Mouse	female	6	20	intratracheal instillation	0	1	28	8.1
+TiO2	31	31	sphere	-	-16.90 	54.15	Mouse	female	6	20	intratracheal instillation	0	1	28	24.3
+TiO2	20	20	sphere	-	-16.90 	51.28	Mouse	female	6	20	intratracheal instillation	0	1	28	2.7
+TiO2	20	20	sphere	-	-16.90 	51.28	Mouse	female	6	20	intratracheal instillation	0	1	28	8.1
+TiO2	20	20	sphere	-	-16.90 	51.28	Mouse	female	6	20	intratracheal instillation	0	1	28	24.3
+TiO2	21	21	sphere	-	-16.90 	57.13	Mouse	female	6	20	intratracheal instillation	0	1	28	2.7
+TiO2	21	21	sphere	-	-16.90 	57.13	Mouse	female	6	20	intratracheal instillation	0	1	28	8.1
+TiO2	21	21	sphere	-	-16.90 	57.13	Mouse	female	6	20	intratracheal instillation	0	1	28	24.3
+MWCNT	120	3860	tube	-	-11.00 	197	Rat	male	8	212.5	intratracheal instillation	0	1	1	0.2
+MWCNT	120	3860	tube	-	-11.00 	197	Rat	male	8	212.5	intratracheal instillation	0	1	7	0.2
+MWCNT	120	3860	tube	-	-11.00 	197	Rat	male	8	212.5	intratracheal instillation	0	1	30	0.2
+MWCNT	120	3860	tube	-	-11.00 	197	Rat	male	8	212.5	intratracheal instillation	0	1	90	0.2
+MWCNT	120	3860	tube	-	-11.00 	197	Rat	male	8	212.5	intratracheal instillation	0	1	1	1
+MWCNT	120	3860	tube	-	-11.00 	197	Rat	male	8	212.5	intratracheal instillation	0	1	7	1
+MWCNT	120	3860	tube	-	-11.00 	197	Rat	male	8	212.5	intratracheal instillation	0	1	30	1
+MWCNT	120	3860	tube	-	-11.00 	197	Rat	male	8	212.5	intratracheal instillation	0	1	90	1
+MWCNT	120	3860	tube	-	-11.00 	197	Rat	male	8	212.5	intratracheal instillation	0	1	1	5
+MWCNT	120	3860	tube	-	-11.00 	197	Rat	male	8	212.5	intratracheal instillation	0	1	7	5
+MWCNT	120	3860	tube	-	-11.00 	197	Rat	male	8	212.5	intratracheal instillation	0	1	30	5
+MWCNT	120	3860	tube	-	-11.00 	197	Rat	male	8	212.5	intratracheal instillation	0	1	90	5
+MWCNT	70	3860	tube	-	-11.00 	252	Rat	male	8	212.5	intratracheal instillation	0	1	1	0.2
+MWCNT	70	3860	tube	-	-11.00 	252	Rat	male	8	212.5	intratracheal instillation	0	1	7	0.2
+MWCNT	70	3860	tube	-	-11.00 	252	Rat	male	8	212.5	intratracheal instillation	0	1	30	0.2
+MWCNT	70	3860	tube	-	-11.00 	252	Rat	male	8	212.5	intratracheal instillation	0	1	90	0.2
+MWCNT	70	3860	tube	-	-11.00 	252	Rat	male	8	212.5	intratracheal instillation	0	1	1	1
+MWCNT	70	3860	tube	-	-11.00 	252	Rat	male	8	212.5	intratracheal instillation	0	1	7	1
+MWCNT	70	3860	tube	-	-11.00 	252	Rat	male	8	212.5	intratracheal instillation	0	1	30	1
+MWCNT	70	3860	tube	-	-11.00 	252	Rat	male	8	212.5	intratracheal instillation	0	1	90	1
+MWCNT	70	3860	tube	-	-11.00 	252	Rat	male	8	212.5	intratracheal instillation	0	1	1	5
+MWCNT	70	3860	tube	-	-11.00 	252	Rat	male	8	212.5	intratracheal instillation	0	1	7	5
+MWCNT	70	3860	tube	-	-11.00 	252	Rat	male	8	212.5	intratracheal instillation	0	1	30	5
+MWCNT	70	3860	tube	-	-11.00 	252	Rat	male	8	212.5	intratracheal instillation	0	1	90	5
+TiO2	260.3	260.3	sphere	-	-16.90 	7.9	Rat	male	8	420	intratracheal instillation	0	1	1	0.3
+TiO2	260.3	260.3	sphere	-	-16.90 	7.9	Rat	male	8	420	intratracheal instillation	0	1	1	1.19
+TiO2	14.3	14.3	sphere	-	-16.90 	253.9	Rat	male	8	420	intratracheal instillation	0	1	1	0.3
+TiO2	14.3	14.3	sphere	-	-16.90 	253.9	Rat	male	8	420	intratracheal instillation	0	1	1	1.19
+CB	250	250	sphere	-	-3.70 	6.6	Rat	male	8	420	intratracheal instillation	0	1	1	0.3
+CB	250	250	sphere	-	-3.70 	6.6	Rat	male	8	420	intratracheal instillation	0	1	1	1.19
+CB	29	29	sphere	-	-3.70 	40.78	Rat	male	8	420	intratracheal instillation	0	1	1	0.3
+CB	29	29	sphere	-	-3.70 	40.78	Rat	male	8	420	intratracheal instillation	0	1	1	1.19
+QD-CdSe-ZnS	7.5	7.5	dots	NH2	-14.55 	89	Rat	male	10	275	intratracheal instillation	0	1	1	0.0045
+QD-CdSe-ZnS	7.5	7.5	dots	COOH	-14.55 	89	Rat	male	10	275	intratracheal instillation	0	1	1	0.0045
+QD-CdSe-ZnS	7.5	7.5	dots	NH2	-14.55 	89	Rat	male	10	275	intratracheal instillation	0	1	1	0.018
+QD-CdSe-ZnS	7.5	7.5	dots	COOH	-14.55 	89	Rat	male	10	275	intratracheal instillation	0	1	1	0.018
+QD-CdSe-ZnS	7.5	7.5	dots	NH2	-14.55 	89	Rat	male	10	275	intratracheal instillation	0	1	1	0.045
+QD-CdSe-ZnS	7.5	7.5	dots	COOH	-14.55 	89	Rat	male	10	275	intratracheal instillation	0	1	1	0.045
+QD-CdSe-ZnS	7.5	7.5	dots	NH2	-14.55 	89	Rat	male	10	275	intratracheal instillation	0	1	3	0.0045
+QD-CdSe-ZnS	7.5	7.5	dots	COOH	-14.55 	89	Rat	male	10	275	intratracheal instillation	0	1	3	0.0045
+QD-CdSe-ZnS	7.5	7.5	dots	NH2	-14.55 	89	Rat	male	10	275	intratracheal instillation	0	1	3	0.018
+QD-CdSe-ZnS	7.5	7.5	dots	COOH	-14.55 	89	Rat	male	10	275	intratracheal instillation	0	1	3	0.018
+QD-CdSe-ZnS	7.5	7.5	dots	NH2	-14.55 	89	Rat	male	10	275	intratracheal instillation	0	1	3	0.045
+QD-CdSe-ZnS	7.5	7.5	dots	COOH	-14.55 	89	Rat	male	10	275	intratracheal instillation	0	1	3	0.045
+QD-CdSe-ZnS	7.5	7.5	dots	NH2	-14.55 	89	Rat	male	10	275	intratracheal instillation	0	1	5	0.0045
+QD-CdSe-ZnS	7.5	7.5	dots	COOH	-14.55 	89	Rat	male	10	275	intratracheal instillation	0	1	5	0.0045
+QD-CdSe-ZnS	7.5	7.5	dots	NH2	-14.55 	89	Rat	male	10	275	intratracheal instillation	0	1	5	0.018
+QD-CdSe-ZnS	7.5	7.5	dots	COOH	-14.55 	89	Rat	male	10	275	intratracheal instillation	0	1	5	0.018
+QD-CdSe-ZnS	7.5	7.5	dots	NH2	-14.55 	89	Rat	male	10	275	intratracheal instillation	0	1	5	0.045
+QD-CdSe-ZnS	7.5	7.5	dots	COOH	-14.55 	89	Rat	male	10	275	intratracheal instillation	0	1	5	0.045
+QD-CdSe-ZnS	7.5	7.5	dots	NH2	-14.55 	89	Rat	male	10	275	intratracheal instillation	0	1	7	0.0045
+QD-CdSe-ZnS	7.5	7.5	dots	COOH	-14.55 	89	Rat	male	10	275	intratracheal instillation	0	1	7	0.0045
+QD-CdSe-ZnS	7.5	7.5	dots	NH2	-14.55 	89	Rat	male	10	275	intratracheal instillation	0	1	7	0.018
+QD-CdSe-ZnS	7.5	7.5	dots	COOH	-14.55 	89	Rat	male	10	275	intratracheal instillation	0	1	7	0.018
+QD-CdSe-ZnS	7.5	7.5	dots	NH2	-14.55 	89	Rat	male	10	275	intratracheal instillation	0	1	7	0.045
+QD-CdSe-ZnS	7.5	7.5	dots	COOH	-14.55 	89	Rat	male	10	275	intratracheal instillation	0	1	7	0.045
+QD-CdSe-ZnS	7.5	7.5	dots	NH2	-14.55 	89	Rat	male	10	275	intratracheal instillation	0	1	14	0.0045
+QD-CdSe-ZnS	7.5	7.5	dots	COOH	-14.55 	89	Rat	male	10	275	intratracheal instillation	0	1	14	0.0045
+QD-CdSe-ZnS	7.5	7.5	dots	NH2	-14.55 	89	Rat	male	10	275	intratracheal instillation	0	1	14	0.018
+QD-CdSe-ZnS	7.5	7.5	dots	COOH	-14.55 	89	Rat	male	10	275	intratracheal instillation	0	1	14	0.018
+QD-CdSe-ZnS	7.5	7.5	dots	NH2	-14.55 	89	Rat	male	10	275	intratracheal instillation	0	1	14	0.045
+QD-CdSe-ZnS	7.5	7.5	dots	COOH	-14.55 	89	Rat	male	10	275	intratracheal instillation	0	1	14	0.045
+QD-CdSe-ZnS	7.5	7.5	dots	NH2	-14.55 	89	Rat	male	10	275	intratracheal instillation	0	1	28	0.0045
+QD-CdSe-ZnS	7.5	7.5	dots	COOH	-14.55 	89	Rat	male	10	275	intratracheal instillation	0	1	28	0.0045
+QD-CdSe-ZnS	7.5	7.5	dots	NH2	-14.55 	89	Rat	male	10	275	intratracheal instillation	0	1	28	0.018
+QD-CdSe-ZnS	7.5	7.5	dots	COOH	-14.55 	89	Rat	male	10	275	intratracheal instillation	0	1	28	0.018
+QD-CdSe-ZnS	7.5	7.5	dots	NH2	-14.55 	89	Rat	male	10	275	intratracheal instillation	0	1	28	0.045
+QD-CdSe-ZnS	7.5	7.5	dots	COOH	-14.55 	89	Rat	male	10	275	intratracheal instillation	0	1	28	0.045
+MWCNT	12.5	5000	tube	-	-11.00 	152	Mouse	male	9	25	intranasal instillation	14	3	9	1
+MWCNT	12.5	5000	tube	-	-11.00 	152	Mouse	male	9	25	intranasal instillation	18	9	5	1
+MWCNT	12.5	950	tube	-	-11.00 	152	Mouse	male	9	25	intranasal instillation	0	1	1	0.25
+MWCNT	12.5	950	tube	-	-11.00 	152	Mouse	male	9	25	intranasal instillation	14	3	7	0.05
+MWCNT	12.5	950	tube	-	-11.00 	152	Mouse	male	9	25	intranasal instillation	14	3	7	0.25
+MWCNT	12.5	950	tube	-	-11.00 	152	Mouse	male	9	25	intranasal instillation	14	3	7	1
+TiO2	7.6	35.9	rod	-	-16.90 	160.34	Rat	unknow	8	300	intratracheal instillation	0	1	1	0.033
+TiO2	7.6	35.9	rod	-	-16.90 	160.34	Rat	unknow	8	300	intratracheal instillation	0	1	1	0.333
+TiO2	7.6	35.9	rod	-	-16.90 	160.34	Rat	unknow	8	300	intratracheal instillation	0	1	1	3.333
+TiO2	7.6	35.9	rod	-	-16.90 	160.34	Rat	unknow	8	300	intratracheal instillation	0	1	3	0.033
+TiO2	7.6	35.9	rod	-	-16.90 	160.34	Rat	unknow	8	300	intratracheal instillation	0	1	3	0.333
+TiO2	7.6	35.9	rod	-	-16.90 	160.34	Rat	unknow	8	300	intratracheal instillation	0	1	3	3.333
+TiO2	7.6	35.9	rod	-	-16.90 	160.34	Rat	unknow	8	300	intratracheal instillation	0	1	6	0.033
+TiO2	7.6	35.9	rod	-	-16.90 	160.34	Rat	unknow	8	300	intratracheal instillation	0	1	6	0.333
+TiO2	7.6	35.9	rod	-	-16.90 	160.34	Rat	unknow	8	300	intratracheal instillation	0	1	6	3.333
+TiO2	12	12	sphere	-	-16.90 	12	Rat	male	7	279	intratracheal instillation	0	1	1	0.36
+CB	23	23	sphere	-	-21.40 	23	Rat	male	7	279	intratracheal instillation	0	1	1	0.36
+TiO2	12	12	sphere	-	-16.90 	12	Rat	male	7	279	intratracheal instillation	0	1	14	0.36
+CB	23	23	sphere	-	-21.40 	23	Rat	male	7	279	intratracheal instillation	0	1	14	0.36
+TiO2	12	12	sphere	-	-16.90 	12	Rat	male	7	279	intratracheal instillation	0	1	1	1.79
+CB	23	23	sphere	-	-21.40 	23	Rat	male	7	279	intratracheal instillation	0	1	1	1.79
+TiO2	12	12	sphere	-	-16.90 	12	Rat	male	7	279	intratracheal instillation	0	1	14	1.79
+CB	23	23	sphere	-	-21.40 	23	Rat	male	7	279	intratracheal instillation	0	1	14	1.79
+SiO2	1200	1200	sphere	-	-28.40 	11.49	Mouse	female	7	20	intratracheal instillation	0	1	1	0.25
+SiO2	155.2	155.2	sphere	-	-28.40 	2.7	Mouse	female	7	20	intratracheal instillation	0	1	1	0.25
+SiO2	1200	1200	sphere	-	-28.40 	11.49	Mouse	female	7	20	intratracheal instillation	0	1	1	2.5
+SiO2	155.2	155.2	sphere	-	-28.40 	2.7	Mouse	female	7	20	intratracheal instillation	0	1	1	2.5
+SiO2	1200	1200	sphere	-	-28.40 	11.49	Mouse	female	7	20	intratracheal instillation	0	1	1	25
+SiO2	155.2	155.2	sphere	-	-28.40 	2.7	Mouse	female	7	20	intratracheal instillation	0	1	1	25
+SiO2	1200	1200	sphere	-	-28.40 	11.49	Mouse	female	7	20	intratracheal instillation	0	1	90	0.25
+SiO2	155.2	155.2	sphere	-	-28.40 	2.7	Mouse	female	7	20	intratracheal instillation	0	1	90	0.25
+SiO2	1200	1200	sphere	-	-28.40 	11.49	Mouse	female	7	20	intratracheal instillation	0	1	90	2.5
+SiO2	155.2	155.2	sphere	-	-28.40 	2.7	Mouse	female	7	20	intratracheal instillation	0	1	90	2.5
+SiO2	1200	1200	sphere	-	-28.40 	11.49	Mouse	female	7	20	intratracheal instillation	0	1	90	25
+SiO2	155.2	155.2	sphere	-	-28.40 	2.7	Mouse	female	7	20	intratracheal instillation	0	1	90	25
+TiO2	200	200	sphere	-	-16.90 	2.6	Mouse	female	7	20	intratracheal instillation	0	1	1	0.25
+TiO2	35	150	rod	-	-16.90 	73	Mouse	female	7	20	intratracheal instillation	0	1	1	0.25
+TiO2	13	13	sphere	-	-16.90 	150	Mouse	female	7	20	intratracheal instillation	0	1	1	0.25
+TiO2	100	100	sphere	-	-16.90 	433	Mouse	female	7	20	intratracheal instillation	0	1	1	0.25
+TiO2	200	200	sphere	-	-16.90 	2.6	Mouse	female	7	20	intratracheal instillation	0	1	1	2.5
+TiO2	35	150	rod	-	-16.90 	73	Mouse	female	7	20	intratracheal instillation	0	1	1	2.5
+TiO2	13	13	sphere	-	-16.90 	150	Mouse	female	7	20	intratracheal instillation	0	1	1	2.5
+TiO2	100	100	sphere	-	-16.90 	433	Mouse	female	7	20	intratracheal instillation	0	1	1	2.5
+TiO2	200	200	sphere	-	-16.90 	2.6	Mouse	female	7	20	intratracheal instillation	0	1	1	25
+TiO2	35	150	rod	-	-16.90 	73	Mouse	female	7	20	intratracheal instillation	0	1	1	25
+TiO2	13	13	sphere	-	-16.90 	150	Mouse	female	7	20	intratracheal instillation	0	1	1	25
+TiO2	100	100	sphere	-	-16.90 	433	Mouse	female	7	20	intratracheal instillation	0	1	1	25
+TiO2	200	200	sphere	-	-16.90 	2.6	Mouse	female	7	20	intratracheal instillation	0	1	90	0.25
+TiO2	35	150	rod	-	-16.90 	73	Mouse	female	7	20	intratracheal instillation	0	1	90	0.25
+TiO2	13	13	sphere	-	-16.90 	150	Mouse	female	7	20	intratracheal instillation	0	1	90	0.25
+TiO2	100	100	sphere	-	-16.90 	433	Mouse	female	7	20	intratracheal instillation	0	1	90	0.25
+TiO2	200	200	sphere	-	-16.90 	2.6	Mouse	female	7	20	intratracheal instillation	0	1	90	2.5
+TiO2	35	150	rod	-	-16.90 	73	Mouse	female	7	20	intratracheal instillation	0	1	90	2.5
+TiO2	13	13	sphere	-	-16.90 	150	Mouse	female	7	20	intratracheal instillation	0	1	90	2.5
+TiO2	100	100	sphere	-	-16.90 	433	Mouse	female	7	20	intratracheal instillation	0	1	90	2.5
+TiO2	200	200	sphere	-	-16.90 	2.6	Mouse	female	7	20	intratracheal instillation	0	1	90	25
+TiO2	35	150	rod	-	-16.90 	73	Mouse	female	7	20	intratracheal instillation	0	1	90	25
+TiO2	13	13	sphere	-	-16.90 	150	Mouse	female	7	20	intratracheal instillation	0	1	90	25
+TiO2	100	100	sphere	-	-16.90 	433	Mouse	female	7	20	intratracheal instillation	0	1	90	25
+SiO2	377	377	trigonal 	-	-28.40 	2.7	Mouse	female	7	20	intratracheal instillation	0	1	0.042	2.5
+SiO2	30	30	trigonal 	-	-28.40 	38.6	Mouse	female	7	20	intratracheal instillation	0	1	0.042	2.5
+SiO2	377	377	trigonal 	-	-28.40 	2.7	Mouse	female	7	20	intratracheal instillation	0	1	0.083	2.5
+SiO2	30	30	trigonal 	-	-28.40 	38.6	Mouse	female	7	20	intratracheal instillation	0	1	0.083	2.5
+SiO2	377	377	trigonal 	-	-28.40 	2.7	Mouse	female	7	20	intratracheal instillation	0	1	0.167	2.5
+SiO2	30	30	trigonal 	-	-28.40 	38.6	Mouse	female	7	20	intratracheal instillation	0	1	0.167	2.5
+SiO2	377	377	trigonal 	-	-28.40 	2.7	Mouse	female	7	20	intratracheal instillation	0	1	0.333	2.5
+SiO2	30	30	trigonal 	-	-28.40 	38.6	Mouse	female	7	20	intratracheal instillation	0	1	0.333	2.5
+SiO2	377	377	trigonal 	-	-28.40 	2.7	Mouse	female	7	20	intratracheal instillation	0	1	0.667	2.5
+SiO2	30	30	trigonal 	-	-28.40 	38.6	Mouse	female	7	20	intratracheal instillation	0	1	0.667	2.5
+SiO2	377	377	trigonal 	-	-28.40 	2.7	Mouse	female	7	20	intratracheal instillation	0	1	2	2.5
+SiO2	30	30	trigonal 	-	-28.40 	38.6	Mouse	female	7	20	intratracheal instillation	0	1	2	2.5
+SiO2	377	377	trigonal 	-	-28.40 	2.7	Mouse	female	7	20	intratracheal instillation	0	1	90	2.5
+SiO2	30	30	trigonal 	-	-28.40 	38.6	Mouse	female	7	20	intratracheal instillation	0	1	90	2.5
+MWCNT	11.5	30000	tube	-	-11.00 	233	Mouse	female	7	17	PA	0	1	0.167	0.588
+MWCNT	11.5	30000	tube	-	-11.00 	233	Mouse	female	7	17	PA	0	1	0.667	0.588
+MWCNT	11.5	30000	tube	-	-11.00 	233	Mouse	female	7	17	PA	0	1	7	0.588
+MWCNT	11.5	30000	tube	-	-11.00 	233	Mouse	female	7	17	PA	0	1	7	2.353
+MWCNT	11.5	30000	tube	-	-11.00 	233	Mouse	female	7	17	PA	0	1	14	0.588
+MWCNT	11.5	30000	tube	-	-11.00 	233	Mouse	female	7	17	PA	0	1	14	2.353
+MWCNT	11.5	30000	tube	-	-11.00 	233	Mouse	female	7	17	PA	0	1	28	0.588
+MWCNT	11.5	30000	tube	-	-11.00 	233	Mouse	female	7	17	PA	0	1	28	2.353
+MWCNT	50	13000	tube	-	-11.00 	26	Mouse	female	7	17	PA	0	1	0.167	0.588
+MWCNT	50	13000	tube	-	-11.00 	26	Mouse	female	7	17	PA	0	1	0.667	0.588
+MWCNT	50	13000	tube	-	-11.00 	26	Mouse	female	7	17	PA	0	1	7	0.588
+MWCNT	50	13000	tube	-	-11.00 	26	Mouse	female	7	17	PA	0	1	7	2.353
+MWCNT	50	13000	tube	-	-11.00 	26	Mouse	female	7	17	PA	0	1	14	0.588
+MWCNT	50	13000	tube	-	-11.00 	26	Mouse	female	7	17	PA	0	1	14	2.353
+MWCNT	50	13000	tube	-	-11.00 	26	Mouse	female	7	17	PA	0	1	28	0.588
+MWCNT	50	13000	tube	-	-11.00 	26	Mouse	female	7	17	PA	0	1	28	2.353
+EPOXY-REF	831	831	sphere	-	-16.90 	4.53	Mouse	female	8	18	intratracheal instillation	0	1	1	3
+EPOXY-REF	1035	1035	sphere	-	-16.90 	4.53	Mouse	female	8	18	intratracheal instillation	0	1	1	9
+EPOXY-REF	831	831	sphere	-	-16.90 	4.53	Mouse	female	8	18	intratracheal instillation	0	1	1	27
+EPOXY-CNT 	113	113	sphere	-	-16.90 	2.45	Mouse	female	8	18	intratracheal instillation	0	1	1	3
+EPOXY-CNT 	1067	1067	sphere	-	-16.90 	2.45	Mouse	female	8	18	intratracheal instillation	0	1	1	9
+EPOXY-CNT 	1197	1197	sphere	-	-16.90 	2.45	Mouse	female	8	18	intratracheal instillation	0	1	1	27
+EPOCYL	111	111	sphere	-	-16.90 	2.65	Mouse	female	8	18	intratracheal instillation	0	1	1	3
+EPOCYL	834	834	sphere	-	-16.90 	2.65	Mouse	female	8	18	intratracheal instillation	0	1	1	9
+EPOCYL	857	857	sphere	-	-16.90 	2.65	Mouse	female	8	18	intratracheal instillation	0	1	1	27
+CB	14	14	sphere	-	-3.70 	316.5	Mouse	female	8	18	intratracheal instillation	0	1	1	9
+EPOXY-REF	831	831	sphere	-	-16.90 	4.53	Mouse	female	8	18	intratracheal instillation	0	1	3	3
+EPOXY-REF	1035	1035	sphere	-	-16.90 	4.53	Mouse	female	8	18	intratracheal instillation	0	1	3	9
+EPOXY-REF	831	831	sphere	-	-16.90 	4.53	Mouse	female	8	18	intratracheal instillation	0	1	3	27
+EPOXY-CNT 	113	113	sphere	-	-16.90 	2.45	Mouse	female	8	18	intratracheal instillation	0	1	3	3
+EPOXY-CNT 	1067	1067	sphere	-	-16.90 	2.45	Mouse	female	8	18	intratracheal instillation	0	1	3	9
+EPOXY-CNT 	1197	1197	sphere	-	-16.90 	2.45	Mouse	female	8	18	intratracheal instillation	0	1	3	27
+EPOCYL	111	111	sphere	-	-16.90 	2.65	Mouse	female	8	18	intratracheal instillation	0	1	3	3
+EPOCYL	834	834	sphere	-	-16.90 	2.65	Mouse	female	8	18	intratracheal instillation	0	1	3	9
+EPOCYL	857	857	sphere	-	-16.90 	2.65	Mouse	female	8	18	intratracheal instillation	0	1	3	27
+CB	14	14	sphere	-	-3.70 	316.5	Mouse	female	8	18	intratracheal instillation	0	1	3	9
+EPOXY-REF	831	831	sphere	-	-16.90 	4.53	Mouse	female	8	18	intratracheal instillation	0	1	28	3
+EPOXY-REF	1035	1035	sphere	-	-16.90 	4.53	Mouse	female	8	18	intratracheal instillation	0	1	28	9
+EPOXY-REF	831	831	sphere	-	-16.90 	4.53	Mouse	female	8	18	intratracheal instillation	0	1	28	27
+EPOXY-CNT 	113	113	sphere	-	-16.90 	2.45	Mouse	female	8	18	intratracheal instillation	0	1	28	3
+EPOXY-CNT 	1067	1067	sphere	-	-16.90 	2.45	Mouse	female	8	18	intratracheal instillation	0	1	28	9
+EPOXY-CNT 	1197	1197	sphere	-	-16.90 	2.45	Mouse	female	8	18	intratracheal instillation	0	1	28	27
+EPOCYL	111	111	sphere	-	-16.90 	2.65	Mouse	female	8	18	intratracheal instillation	0	1	28	3
+EPOCYL	834	834	sphere	-	-16.90 	2.65	Mouse	female	8	18	intratracheal instillation	0	1	28	9
+EPOCYL	857	857	sphere	-	-16.90 	2.65	Mouse	female	8	18	intratracheal instillation	0	1	28	27
+CB	14	14	sphere	-	-3.70 	316.5	Mouse	female	8	18	intratracheal instillation	0	1	28	9
+MWCNT	42	3860	tube	-	-9.76 	152	Mouse	male	8	25	PA	0	1	1	0.1
+MWCNT	42	3860	tube	-	-9.76 	152	Mouse	male	8	25	PA	0	1	1	0.4
+MWCNT	42	3860	tube	-	-9.76 	152	Mouse	male	8	25	PA	0	1	1	1.6
+MWCNT	42	3860	tube	-	-9.76 	152	Mouse	male	8	25	PA	0	1	7	0.1
+MWCNT	42	3860	tube	-	-9.76 	152	Mouse	male	8	25	PA	0	1	7	0.4
+MWCNT	42	3860	tube	-	-9.76 	152	Mouse	male	8	25	PA	0	1	7	1.6
+MWCNT	44	3860	tube	COOH	-13.80 	152	Mouse	male	8	25	PA	0	1	1	0.1
+MWCNT	44	3860	tube	COOH	-13.80 	152	Mouse	male	8	25	PA	0	1	1	0.4
+MWCNT	44	3860	tube	COOH	-13.80 	152	Mouse	male	8	25	PA	0	1	1	1.6
+MWCNT	44	3860	tube	COOH	-13.80 	152	Mouse	male	8	25	PA	0	1	7	0.1
+MWCNT	44	3860	tube	COOH	-13.80 	152	Mouse	male	8	25	PA	0	1	7	0.4
+MWCNT	44	3860	tube	COOH	-13.80 	152	Mouse	male	8	25	PA	0	1	7	1.6
+DWCNT	1.5	5000	tube	-	-11.00 	0.066	Mouse	male	8	25	PA	0	1	1	0.1
+DWCNT	1.5	5000	tube	-	-11.00 	0.066	Mouse	male	8	25	PA	0	1	1	0.4
+DWCNT	1.5	5000	tube	-	-11.00 	0.066	Mouse	male	8	25	PA	0	1	1	1.6
+DWCNT	1.5	5000	tube	-	-11.00 	0.066	Mouse	male	8	25	PA	0	1	7	0.1
+DWCNT	1.5	5000	tube	-	-11.00 	0.066	Mouse	male	8	25	PA	0	1	7	0.4
+DWCNT	1.5	5000	tube	-	-11.00 	0.066	Mouse	male	8	25	PA	0	1	7	1.6
+C60	74.6	74.6	sphere	-	-30.00 	0.92	Rat	unknow	8	225	intratracheal instillation	0	1	1	0.2
+C60	74.6	74.6	sphere	-	-30.00 	0.92	Rat	unknow	8	225	intratracheal instillation	0	1	7	0.2
+C60	74.6	74.6	sphere	-	-30.00 	0.92	Rat	unknow	8	225	intratracheal instillation	0	1	30	0.2
+C60	74.6	74.6	sphere	-	-30.00 	0.92	Rat	unknow	8	225	intratracheal instillation	0	1	90	0.2
+C60	74.6	74.6	sphere	-	-30.00 	0.92	Rat	unknow	8	225	intratracheal instillation	0	1	1	1.5
+C60	74.6	74.6	sphere	-	-30.00 	0.92	Rat	unknow	8	225	intratracheal instillation	0	1	7	1.5
+C60	74.6	74.6	sphere	-	-30.00 	0.92	Rat	unknow	8	225	intratracheal instillation	0	1	30	1.5
+C60	74.6	74.6	sphere	-	-30.00 	0.92	Rat	unknow	8	225	intratracheal instillation	0	1	90	1.5
+C60(OH)24	72	72	sphere	-	0.00 	0.92	Rat	unknow	8	225	intratracheal instillation	0	1	1	0.2
+C60(OH)24	72	72	sphere	-	0.00 	0.92	Rat	unknow	8	225	intratracheal instillation	0	1	7	0.2
+C60(OH)24	72	72	sphere	-	0.00 	0.92	Rat	unknow	8	225	intratracheal instillation	0	1	30	0.2
+C60(OH)24	72	72	sphere	-	0.00 	0.92	Rat	unknow	8	225	intratracheal instillation	0	1	90	0.2
+C60(OH)24	72	72	sphere	-	0.00 	0.92	Rat	unknow	8	225	intratracheal instillation	0	1	1	1.5
+C60(OH)24	72	72	sphere	-	0.00 	0.92	Rat	unknow	8	225	intratracheal instillation	0	1	7	1.5
+C60(OH)24	72	72	sphere	-	0.00 	0.92	Rat	unknow	8	225	intratracheal instillation	0	1	30	1.5
+C60(OH)24	72	72	sphere	-	0.00 	0.92	Rat	unknow	8	225	intratracheal instillation	0	1	90	1.5
+C60	74.6	74.6	sphere	-	-30.00 	0.92	Rat	unknow	8	225	intratracheal instillation	0	1	1	0.4
+C60	74.6	74.6	sphere	-	-30.00 	0.92	Rat	unknow	8	225	intratracheal instillation	0	1	7	0.4
+C60	74.6	74.6	sphere	-	-30.00 	0.92	Rat	unknow	8	225	intratracheal instillation	0	1	30	0.4
+C60	74.6	74.6	sphere	-	-30.00 	0.92	Rat	unknow	8	225	intratracheal instillation	0	1	90	0.4
+C60	74.6	74.6	sphere	-	-30.00 	0.92	Rat	unknow	8	225	intratracheal instillation	0	1	1	3
+C60	74.6	74.6	sphere	-	-30.00 	0.92	Rat	unknow	8	225	intratracheal instillation	0	1	7	3
+C60	74.6	74.6	sphere	-	-30.00 	0.92	Rat	unknow	8	225	intratracheal instillation	0	1	30	3
+C60	74.6	74.6	sphere	-	-30.00 	0.92	Rat	unknow	8	225	intratracheal instillation	0	1	90	3
+C60(OH)24	72	72	sphere	-	0.00 	0.92	Rat	unknow	8	225	intratracheal instillation	0	1	1	0.4
+C60(OH)24	72	72	sphere	-	0.00 	0.92	Rat	unknow	8	225	intratracheal instillation	0	1	7	0.4
+C60(OH)24	72	72	sphere	-	0.00 	0.92	Rat	unknow	8	225	intratracheal instillation	0	1	30	0.4
+C60(OH)24	72	72	sphere	-	0.00 	0.92	Rat	unknow	8	225	intratracheal instillation	0	1	90	0.4
+C60(OH)24	72	72	sphere	-	0.00 	0.92	Rat	unknow	8	225	intratracheal instillation	0	1	1	3
+C60(OH)24	72	72	sphere	-	0.00 	0.92	Rat	unknow	8	225	intratracheal instillation	0	1	7	3
+C60(OH)24	72	72	sphere	-	0.00 	0.92	Rat	unknow	8	225	intratracheal instillation	0	1	30	3
+C60(OH)24	72	72	sphere	-	0.00 	0.92	Rat	unknow	8	225	intratracheal instillation	0	1	90	3
+Ag	20.5	20.5	sphere	PVP	-42.50 	5	Rat	male	10	350	intratracheal instillation	0	1	1	0.1
+Ag	20.4	20.4	sphere	citrate	-42.50 	5	Rat	male	10	350	intratracheal instillation	0	1	1	0.1
+Ag	111.3	111.3	sphere	PVP	-42.50 	5	Rat	male	10	350	intratracheal instillation	0	1	1	0.1
+Ag	111.5	111.5	sphere	citrate	-42.50 	5	Rat	male	10	350	intratracheal instillation	0	1	1	0.1
+Ag	20.5	20.5	sphere	PVP	-42.50 	5	Rat	male	10	350	intratracheal instillation	0	1	7	0.1
+Ag	20.4	20.4	sphere	citrate	-42.50 	5	Rat	male	10	350	intratracheal instillation	0	1	7	0.1
+Ag	111.3	111.3	sphere	PVP	-42.50 	5	Rat	male	10	350	intratracheal instillation	0	1	7	0.1
+Ag	111.5	111.5	sphere	citrate	-42.50 	5	Rat	male	10	350	intratracheal instillation	0	1	7	0.1
+Ag	20.5	20.5	sphere	PVP	-42.50 	5	Rat	male	10	350	intratracheal instillation	0	1	21	0.1
+Ag	20.4	20.4	sphere	citrate	-42.50 	5	Rat	male	10	350	intratracheal instillation	0	1	21	0.1
+Ag	20.5	20.5	sphere	PVP	-42.50 	5	Rat	male	10	300	intratracheal instillation	0	1	1	0.1
+Ag	20.4	20.4	sphere	citrate	-42.50 	5	Rat	male	10	300	intratracheal instillation	0	1	1	0.1
+Ag	20.5	20.5	sphere	PVP	-42.50 	5	Rat	male	10	300	intratracheal instillation	0	1	7	0.1
+Ag	20.4	20.4	sphere	citrate	-42.50 	5	Rat	male	10	300	intratracheal instillation	0	1	7	0.1
+Ag	20.5	20.5	sphere	PVP	-42.50 	5	Rat	male	10	300	intratracheal instillation	0	1	21	0.1
+Ag	20.4	20.4	sphere	citrate	-42.50 	5	Rat	male	10	300	intratracheal instillation	0	1	21	0.1
+NiO	20	20	sphere	-	-30.00 	91.8	Rat	male	12	250	intratracheal instillation	0	1	3	2
+NiO	20	20	sphere	-	-30.00 	91.8	Rat	male	12	250	intratracheal instillation	2	2	3	1
+NiO	20	20	sphere	-	-30.00 	91.8	Rat	male	12	250	intratracheal instillation	4	3	3	0.67
+NiO	20	20	sphere	-	-30.00 	91.8	Rat	male	12	250	intratracheal instillation	6	4	3	0.5
+NiO	20	20	sphere	-	-30.00 	91.8	Rat	male	12	250	intratracheal instillation	0	1	28	2
+NiO	20	20	sphere	-	-30.00 	91.8	Rat	male	12	250	intratracheal instillation	2	2	28	1
+NiO	20	20	sphere	-	-30.00 	91.8	Rat	male	12	250	intratracheal instillation	4	3	28	0.67
+NiO	20	20	sphere	-	-30.00 	91.8	Rat	male	12	250	intratracheal instillation	6	4	8	0.5
+MWCNT	25	7500	tube	-	-12.10 	152	Mouse	male	7	24	OPA	0	1	1	2
+MWCNT	25	7500	tube	-	-12.10 	152	Mouse	male	7	24	OPA	0	1	21	2
+SWCNT	2.5	2000	tube	-	-27.60 	1040	Mouse	female	7	20.3	PA	0	1	3	0.49
+SWCNT	2.5	2000	tube	-	-27.60 	1040	Mouse	female	7	20.3	PA	0	1	3	1.97
+SWCNT	2.5	2000	tube	-	-27.60 	1040	Mouse	female	7	20.3	PA	0	1	6	0.49
+SWCNT	2.5	2000	tube	-	-27.60 	1040	Mouse	female	7	20.3	PA	0	1	6	1.97
+SWCNT	2.5	2000	tube	-	-27.60 	1040	Mouse	female	7	20.3	PA	0	1	10	0.49
+SWCNT	2.5	2000	tube	-	-27.60 	1040	Mouse	female	7	20.3	PA	0	1	10	1.97
+SWCNT	1	550	tube	-	-27.60 	508	Mouse	female	9	20	PA	0	1	1	0.25
+SWCNT	1	550	tube	-	-27.60 	508	Mouse	female	9	20	PA	0	1	1	0.5
+SWCNT	1	550	tube	-	-27.60 	508	Mouse	female	9	20	PA	0	1	1	1
+SWCNT	1	550	tube	-	-27.60 	508	Mouse	female	9	20	PA	0	1	7	0.5
+SWCNT	2.5	2000	tube	-	-27.60 	1040	Mouse	female	7	20.3	PA	0	1	1	0.49
+SWCNT	2.5	2000	tube	-	-27.60 	1040	Mouse	female	7	20.3	PA	0	1	1	0.99
+SWCNT	2.5	2000	tube	-	-27.60 	1040	Mouse	female	7	20.3	PA	0	1	1	1.97
+SWCNT	2.5	2000	tube	-	-27.60 	1040	Mouse	female	7	20.3	PA	0	1	3	0.49
+SWCNT	2.5	2000	tube	-	-27.60 	1040	Mouse	female	7	20.3	PA	0	1	3	0.99
+SWCNT	2.5	2000	tube	-	-27.60 	1040	Mouse	female	7	20.3	PA	0	1	3	1.97
+SWCNT	2.5	2000	tube	-	-27.60 	1040	Mouse	female	7	20.3	PA	0	1	7	0.49
+SWCNT	2.5	2000	tube	-	-27.60 	1040	Mouse	female	7	20.3	PA	0	1	7	0.99
+SWCNT	2.5	2000	tube	-	-27.60 	1040	Mouse	female	7	20.3	PA	0	1	7	1.97
+SWCNT	2.5	2000	tube	-	-27.60 	1040	Mouse	female	7	20.3	PA	0	1	28	0.49
+SWCNT	2.5	2000	tube	-	-27.60 	1040	Mouse	female	7	20.3	PA	0	1	28	0.99
+SWCNT	2.5	2000	tube	-	-27.60 	1040	Mouse	female	7	20.3	PA	0	1	28	1.97
+SWCNT	2.5	2000	tube	-	-27.60 	1040	Mouse	female	7	20.3	PA	0	1	60	0.49
+SWCNT	2.5	2000	tube	-	-27.60 	1040	Mouse	female	7	20.3	PA	0	1	60	0.99
+SWCNT	2.5	2000	tube	-	-27.60 	1040	Mouse	female	7	20.3	PA	0	1	60	1.97
+CB	14.3	14.3	sphere	-	-3.70 	254	Mouse	female	7	20.3	PA	0	1	1	1.97
+SiO2	2140	2140	sphere	-	-28.40 	495	Mouse	female	7	20.3	PA	0	1	1	1.97
+SWCNT	2.5	2000	tube	-	-27.60 	1040	Mouse	female	7	21.6	PA	0	1	1	1.85
+cellulose nanocrystals	54	158	fiber	-	-68.26 	89	Mouse	female	7	20	PA	21	6	90	2
+cellulose nanocrystals	54	158	fiber	-	-68.26 	89	Mouse	male	7	20	PA	21	6	90	2
+SWCNT	2.5	2000	tube	-	-27.60 	1040	Mouse	female	9	20	PA	0	1	365	2
+CNF	120	17500	fiber	-	69.50 	40	Mouse	female	9	20	PA	0	1	365	2
+CNF	120	17500	fiber	-	69.50 	40	Mouse	female	9	20	PA	0	1	365	6
+Ag	20	20	sphere	citrate	-42.50 	5	Rat	male	12	350	intratracheal instillation	0	1	1	0.5
+Ag	20	20	sphere	citrate	-49.30 	5	Rat	male	12	350	intratracheal instillation	0	1	1	1
+Ag	20	20	sphere	citrate	-49.30 	5	Rat	male	12	350	intratracheal instillation	0	1	7	0.5
+Ag	20	20	sphere	citrate	-49.30 	5	Rat	male	12	350	intratracheal instillation	0	1	7	1
+Ag	20	20	sphere	citrate	-49.30 	5	Rat	male	12	350	intratracheal instillation	0	1	21	0.5
+Ag	20	20	sphere	citrate	-49.30 	5	Rat	male	12	350	intratracheal instillation	0	1	21	1
+Ag	110	110	sphere	citrate	-49.30 	5	Rat	male	12	350	intratracheal instillation	0	1	1	0.5
+Ag	110	110	sphere	citrate	-42.25 	5	Rat	male	12	350	intratracheal instillation	0	1	1	1
+Ag	110	110	sphere	citrate	-42.25 	5	Rat	male	12	350	intratracheal instillation	0	1	7	0.5
+Ag	110	110	sphere	citrate	-42.25 	5	Rat	male	12	350	intratracheal instillation	0	1	7	1
+Ag	110	110	sphere	citrate	-42.25 	5	Rat	male	12	350	intratracheal instillation	0	1	21	0.5
+Ag	110	110	sphere	citrate	-42.25 	5	Rat	male	12	350	intratracheal instillation	0	1	21	1
+Ag	20	20	sphere	PVP	-42.25 	5	Rat	male	12	350	intratracheal instillation	0	1	1	0.5
+Ag	20	20	sphere	PVP	-36.55 	5	Rat	male	12	350	intratracheal instillation	0	1	1	1
+Ag	20	20	sphere	PVP	-36.55 	5	Rat	male	12	350	intratracheal instillation	0	1	7	0.5
+Ag	20	20	sphere	PVP	-36.55 	5	Rat	male	12	350	intratracheal instillation	0	1	7	1
+Ag	20	20	sphere	PVP	-36.55 	5	Rat	male	12	350	intratracheal instillation	0	1	21	0.5
+Ag	20	20	sphere	PVP	-36.55 	5	Rat	male	12	350	intratracheal instillation	0	1	21	1
+Ag	110	110	sphere	PVP	-36.55 	5	Rat	male	12	350	intratracheal instillation	0	1	1	0.5
+Ag	110	110	sphere	PVP	-24.90 	5	Rat	male	12	350	intratracheal instillation	0	1	1	1
+Ag	110	110	sphere	PVP	-24.90 	5	Rat	male	12	350	intratracheal instillation	0	1	7	0.5
+Ag	110	110	sphere	PVP	-24.90 	5	Rat	male	12	350	intratracheal instillation	0	1	7	1
+Ag	110	110	sphere	PVP	-24.90 	5	Rat	male	12	350	intratracheal instillation	0	1	21	0.5
+Ag	110	110	sphere	PVP	-24.90 	5	Rat	male	12	350	intratracheal instillation	0	1	21	1
+TiO2	26	26	sphere	-	-16.90 	53	Rat	male	9	300	intratracheal instillation	0	1	1	0.067
+TiO2	26	26	sphere	-	-16.90 	53	Rat	male	9	300	intratracheal instillation	0	1	1	0.233
+TiO2	26	26	sphere	-	-16.90 	53	Rat	male	9	300	intratracheal instillation	0	1	1	0.667
+TiO2	26	26	sphere	-	-16.90 	53	Rat	male	9	300	intratracheal instillation	0	1	7	0.067
+TiO2	26	26	sphere	-	-16.90 	53	Rat	male	9	300	intratracheal instillation	0	1	7	0.233
+TiO2	26	26	sphere	-	-16.90 	53	Rat	male	9	300	intratracheal instillation	0	1	7	0.667
+TiO2	26	26	sphere	-	-16.90 	173	Rat	male	9	300	intratracheal instillation	0	1	1	0.067
+TiO2	26	26	sphere	-	-16.90 	173	Rat	male	9	300	intratracheal instillation	0	1	1	0.233
+TiO2	26	26	sphere	-	-16.90 	173	Rat	male	9	300	intratracheal instillation	0	1	1	0.667
+TiO2	26	26	sphere	-	-16.90 	173	Rat	male	9	300	intratracheal instillation	0	1	7	0.067
+TiO2	26	26	sphere	-	-16.90 	173	Rat	male	9	300	intratracheal instillation	0	1	7	0.233
+TiO2	26	26	sphere	-	-16.90 	173	Rat	male	9	300	intratracheal instillation	0	1	7	0.667
+TiO2	200	7000	belt	-	-16.90 	18	Rat	male	9	300	intratracheal instillation	0	1	1	0.067
+TiO2	200	7000	belt	-	-16.90 	18	Rat	male	9	300	intratracheal instillation	0	1	1	0.233
+TiO2	200	7000	belt	-	-16.90 	18	Rat	male	9	300	intratracheal instillation	0	1	1	0.667
+TiO2	200	7000	belt	-	-16.90 	18	Rat	male	9	300	intratracheal instillation	0	1	7	0.667
+Ag	33.1	2000	wire	PVP	-42.50 	5	Rat	male	11	350	intratracheal instillation	0	1	1	0.1
+Ag	33.1	2000	wire	PVP	-42.50 	5	Rat	male	11	350	intratracheal instillation	0	1	1	0.5
+Ag	33.1	2000	wire	PVP	-42.50 	5	Rat	male	11	350	intratracheal instillation	0	1	1	1
+Ag	33.1	2000	wire	PVP	-42.50 	5	Rat	male	11	350	intratracheal instillation	0	1	7	0.1
+Ag	33.1	2000	wire	PVP	-42.50 	5	Rat	male	11	350	intratracheal instillation	0	1	7	0.5
+Ag	33.1	2000	wire	PVP	-42.50 	5	Rat	male	11	350	intratracheal instillation	0	1	7	1
+Ag	33.1	2000	wire	PVP	-42.50 	5	Rat	male	11	350	intratracheal instillation	0	1	21	0.1
+Ag	33.1	2000	wire	PVP	-42.50 	5	Rat	male	11	350	intratracheal instillation	0	1	21	0.5
+Ag	33.1	2000	wire	PVP	-42.50 	5	Rat	male	11	350	intratracheal instillation	0	1	21	1
+Ag	64.7	20800	wire	PVP	-42.50 	5	Rat	male	11	350	intratracheal instillation	0	1	1	0.1
+Ag	64.7	20800	wire	PVP	-42.50 	5	Rat	male	11	350	intratracheal instillation	0	1	1	0.5
+Ag	64.7	20800	wire	PVP	-42.50 	5	Rat	male	11	350	intratracheal instillation	0	1	1	1
+Ag	64.7	20800	wire	PVP	-42.50 	5	Rat	male	11	350	intratracheal instillation	0	1	7	0.1
+Ag	64.7	20800	wire	PVP	-42.50 	5	Rat	male	11	350	intratracheal instillation	0	1	7	0.5
+Ag	64.7	20800	wire	PVP	-42.50 	5	Rat	male	11	350	intratracheal instillation	0	1	7	1
+Ag	64.7	20800	wire	PVP	-42.50 	5	Rat	male	11	350	intratracheal instillation	0	1	21	0.1
+Ag	64.7	20800	wire	PVP	-42.50 	5	Rat	male	11	350	intratracheal instillation	0	1	21	0.5
+Ag	64.7	20800	wire	PVP	-42.50 	5	Rat	male	11	350	intratracheal instillation	0	1	21	1
+GO	2500	2	sheet	-	486.70 	374.5	Mouse	male	8	39.39	intratracheal instillation	42	7	7	0.46
+CB	95	95	sphere	-	305.40 	23.8	Mouse	male	8	39.39	intratracheal instillation	42	7	7	2.54
+CB	14	14	sphere	-	147.20 	316.5	Mouse	male	8	39.39	intratracheal instillation	42	7	7	2.54
+diesel exhaust particle 	24	24	sphere	-	-16.90 	108	Mouse	male	8	39.39	intratracheal instillation	42	7	7	2.54
+TiO2	15	15	sphere	-	-6.70 	57.13	Mouse	male	6	25	OPA	28	5	2	0.8
+paint particle(TiO2)	313	313	sphere	-	-4.03 	89	Mouse	male	6	25	OPA	28	5	2	0.8
+Ag	55	55	sphere	-	-42.50 	5	Mouse	male	6	25	OPA	28	5	2	0.8
+paint particle(Ag)	652	652	sphere	-	-3.99 	89	Mouse	male	6	25	OPA	28	5	2	0.8
+SiO2	19	19	sphere	-	-28.40 	26.5	Mouse	male	6	25	OPA	28	5	2	0.8
+paint particle(SiO2)	530	530	sphere	-	-1.90 	89	Mouse	male	6	25	OPA	28	5	2	0.8
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	7	21.19	PA	0	1	30	0.05
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	7	21.19	PA	0	1	30	0.47
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	7	21.19	PA	0	1	30	1.89
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	7	21.19	PA	0	1	30	3.78
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	7	21.19	PA	0	1	180	0.05
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	7	21.19	PA	0	1	180	0.47
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	7	21.19	PA	0	1	180	1.89
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	7	21.19	PA	0	1	180	3.78
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	7	21.19	PA	0	1	360	0.05
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	7	21.19	PA	0	1	360	0.47
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	7	21.19	PA	0	1	360	1.89
+MWCNT	49	3860	tube	-	-11.00 	152	Mouse	male	7	21.19	PA	0	1	360	3.78
+SWCNT	0.8	1000	tube	-	-27.60 	1040	Mouse	female	9	20	PA	21	6	1	2
+CB	14.3	14.3	sphere	-	-3.70 	253	Mouse	female	9	20	PA	21	6	1	2
+DWCNT	3.5	5500	tube	-	-11.00 	0.066	Mouse	female	11	25	intratracheal instillation	0	1	1	2
+DWCNT	3.5	5500	tube	-	-11.00 	0.066	Mouse	female	11	25	intratracheal instillation	0	1	3	2
+DWCNT	3.5	5500	tube	-	-11.00 	0.066	Mouse	female	11	25	intratracheal instillation	0	1	7	2
+Rosette nanotubes	3.5	1810	tube	-	-16.90 	89	Mouse	male	7	25	intranasal instillation	0	1	0.125	0.5
+Rosette nanotubes	3.5	1810	tube	-	-16.90 	89	Mouse	male	7	25	intranasal instillation	0	1	0.25	0.5
+Rosette nanotubes	3.5	1810	tube	-	-16.90 	89	Mouse	male	7	25	intranasal instillation	0	1	0.5	0.5
+SWCNT	20	1000	tube	-	-27.60 	325	Mouse	female	14	30.8	PA	0	1	1	0.32
+SWCNT	20	1000	tube	-	-27.60 	325	Mouse	female	14	30.8	PA	0	1	1	1.3
+SWCNT	23	5000	tube	acid	-27.60 	93	Mouse	female	14	30.8	PA	0	1	1	0.32
+SWCNT	23	5000	tube	acid	-27.60 	93	Mouse	female	14	30.8	PA	0	1	1	1.3
+CB	15	15	sphere	-	-3.70 	230	Mouse	female	14	30.8	PA	0	1	1	0.32
+CB	15	15	sphere	-	-3.70 	230	Mouse	female	14	30.8	PA	0	1	1	1.3
+CB	14.3	14.3	sphere	acid	-3.70 	2	Mouse	female	14	30.8	PA	0	1	1	0.32
+CB	14.3	14.3	sphere	acid	-3.70 	2	Mouse	female	14	30.8	PA	0	1	1	1.3
+SWGe-imogolite	3.8	70	tube	-	-16.90 	521	Rat	female	8	225	intratracheal instillation	0	1	3	0.089
+SWGe-imogolite	3.8	70	tube	-	-16.90 	521	Rat	female	8	225	intratracheal instillation	0	1	3	0.444
+SWGe-imogolite	3.8	70	tube	-	-16.90 	521	Rat	female	8	225	intratracheal instillation	0	1	3	0.889
+SWGe-imogolite	3.8	70	tube	-	-16.90 	521	Rat	female	8	225	intratracheal instillation	0	1	3	8.889
+DWGe-imogolite	4.3	62	tube	-	-16.90 	341	Rat	female	8	225	intratracheal instillation	0	1	3	0.089
+DWGe-imogolite	4.3	62	tube	-	-16.90 	341	Rat	female	8	225	intratracheal instillation	0	1	3	0.444
+DWGe-imogolite	4.3	62	tube	-	-16.90 	341	Rat	female	8	225	intratracheal instillation	0	1	3	0.889
+DWGe-imogolite	4.3	62	tube	-	-16.90 	341	Rat	female	8	225	intratracheal instillation	0	1	3	8.889
+TiO2	10	10	sphere	-	-3.30 	57.13	Mouse	female	8	19	intratracheal instillation	0	1	1	0.421
+TiO2	10	10	sphere	-	-3.30 	57.13	Mouse	female	8	19	intratracheal instillation	0	1	1	1.684
+TiO2	10	10	sphere	-	-3.30 	57.13	Mouse	female	8	19	intratracheal instillation	0	1	1	3.368
+TiO2	10	10	sphere	-	-3.30 	57.13	Mouse	female	8	19	intratracheal instillation	0	1	1	6.737
+TiO2	10	10	sphere	-	-6.70 	57.13	Mouse	female	8	19	intratracheal instillation	0	1	1	0.421
+TiO2	10	10	sphere	-	-6.70 	57.13	Mouse	female	8	19	intratracheal instillation	0	1	1	1.684
+TiO2	10	10	sphere	-	-6.70 	57.13	Mouse	female	8	19	intratracheal instillation	0	1	1	3.368
+TiO2	10	10	sphere	-	-6.70 	57.13	Mouse	female	8	19	intratracheal instillation	0	1	1	6.737
+TiO2	10	10	sphere	-	-26.00 	99	Mouse	female	8	18.5	intratracheal instillation	0	1	1	0.97
+TiO2	10	10	sphere	-	-26.00 	99	Mouse	female	8	18.5	intratracheal instillation	0	1	1	2.91
+TiO2	10	10	sphere	-	-26.00 	99	Mouse	female	8	18.5	intratracheal instillation	0	1	1	8.76
+TiO2	10	10	sphere	NH2	25.00 	84	Mouse	female	8	18.5	intratracheal instillation	0	1	1	0.97
+TiO2	10	10	sphere	NH2	25.00 	84	Mouse	female	8	18.5	intratracheal instillation	0	1	1	2.91
+TiO2	10	10	sphere	NH2	25.00 	84	Mouse	female	8	18.5	intratracheal instillation	0	1	1	8.76
+TiO2	10	10	sphere	-	-26.00 	99	Mouse	female	8	18.5	intratracheal instillation	0	1	3	0.97
+TiO2	10	10	sphere	-	-26.00 	99	Mouse	female	8	18.5	intratracheal instillation	0	1	3	2.91
+TiO2	10	10	sphere	-	-26.00 	99	Mouse	female	8	18.5	intratracheal instillation	0	1	3	8.76
+TiO2	10	10	sphere	NH2	25.00 	84	Mouse	female	8	18.5	intratracheal instillation	0	1	3	0.97
+TiO2	10	10	sphere	NH2	25.00 	84	Mouse	female	8	18.5	intratracheal instillation	0	1	3	2.91
+TiO2	10	10	sphere	NH2	25.00 	84	Mouse	female	8	18.5	intratracheal instillation	0	1	3	8.76
+TiO2	10	10	sphere	-	-26.00 	99	Mouse	female	8	18.5	intratracheal instillation	0	1	28	0.97
+TiO2	10	10	sphere	-	-26.00 	99	Mouse	female	8	18.5	intratracheal instillation	0	1	28	2.91
+TiO2	10	10	sphere	-	-26.00 	99	Mouse	female	8	18.5	intratracheal instillation	0	1	28	8.76
+TiO2	10	10	sphere	NH2	25.00 	84	Mouse	female	8	18.5	intratracheal instillation	0	1	28	0.97
+TiO2	10	10	sphere	NH2	25.00 	84	Mouse	female	8	18.5	intratracheal instillation	0	1	28	2.91
+TiO2	10	10	sphere	NH2	25.00 	84	Mouse	female	8	18.5	intratracheal instillation	0	1	28	8.76
+Co	20	20	sphere	-	-55.00 	47.9	Mouse	both	10	24	intratracheal instillation	0	1	1	2.08
+Co	20	20	sphere	-	-55.00 	47.9	Mouse	both	10	24	intratracheal instillation	0	1	3	2.08
+Co	20	20	sphere	-	-55.00 	47.9	Mouse	both	10	24	intratracheal instillation	0	1	7	2.08
+Co	20	20	sphere	-	-55.00 	47.9	Mouse	both	10	24	intratracheal instillation	0	1	28	2.08
+TiO2	28	28	sphere	-	-16.90 	45	Mouse	both	10	24	intratracheal instillation	0	1	1	2.08
+TiO2	28	28	sphere	-	-16.90 	45	Mouse	both	10	24	intratracheal instillation	0	1	3	2.08
+TiO2	28	28	sphere	-	-16.90 	45	Mouse	both	10	24	intratracheal instillation	0	1	7	2.08
+TiO2	28	28	sphere	-	-16.90 	45	Mouse	both	10	24	intratracheal instillation	0	1	28	2.08
+Nd2O3	110	110	sphere	-	-16.90 	89	Rat	unknow	8	300	intratracheal instillation	0	1	3	100
+Nd2O3	110	110	sphere	-	-16.90 	89	Rat	unknow	8	300	intratracheal instillation	0	1	7	100
+Nd2O3	110	110	sphere	-	-16.90 	89	Rat	unknow	8	300	intratracheal instillation	0	1	14	100
+Nd2O3	110	110	sphere	-	-16.90 	89	Rat	unknow	8	300	intratracheal instillation	0	1	21	100
+Nd2O3	110	110	sphere	-	-16.90 	89	Rat	unknow	8	300	intratracheal instillation	0	1	28	100
+MWCNT	20	3860	tube	-	-44.60 	113.103	Mouse	male	9	27.4	OPA	0	1	30	1
+MWCNT	20	3860	tube	-	-44.60 	113.103	Mouse	male	9	27.4	OPA	0	1	30	2
+MWCNT	20	3860	tube	-	-44.60 	113.103	Mouse	male	9	27.4	OPA	0	1	30	4
+SWCNT	1.4	1000	tube	-	-27.60 	270	Rat	male	8	250	intratracheal instillation	0	1	1	1
+SWCNT	1.4	1000	tube	-	-27.60 	270	Rat	male	8	250	intratracheal instillation	0	1	7	1
+SWCNT	1.4	1000	tube	-	-27.60 	270	Rat	male	8	250	intratracheal instillation	0	1	30	1
+SWCNT	1.4	1000	tube	-	-27.60 	270	Rat	male	8	250	intratracheal instillation	0	1	90	1
+SWCNT	1.4	1000	tube	-	-27.60 	270	Rat	male	8	250	intratracheal instillation	0	1	1	5
+SWCNT	1.4	1000	tube	-	-27.60 	270	Rat	male	8	250	intratracheal instillation	0	1	7	5
+SWCNT	1.4	1000	tube	-	-27.60 	270	Rat	male	8	250	intratracheal instillation	0	1	30	5
+SWCNT	1.4	1000	tube	-	-27.60 	270	Rat	male	8	250	intratracheal instillation	0	1	90	5
+SiO2	2000	2000	sphere	-	-28.40 	26.5	Rat	male	8	250	intratracheal instillation	0	1	1	1
+SiO2	2000	2000	sphere	-	-28.40 	26.5	Rat	male	8	250	intratracheal instillation	0	1	7	1
+SiO2	2000	2000	sphere	-	-28.40 	26.5	Rat	male	8	250	intratracheal instillation	0	1	30	1
+SiO2	2000	2000	sphere	-	-28.40 	26.5	Rat	male	8	250	intratracheal instillation	0	1	90	1
+SiO2	2000	2000	sphere	-	-28.40 	26.5	Rat	male	8	250	intratracheal instillation	0	1	1	5
+SiO2	2000	2000	sphere	-	-28.40 	26.5	Rat	male	8	250	intratracheal instillation	0	1	7	5
+SiO2	2000	2000	sphere	-	-28.40 	26.5	Rat	male	8	250	intratracheal instillation	0	1	30	5
+SiO2	2000	2000	sphere	-	-28.40 	26.5	Rat	male	8	250	intratracheal instillation	0	1	90	5
+Carbonly iron	1900	1900	sphere	-	-16.90 	89	Rat	male	8	250	intratracheal instillation	0	1	1	1
+Carbonly iron	1900	1900	sphere	-	-16.90 	89	Rat	male	8	250	intratracheal instillation	0	1	7	1
+Carbonly iron	1900	1900	sphere	-	-16.90 	89	Rat	male	8	250	intratracheal instillation	0	1	30	1
+Carbonly iron	1900	1900	sphere	-	-16.90 	89	Rat	male	8	250	intratracheal instillation	0	1	90	1
+Carbonly iron	1900	1900	sphere	-	-16.90 	89	Rat	male	8	250	intratracheal instillation	0	1	1	5
+Carbonly iron	1900	1900	sphere	-	-16.90 	89	Rat	male	8	250	intratracheal instillation	0	1	7	5
+Carbonly iron	1900	1900	sphere	-	-16.90 	89	Rat	male	8	250	intratracheal instillation	0	1	30	5
+Carbonly iron	1900	1900	sphere	-	-16.90 	89	Rat	male	8	250	intratracheal instillation	0	1	90	5
+TiO2	300	300	sphere	-	-16.90 	6	Rat	male	8	250	intratracheal instillation	0	1	1	1
+TiO2	300	300	sphere	-	-16.90 	6	Rat	male	8	250	intratracheal instillation	0	1	7	1
+TiO2	300	300	sphere	-	-16.90 	6	Rat	male	8	250	intratracheal instillation	0	1	30	1
+TiO2	300	300	sphere	-	-16.90 	6	Rat	male	8	250	intratracheal instillation	0	1	90	1
+TiO2	300	300	sphere	-	-16.90 	6	Rat	male	8	250	intratracheal instillation	0	1	1	5
+TiO2	300	300	sphere	-	-16.90 	6	Rat	male	8	250	intratracheal instillation	0	1	7	5
+TiO2	300	300	sphere	-	-16.90 	6	Rat	male	8	250	intratracheal instillation	0	1	30	5
+TiO2	300	300	sphere	-	-16.90 	6	Rat	male	8	250	intratracheal instillation	0	1	90	5
+SiO2	1500	1500	sphere	-	-28.40 	26.5	Rat	male	8	250	intratracheal instillation	0	1	1	1
+SiO2	1500	1500	sphere	-	-28.40 	26.5	Rat	male	8	250	intratracheal instillation	0	1	7	1
+SiO2	1500	1500	sphere	-	-28.40 	26.5	Rat	male	8	250	intratracheal instillation	0	1	30	1
+SiO2	1500	1500	sphere	-	-28.40 	26.5	Rat	male	8	250	intratracheal instillation	0	1	90	1
+SiO2	1500	1500	sphere	-	-28.40 	26.5	Rat	male	8	250	intratracheal instillation	0	1	1	5
+SiO2	1500	1500	sphere	-	-28.40 	26.5	Rat	male	8	250	intratracheal instillation	0	1	7	5
+SiO2	1500	1500	sphere	-	-28.40 	26.5	Rat	male	8	250	intratracheal instillation	0	1	30	5
+SiO2	1500	1500	sphere	-	-28.40 	26.5	Rat	male	8	250	intratracheal instillation	0	1	90	5
+TiO2	28	163	rod	-	-16.90 	169.4	Rat	male	8	250	intratracheal instillation	0	1	1	1
+TiO2	28	163	rod	-	-16.90 	169.4	Rat	male	8	250	intratracheal instillation	0	1	7	1
+TiO2	28	163	rod	-	-16.90 	169.4	Rat	male	8	250	intratracheal instillation	0	1	30	1
+TiO2	28	163	rod	-	-16.90 	169.4	Rat	male	8	250	intratracheal instillation	0	1	90	1
+TiO2	28	163	rod	-	-16.90 	169.4	Rat	male	8	250	intratracheal instillation	0	1	1	5
+TiO2	28	163	rod	-	-16.90 	169.4	Rat	male	8	250	intratracheal instillation	0	1	7	5
+TiO2	28	163	rod	-	-16.90 	169.4	Rat	male	8	250	intratracheal instillation	0	1	30	5
+TiO2	28	163	rod	-	-16.90 	169.4	Rat	male	8	250	intratracheal instillation	0	1	90	5
+TiO2	6	6	sphere	-	-16.90 	4	Rat	male	8	250	intratracheal instillation	0	1	1	1
+TiO2	6	6	sphere	-	-16.90 	4	Rat	male	8	250	intratracheal instillation	0	1	7	1
+TiO2	6	6	sphere	-	-16.90 	4	Rat	male	8	250	intratracheal instillation	0	1	30	1
+TiO2	6	6	sphere	-	-16.90 	4	Rat	male	8	250	intratracheal instillation	0	1	90	1
+TiO2	6	6	sphere	-	-16.90 	4	Rat	male	8	250	intratracheal instillation	0	1	1	5
+TiO2	6	6	sphere	-	-16.90 	4	Rat	male	8	250	intratracheal instillation	0	1	7	5
+TiO2	6	6	sphere	-	-16.90 	4	Rat	male	8	250	intratracheal instillation	0	1	30	5
+TiO2	6	6	sphere	-	-16.90 	4	Rat	male	8	250	intratracheal instillation	0	1	90	5
+ZnO	200	200	sphere	-	-16.90 	18	Rat	male	8	250	intratracheal instillation	0	1	1	1
+ZnO	200	200	sphere	-	-16.90 	18	Rat	male	8	250	intratracheal instillation	0	1	14	1
+ZnO	200	200	sphere	-	-16.90 	18	Rat	male	8	250	intratracheal instillation	0	1	1	5
+ZnO	200	200	sphere	-	-16.90 	18	Rat	male	8	250	intratracheal instillation	0	1	14	5
+ZnO	200	200	sphere	-	-16.90 	18	Rat	male	8	250	intratracheal instillation	0	1	1	10
+ZnO	200	200	sphere	-	-16.90 	18	Rat	male	8	250	intratracheal instillation	0	1	14	10
+CB	5000	5000	sphere	-	-3.70 	300	Mouse	unknow	8	16	intratracheal instillation	0	1	0.667	0.06
+CB	5000	5000	sphere	-	-3.70 	300	Mouse	unknow	8	16	intratracheal instillation	0	1	0.667	0.2
+CB	5000	5000	sphere	-	-3.70 	300	Mouse	unknow	8	16	intratracheal instillation	0	1	0.667	0.6
+CB	5000	5000	sphere	-	-3.70 	300	Mouse	unknow	8	16	intratracheal instillation	0	1	0.667	2
+CB	5000	5000	sphere	-	-3.70 	300	Mouse	unknow	8	16	intratracheal instillation	0	1	0.667	10
+SWCNT	1.5	1000	tube	AMIDE	-27.60 	400	Mouse	unknow	8	16	intratracheal instillation	0	1	0.667	0.06
+SWCNT	1.5	1000	tube	AMIDE	-27.60 	400	Mouse	unknow	8	16	intratracheal instillation	0	1	0.667	0.2
+SWCNT	1.5	1000	tube	AMIDE	-27.60 	400	Mouse	unknow	8	16	intratracheal instillation	0	1	0.667	0.6
+SWCNT	1.5	1000	tube	AMIDE	-27.60 	400	Mouse	unknow	8	16	intratracheal instillation	0	1	0.667	2
+SWCNT	1.5	1000	tube	AMIDE	-27.60 	400	Mouse	unknow	8	16	intratracheal instillation	0	1	0.667	10
+SWCNT	1.5	1000	tube	COOH	-27.60 	400	Mouse	unknow	8	16	intratracheal instillation	0	1	0.667	0.06
+SWCNT	1.5	1000	tube	COOH	-27.60 	400	Mouse	unknow	8	16	intratracheal instillation	0	1	0.667	0.2
+SWCNT	1.5	1000	tube	COOH	-27.60 	400	Mouse	unknow	8	16	intratracheal instillation	0	1	0.667	0.6
+SWCNT	1.5	1000	tube	COOH	-27.60 	400	Mouse	unknow	8	16	intratracheal instillation	0	1	0.667	2
+SWCNT	1.5	1000	tube	COOH	-27.60 	400	Mouse	unknow	8	16	intratracheal instillation	0	1	0.667	10
+SWCNT	1.5	1000	tube	PABS	-27.60 	400	Mouse	unknow	8	16	intratracheal instillation	0	1	0.667	0.06
+SWCNT	1.5	1000	tube	PABS	-27.60 	400	Mouse	unknow	8	16	intratracheal instillation	0	1	0.667	0.2
+SWCNT	1.5	1000	tube	PABS	-27.60 	400	Mouse	unknow	8	16	intratracheal instillation	0	1	0.667	0.6
+SWCNT	1.5	1000	tube	PABS	-27.60 	400	Mouse	unknow	8	16	intratracheal instillation	0	1	0.667	2
+SWCNT	1.5	1000	tube	PABS	-27.60 	400	Mouse	unknow	8	16	intratracheal instillation	0	1	0.667	10
+SWCNT	1.5	1000	tube	PEG	-27.60 	400	Mouse	unknow	8	16	intratracheal instillation	0	1	0.667	0.06
+SWCNT	1.5	1000	tube	PEG	-27.60 	400	Mouse	unknow	8	16	intratracheal instillation	0	1	0.667	0.2
+SWCNT	1.5	1000	tube	PEG	-27.60 	400	Mouse	unknow	8	16	intratracheal instillation	0	1	0.667	0.6
+SWCNT	1.5	1000	tube	PEG	-27.60 	400	Mouse	unknow	8	16	intratracheal instillation	0	1	0.667	2
+SWCNT	1.5	1000	tube	PEG	-27.60 	400	Mouse	unknow	8	16	intratracheal instillation	0	1	0.667	10
+SWCNT	1.5	1000	tube	AMIDE	-27.60 	400	Mouse	unknow	8	16	intratracheal instillation	0	1	14	2
+SWCNT	1.5	1000	tube	AMIDE	-27.60 	400	Mouse	unknow	8	16	intratracheal instillation	0	1	14	10
+SWCNT	1.5	1000	tube	COOH	-27.60 	400	Mouse	unknow	8	16	intratracheal instillation	0	1	14	2
+SWCNT	1.5	1000	tube	COOH	-27.60 	400	Mouse	unknow	8	16	intratracheal instillation	0	1	14	10
+SWCNT	1.5	1000	tube	PABS	-27.60 	400	Mouse	unknow	8	16	intratracheal instillation	0	1	14	2
+SWCNT	1.5	1000	tube	PABS	-27.60 	400	Mouse	unknow	8	16	intratracheal instillation	0	1	14	10
+SWCNT	1.5	1000	tube	PEG	-27.60 	400	Mouse	unknow	8	16	intratracheal instillation	0	1	14	2
+SWCNT	1.5	1000	tube	PEG	-27.60 	400	Mouse	unknow	8	16	intratracheal instillation	0	1	14	10
+Fe2O3	22	22	sphere	-	-16.90 	53.27	Rat	male	8	250	intratracheal instillation	0	1	1	0.8
+Fe2O3	22	22	sphere	-	-16.90 	53.27	Rat	male	8	250	intratracheal instillation	0	1	7	0.8
+Fe2O3	22	22	sphere	-	-16.90 	53.27	Rat	male	8	250	intratracheal instillation	0	1	30	0.8
+Fe2O3	280	280	sphere	-	-16.90 	4.25	Rat	male	8	250	intratracheal instillation	0	1	1	0.8
+Fe2O3	280	280	sphere	-	-16.90 	4.25	Rat	male	8	250	intratracheal instillation	0	1	7	0.8
+Fe2O3	280	280	sphere	-	-16.90 	4.25	Rat	male	8	250	intratracheal instillation	0	1	30	0.8
+Fe2O3	22	22	sphere	-	-16.90 	53.27	Rat	male	8	250	intratracheal instillation	0	1	1	20
+Fe2O3	22	22	sphere	-	-16.90 	53.27	Rat	male	8	250	intratracheal instillation	0	1	7	20
+Fe2O3	22	22	sphere	-	-16.90 	53.27	Rat	male	8	250	intratracheal instillation	0	1	30	20
+Fe2O3	280	280	sphere	-	-16.90 	4.25	Rat	male	8	250	intratracheal instillation	0	1	1	20
+Fe2O3	280	280	sphere	-	-16.90 	4.25	Rat	male	8	250	intratracheal instillation	0	1	7	20
+Fe2O3	280	280	sphere	-	-16.90 	4.25	Rat	male	8	250	intratracheal instillation	0	1	30	20
+Yb2O3	6	6	sphere	-		27.62	Mouse	male	8	20	intratracheal instillation	30	15	2	50
+Yb2O3	6	6	sphere	-		27.62	Mouse	male	8	20	intratracheal instillation	30	15	10	50
+Yb2O3	6	6	sphere	-		27.62	Mouse	male	8	20	intratracheal instillation	30	15	20	50
+Yb2O3	6	6	sphere	-		27.62	Mouse	male	8	20	intratracheal instillation	30	15	30	50
+ZnO	70	5000	wire	-			Mouse	male	7	30	intratracheal instillation	0	1	2	22
+ZnO	200	200	wire	-			Mouse	male	7	30	intratracheal instillation	0	1	2	22
+Ag	20	20	sphere	citrate	-44.50 		Mouse	male	6	35	intratracheal instillation	0	1	1	1.428571429
+MWCNT	17.78	1108.45	tube	-		140.6	Mouse	both	8		OPA	0	1	1	2
+MWCNT	31.67	1198.58	tube	-		204.9	Mouse	both	8		OPA	0	1	1	2
+MWCNT	15.49	20000	tube	-		217.3	Mouse	both	8		OPA	0	1	1	2
+MWCNT	15	1108.45	tube	-		140.6	Mouse	both	8		OPA	0	1	7	2
+MWCNT	40	1198.58	tube	-		204.9	Mouse	both	8		OPA	0	1	7	2
+MWCNT	15	20000	tube	-		217.3	Mouse	both	8		OPA	0	1	7	2
+TiO2	36	36	sphere	-		84.6	Mouse	female	7	18	intratracheal instillation	0	1	1	1
+TiO2	36	36	sphere	-		84.6	Mouse	female	7	18	intratracheal instillation	0	1	1	3
+TiO2	36	36	sphere	-		84.6	Mouse	female	7	18	intratracheal instillation	0	1	1	9
+TiO2	36	36	sphere	-		84.6	Mouse	female	7	18	intratracheal instillation	0	1	3	1
+TiO2	36	36	sphere	-		84.6	Mouse	female	7	18	intratracheal instillation	0	1	3	3
+TiO2	36	36	sphere	-		84.6	Mouse	female	7	18	intratracheal instillation	0	1	3	9
+TiO2	36	36	sphere	-		84.6	Mouse	female	7	18	intratracheal instillation	0	1	28	1
+TiO2	36	36	sphere	-		84.6	Mouse	female	7	18	intratracheal instillation	0	1	28	3
+TiO2	36	36	sphere	-		84.6	Mouse	female	7	18	intratracheal instillation	0	1	28	9
+TiO2	22	22	sphere	-		73.5	Mouse	female	7	18	intratracheal instillation	0	1	1	1
+TiO2	22	22	sphere	-		73.5	Mouse	female	7	18	intratracheal instillation	0	1	1	3
+TiO2	22	22	sphere	-		73.5	Mouse	female	7	18	intratracheal instillation	0	1	1	9
+TiO2	22	22	sphere	-		73.5	Mouse	female	7	18	intratracheal instillation	0	1	3	1
+TiO2	22	22	sphere	-		73.5	Mouse	female	7	18	intratracheal instillation	0	1	3	3
+TiO2	22	22	sphere	-		73.5	Mouse	female	7	18	intratracheal instillation	0	1	3	9
+TiO2	22	22	sphere	-		73.5	Mouse	female	7	18	intratracheal instillation	0	1	28	1
+TiO2	22	22	sphere	-		73.5	Mouse	female	7	18	intratracheal instillation	0	1	28	3
+TiO2	22	22	sphere	-		73.5	Mouse	female	7	18	intratracheal instillation	0	1	28	9
+TiO2	8.5	270	tube	-		154	Mouse	female	7	18	intratracheal instillation	0	1	1	1
+TiO2	8.5	270	tube	-		154	Mouse	female	7	18	intratracheal instillation	0	1	1	3
+TiO2	8.5	270	tube	-		154	Mouse	female	7	18	intratracheal instillation	0	1	1	9
+TiO2	8.5	270	tube	-		154	Mouse	female	7	18	intratracheal instillation	0	1	3	1
+TiO2	8.5	270	tube	-		154	Mouse	female	7	18	intratracheal instillation	0	1	3	3
+TiO2	8.5	270	tube	-		154	Mouse	female	7	18	intratracheal instillation	0	1	3	9
+TiO2	8.5	270	tube	-		154	Mouse	female	7	18	intratracheal instillation	0	1	28	1
+TiO2	8.5	270	tube	-		154	Mouse	female	7	18	intratracheal instillation	0	1	28	3
+TiO2	8.5	270	tube	-		154	Mouse	female	7	18	intratracheal instillation	0	1	28	9
+TiO2	14	21	cube	-		96.9	Mouse	female	7	18	intratracheal instillation	0	1	1	1
+TiO2	14	21	cube	-		96.9	Mouse	female	7	18	intratracheal instillation	0	1	1	3
+TiO2	14	21	cube	-		96.9	Mouse	female	7	18	intratracheal instillation	0	1	1	9
+TiO2	14	21	cube	-		96.9	Mouse	female	7	18	intratracheal instillation	0	1	3	1
+TiO2	14	21	cube	-		96.9	Mouse	female	7	18	intratracheal instillation	0	1	3	3
+TiO2	14	21	cube	-		96.9	Mouse	female	7	18	intratracheal instillation	0	1	3	9
+TiO2	14	21	cube	-		96.9	Mouse	female	7	18	intratracheal instillation	0	1	28	1
+TiO2	14	21	cube	-		96.9	Mouse	female	7	18	intratracheal instillation	0	1	28	3
+TiO2	14	21	cube	-		96.9	Mouse	female	7	18	intratracheal instillation	0	1	28	9
+ZnO	100	100	sphere	-		14	Mouse	female	7	18	intratracheal instillation	0	1	2	0.011
+ZnO	100	100	sphere	-		14	Mouse	female	7	18	intratracheal instillation	0	1	2	0.033
+ZnO	100	100	sphere	-		14	Mouse	female	7	18	intratracheal instillation	0	1	2	0.1
+ZnO	130	130	sphere	triethoxycaprylylsilane		18	Mouse	female	7	18	intratracheal instillation	0	1	2	0.011
+ZnO	130	130	sphere	triethoxycaprylylsilane		18	Mouse	female	7	18	intratracheal instillation	0	1	2	0.033
+ZnO	130	130	sphere	triethoxycaprylylsilane		18	Mouse	female	7	18	intratracheal instillation	0	1	2	0.1
+CB	14	14	sphere	-		316.5	Mouse	female	7	18	intratracheal instillation	0	1	2	8.1
+ZnO	100	100	sphere	-		14	Mouse	female	7	18	intratracheal instillation	0	1	2	0.011
+ZnO	100	100	sphere	-		14	Mouse	female	7	18	intratracheal instillation	0	1	2	0.033
+ZnO	100	100	sphere	-		14	Mouse	female	7	18	intratracheal instillation	0	1	2	0.1
+ZnO	130	130	sphere	triethoxycaprylylsilane		18	Mouse	female	7	18	intratracheal instillation	0	1	2	0.011
+ZnO	130	130	sphere	triethoxycaprylylsilane		18	Mouse	female	7	18	intratracheal instillation	0	1	2	0.033
+ZnO	130	130	sphere	triethoxycaprylylsilane		18	Mouse	female	7	18	intratracheal instillation	0	1	2	0.1
+CB	14	14	sphere	-		316.5	Mouse	female	7	18	intratracheal instillation	0	1	2	8.1
+ZnO	100	100	sphere	-		14	Mouse	female	7	18	intratracheal instillation	0	1	2	0.011
+ZnO	100	100	sphere	-		14	Mouse	female	7	18	intratracheal instillation	0	1	2	0.033
+ZnO	100	100	sphere	-		14	Mouse	female	7	18	intratracheal instillation	0	1	2	0.1
+ZnO	130	130	sphere	triethoxycaprylylsilane		18	Mouse	female	7	18	intratracheal instillation	0	1	2	0.011
+ZnO	130	130	sphere	triethoxycaprylylsilane		18	Mouse	female	7	18	intratracheal instillation	0	1	2	0.033
+ZnO	130	130	sphere	triethoxycaprylylsilane		18	Mouse	female	7	18	intratracheal instillation	0	1	2	0.1
+CB	14	14	sphere	-		316.5	Mouse	female	7	18	intratracheal instillation	0	1	2	8.1
+In2O3	42.46	42.46	sphere	-	-20.22 	15	Rat	female	6	200	intratracheal instillation	0	1	1	0.25
+In2O3	42.46	42.46	sphere	-	-20.22 	15	Rat	female	6	200	intratracheal instillation	0	1	3	0.25
+In2O3	42.46	42.46	sphere	-	-20.22 	15	Rat	female	6	200	intratracheal instillation	0	1	7	0.25
+In2O3	42.46	42.46	sphere	-	-20.22 	15	Rat	female	6	200	intratracheal instillation	0	1	14	0.25
+In2O3	42.46	42.46	sphere	-	-20.22 	15	Rat	female	6	200	intratracheal instillation	0	1	30	0.25
+In2O3	42.46	42.46	sphere	-	-20.22 	15	Rat	female	6	200	intratracheal instillation	0	1	90	0.25
+In2O3	42.46	42.46	sphere	-	-20.22 	15	Rat	female	6	200	intratracheal instillation	0	1	180	0.25
+In2O3	42.46	42.46	sphere	-	-20.22 	15	Rat	female	6	200	intratracheal instillation	0	1	1	1
+In2O3	42.46	42.46	sphere	-	-20.22 	15	Rat	female	6	200	intratracheal instillation	0	1	3	1
+In2O3	42.46	42.46	sphere	-	-20.22 	15	Rat	female	6	200	intratracheal instillation	0	1	7	1
+In2O3	42.46	42.46	sphere	-	-20.22 	15	Rat	female	6	200	intratracheal instillation	0	1	14	1
+In2O3	42.46	42.46	sphere	-	-20.22 	15	Rat	female	6	200	intratracheal instillation	0	1	30	1
+In2O3	42.46	42.46	sphere	-	-20.22 	15	Rat	female	6	200	intratracheal instillation	0	1	90	1
+In2O3	42.46	42.46	sphere	-	-20.22 	15	Rat	female	6	200	intratracheal instillation	0	1	180	1
+In2O3	42.46	42.46	sphere	-	-20.22 	15	Rat	female	6	200	intratracheal instillation	0	1	1	3
+In2O3	42.46	42.46	sphere	-	-20.22 	15	Rat	female	6	200	intratracheal instillation	0	1	3	3
+In2O3	42.46	42.46	sphere	-	-20.22 	15	Rat	female	6	200	intratracheal instillation	0	1	7	3
+In2O3	42.46	42.46	sphere	-	-20.22 	15	Rat	female	6	200	intratracheal instillation	0	1	14	3
+In2O3	42.46	42.46	sphere	-	-20.22 	15	Rat	female	6	200	intratracheal instillation	0	1	30	3
+In2O3	42.46	42.46	sphere	-	-20.22 	15	Rat	female	6	200	intratracheal instillation	0	1	90	3
+In2O3	42.46	42.46	sphere	-	-20.22 	15	Rat	female	6	200	intratracheal instillation	0	1	180	3
+SiO2	10	10	sphere	-			Mouse	female	6	20	intranasal instillation	0	1	2	5
+SiO2	10	10	sphere	-			Mouse	female	6	20	intranasal instillation	0	1	2	10
+SiO2	10	10	sphere	-			Mouse	female	6	20	intranasal instillation	0	1	2	20
+SiO2	10	10	sphere	-			Mouse	female	6	20	intranasal instillation	13	3	2	20
+Ni	20	20	sphere	-	2.00 	43.8	Mouse	male	8	25	intratracheal instillation	0	1	3	0.4
+Ni	20	20	sphere	-	2.00 	43.8	Mouse	male	8	25	intratracheal instillation	0	1	3	0.8
+Ni	20	20	sphere	-	2.00 	43.8	Mouse	male	8	25	intratracheal instillation	0	1	3	2
+Ni	20	20	sphere	-	2.00 	43.8	Mouse	male	8	25	intratracheal instillation	0	1	3	4
+Ni	20	20	sphere	-	2.00 	43.8	Mouse	male	8	25	intratracheal instillation	0	1	1	2
+Ni	20	20	sphere	-	2.00 	43.8	Mouse	male	8	25	intratracheal instillation	0	1	7	2
+Ni	20	20	sphere	-	2.00 	43.8	Mouse	male	8	25	intratracheal instillation	0	1	14	2
+Ni	20	20	sphere	-	2.00 	43.8	Mouse	male	8	25	intratracheal instillation	0	1	28	2
+Ni	20	20	sphere	-	2.00 	43.8	Mouse	male	8	25	intratracheal instillation	0	1	42	2
+Ni	20	20	sphere	-	2.30 	50.00 	Mouse	male	8	25	intratracheal instillation	0	1	3	2
+Ni	20	20	sphere	carbon	2.20 	50.00 	Mouse	male	8	25	intratracheal instillation	0	1	3	2
+SiO2	600	600	sphere	-	-16.20 		Mouse	female	10	25	OPA	0	1	1	40
+SiO2	600	600	sphere	-	-16.20 		Mouse	male	10	25	OPA	0	1	1	40
+MWCNT	27	10000	tube	-			Mouse	female	10	25	OPA	0	1	1	2
+MWCNT	27	10000	tube	-			Mouse	male	10	25	OPA	0	1	1	2
+SiO2	600	600	sphere	-	-16.20 		Mouse	female	10	25	OPA	0	1	7	40
+SiO2	600	600	sphere	-	-16.20 		Mouse	male	10	25	OPA	0	1	7	40
+MWCNT	27	10000	tube	-			Mouse	female	10	25	OPA	0	1	7	2
+MWCNT	27	10000	tube	-			Mouse	male	10	25	OPA	0	1	7	2
+SiO2	600	600	sphere	-	-16.20 		Mouse	female	10	25	OPA	4	28	56	40
+SiO2	600	600	sphere	-	-16.20 		Mouse	male	10	25	OPA	4	28	56	40
+MWCNT	27	10000	tube	-			Mouse	female	10	25	OPA	4	28	56	2
+MWCNT	27	10000	tube	-			Mouse	male	10	25	OPA	4	28	56	2
+TiO2	10.5	10.5	sphere	-			Mouse	female	8	18	intratracheal instillation	0	1	1	1
+TiO2	10.5	10.5	sphere	-			Mouse	female	8	18	intratracheal instillation	0	1	1	3
+TiO2	10.5	10.5	sphere	-			Mouse	female	8	18	intratracheal instillation	0	1	1	9
+TiO2	38	38	sphere	-			Mouse	female	8	18	intratracheal instillation	0	1	1	1
+TiO2	38	38	sphere	-			Mouse	female	8	18	intratracheal instillation	0	1	1	3
+TiO2	38	38	sphere	-			Mouse	female	8	18	intratracheal instillation	0	1	1	9
+CB	14	14	sphere	-			Mouse	female	8	18	intratracheal instillation	0	1	1	9
+TiO2	10.5	10.5	sphere	-			Mouse	female	8	18	intratracheal instillation	0	1	3	1
+TiO2	10.5	10.5	sphere	-			Mouse	female	8	18	intratracheal instillation	0	1	3	3
+TiO2	10.5	10.5	sphere	-			Mouse	female	8	18	intratracheal instillation	0	1	3	9
+TiO2	38	38	sphere	-			Mouse	female	8	18	intratracheal instillation	0	1	3	1
+TiO2	38	38	sphere	-			Mouse	female	8	18	intratracheal instillation	0	1	3	3
+TiO2	38	38	sphere	-			Mouse	female	8	18	intratracheal instillation	0	1	3	9
+CB	14	14	sphere	-			Mouse	female	8	18	intratracheal instillation	0	1	3	9
+TiO2	10.5	10.5	sphere	-			Mouse	female	8	18	intratracheal instillation	0	1	28	1
+TiO2	10.5	10.5	sphere	-			Mouse	female	8	18	intratracheal instillation	0	1	28	3
+TiO2	10.5	10.5	sphere	-			Mouse	female	8	18	intratracheal instillation	0	1	28	9
+TiO2	38	38	sphere	-			Mouse	female	8	18	intratracheal instillation	0	1	28	1
+TiO2	38	38	sphere	-			Mouse	female	8	18	intratracheal instillation	0	1	28	3
+TiO2	38	38	sphere	-			Mouse	female	8	18	intratracheal instillation	0	1	28	9
+CB	14	14	sphere	-			Mouse	female	8	18	intratracheal instillation	0	1	28	9
+MWCNT	75	1350	tube	-	-14.80 		Mouse	male	7	20	OPA	0	1	3	4
+MWCNT	12	1350	tube	-	-16.80 	24	Mouse	male	7	20	OPA	0	1	3	1.6
+MWCNT	12	1350	tube	-	-16.80 	24	Mouse	male	7	20	OPA	0	1	3	4
+MWCNT	12	1350	tube	-	-14.60 	30	Mouse	male	7	20	OPA	0	1	3	1.6
+MWCNT	12	1350	tube	-	-14.60 	30	Mouse	male	7	20	OPA	0	1	3	4
+MWCNT	12	1350	tube	COOH	-15.70 	141	Mouse	male	7	20	OPA	0	1	3	1.6
+MWCNT	12	1350	tube	COOH	-15.70 	141	Mouse	male	7	20	OPA	0	1	3	4
+MWCNT	12	1350	tube	NH2	18.00 	182	Mouse	male	7	20	OPA	0	1	3	1.6
+MWCNT	12	1350	tube	NH2	18.00 	182	Mouse	male	7	20	OPA	0	1	3	4
+MWCNT	12	1350	tube	-	-15.30 	30	Mouse	male	7	20	OPA	0	1	3	1.6
+MWCNT	12	1350	tube	-	-15.30 	30	Mouse	male	7	20	OPA	0	1	3	4
+MWCNT	12	1350	tube	COOH	-24.00 	179	Mouse	male	7	20	OPA	0	1	3	1.6
+MWCNT	12	1350	tube	COOH	-24.00 	179	Mouse	male	7	20	OPA	0	1	3	4
+MWCNT	12	1350	tube	NH2	-17.60 	111	Mouse	male	7	20	OPA	0	1	3	1.6
+MWCNT	12	1350	tube	NH2	-17.60 	111	Mouse	male	7	20	OPA	0	1	3	4
+MWCNT	75	1350	tube	-	-14.80 		Mouse	male	7	20	OPA	0	1	60	4
+MWCNT	12	1350	tube	-	-16.80 	24	Mouse	male	7	20	OPA	0	1	60	1.6
+MWCNT	12	1350	tube	-	-16.80 	24	Mouse	male	7	20	OPA	0	1	60	4
+MWCNT	12	1350	tube	-	-14.60 	30	Mouse	male	7	20	OPA	0	1	60	1.6
+MWCNT	12	1350	tube	-	-14.60 	30	Mouse	male	7	20	OPA	0	1	60	4
+MWCNT	12	1350	tube	COOH	-15.70 	141	Mouse	male	7	20	OPA	0	1	60	1.6
+MWCNT	12	1350	tube	COOH	-15.70 	141	Mouse	male	7	20	OPA	0	1	60	4
+MWCNT	12	1350	tube	NH2	18.00 	182	Mouse	male	7	20	OPA	0	1	60	1.6
+MWCNT	12	1350	tube	NH2	18.00 	182	Mouse	male	7	20	OPA	0	1	60	4
+MWCNT	12	1350	tube	-	-15.30 	30	Mouse	male	7	20	OPA	0	1	60	1.6
+MWCNT	12	1350	tube	-	-15.30 	30	Mouse	male	7	20	OPA	0	1	60	4
+MWCNT	12	1350	tube	COOH	-24.00 	179	Mouse	male	7	20	OPA	0	1	60	1.6
+MWCNT	12	1350	tube	COOH	-24.00 	179	Mouse	male	7	20	OPA	0	1	60	4
+MWCNT	12	1350	tube	NH2	-17.60 	111	Mouse	male	7	20	OPA	0	1	60	1.6
+MWCNT	12	1350	tube	NH2	-17.60 	111	Mouse	male	7	20	OPA	0	1	60	4
