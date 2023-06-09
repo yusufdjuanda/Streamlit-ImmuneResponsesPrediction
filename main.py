@@ -160,13 +160,6 @@ def display_predictions(category):
                  unsafe_allow_html=True)
 
 
-    # st.write("Probability of being benign: ",
-    #          model.predict_proba(input_data_scaled)[0][0])
-    # st.write("Probability of being malignant: ",
-    #          model.predict_proba(input_data_scaled)[0][1])
-
-    # st.write("This app can assist medical professionals in making a diagnosis, but should not be used as a substitute for a professional diagnosis.")
-
 def st_shap(plot, *args, **kwargs):
     shap_html = f"<head>{shap.getjs()}</head><body>{plot(*args, **kwargs).data}</body>"
     st.components.v1.html(shap_html, height=500)
@@ -250,7 +243,8 @@ def run_model_performance():
     import streamlit as st
     st.header("Model Performance")
     st.write('---')
-    st.write('The model is trained using Random Forest Regressor with 10-folShuffleSplit cross validation.')
+    st.write('The model is trained using Random Forest Regressor with 10-fold ShuffleSplit cross validation.')
+    st.write('**The model was able to obtain correlation of all training set >0.9 and testing set >0.74 while maintaining low RMSE and MAE**')
     df = pd.read_csv('./data/eval_df.csv', sep = ',')
     df = df.drop([col for col in df.columns if 'Train' in col], axis=1)
 
