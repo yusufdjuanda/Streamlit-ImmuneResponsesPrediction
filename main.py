@@ -254,7 +254,6 @@ def run_model_performance():
     df = pd.read_csv('./data/eval_df.csv', sep = ',')
     df = df.drop([col for col in df.columns if 'Train' in col], axis=1)
 
-    
     st.table(df)
     st.image('./image/rf_regression.png', use_column_width=True)
 
