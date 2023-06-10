@@ -211,7 +211,7 @@ def playground():
     with st.container():
         st.title("Immune Responses Prediction")
         st.write("""---""")
-        st.write("""This webb app predicts the immune response of an organism based on the characteristics of the nano particle. 
+        st.write("""This web app predicts the immune response of an organism based on the characteristics of the nano particle. 
                  The model is trained using Random Forest Regressor. The data and methods utilized are obtained from the paper **Yu et al., Sci. Adv. 2021; 7 : eabf4130**""")
                  
         # st.write(get_data().columns)
